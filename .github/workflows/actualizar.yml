@@ -1,0 +1,49 @@
+name: Actualizar logos
+
+# Una vez por semana (y a mano, desde Actions): trae lo nuevo de Picons, convierte solo lo que ha cambiado y lo sube.
+on:
+  schedule:
+    - cron: '23 4 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-logos
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: macos-15
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Traer Picons (solo los logos y su índice de nombres)
+        run: |
+          git clone --depth 1 --filter=blob:none --sparse https://github.com/picons/picons.git "$RUNNER_TEMP/picons"
+          git -C "$RUNNER_TEMP/picons" sparse-checkout set --no-cone /build-source/logos/ /build-source/snp.index
+
+      - name: Preparar las herramientas
+        run: |
+          python3 -m venv "$RUNNER_TEMP/venv"
+          "$RUNNER_TEMP/venv/bin/pip" install --quiet pillow==11.3.0
+          swift build -c release --package-path tools/render
+
+      - name: Construir
+        run: |
+          "$RUNNER_TEMP/venv/bin/python" tools/construir.py --picons "$RUNNER_TEMP/picons" --salida . \
+            --render tools/render/.build/release/render
+
+      - name: Subir lo que haya cambiado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A logos index.json fuentes.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios."
+          else
+            git commit -m "Logos al día con Picons"
+            git push
+          fi
