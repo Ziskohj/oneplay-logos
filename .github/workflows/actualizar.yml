@@ -42,7 +42,14 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A logos index.json fuentes.json
           if git diff --cached --quiet; then
-            echo "Sin cambios."
+            # GitHub apaga las tareas programadas de un repositorio público tras 60 días sin cambios en él: si hace más de
+            # 45 que no cambia nada, un cambio vacío para que esta siga viva.
+            if [ $(( $(date +%s) - $(git log -1 --format=%ct) )) -gt $(( 45 * 86400 )) ]; then
+              git commit --allow-empty -m "Sigue al día con Picons"
+              git push
+            else
+              echo "Sin cambios."
+            fi
           else
             git commit -m "Logos al día con Picons"
             git push
