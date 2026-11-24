@@ -144,8 +144,16 @@ def main():
     indice = {'version': 1, 'fuente': 'picons', 'lado': LADO,
               'generado': datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d'),
               'logos': dict(sorted(variantes.items())), 'nombres': dict(sorted(nombres.items()))}
-    with open(os.path.join(a.salida, 'index.json'), 'w') as f:
-        json.dump(indice, f, ensure_ascii=False, separators=(',', ':'))
+    # Sin nada nuevo, el índice no se toca (ni su fecha): la app lo vuelve a bajar y a mirar solo si ha cambiado algo.
+    indice_path = os.path.join(a.salida, 'index.json')
+    try:
+        with open(indice_path) as f:
+            anterior = json.load(f)
+    except (OSError, ValueError):
+        anterior = None
+    if anterior is None or {**anterior, 'generado': None} != {**indice, 'generado': None}:
+        with open(indice_path, 'w') as f:
+            json.dump(indice, f, ensure_ascii=False, separators=(',', ':'))
     with open(fuentes_path, 'w') as f:
         json.dump(dict(sorted(ahora.items())), f, indent=0)
     print(f'logos: {len(ahora)} ficheros, {len(variantes)} distintos ({len(igual_a)} repetidos), {len(nombres)} nombres; rehechos: '
