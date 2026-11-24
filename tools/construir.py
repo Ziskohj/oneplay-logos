@@ -25,6 +25,32 @@ def huellas(picons):
         resultado[ruta] = cabeza.split()[1]
     return resultado
 
+def extras(salida, logos_dir, variantes, nombres):
+    """Lo que no viene de Picons y esta tarea no toca (lo añade OnePlay a mano), al índice:
+    - `extra/genericos.json`: los logos genéricos (`logos/generico/`, ver `tools/genericos/`): palabra de una temática → logo,
+      y las palabras de cine.
+    - `extra/oficiales.json`: logos oficiales de la web de cada canal (`logos/extra/`): [{logo, variantes, nombres, paises}].
+      Un nombre que ya está por Picons se queda con el de Picons.
+    Solo lo que tiene sus ficheros."""
+    def esta(logo, vs):
+        return vs and all(os.path.exists(os.path.join(logos_dir, f'{logo}.{v}.png')) for v in vs)
+    genericos, cine, paises = {}, [], {}
+    ruta = os.path.join(salida, 'extra', 'genericos.json')
+    if os.path.exists(ruta):
+        g = json.load(open(ruta, encoding='utf-8'))
+        for logo, vs in g.get('logos', {}).items():
+            if esta(logo, vs): variantes[logo] = vs
+        genericos = {k: v for k, v in g.get('genericos', {}).items() if v in variantes}
+        cine = sorted(g.get('cine', []))
+    ruta = os.path.join(salida, 'extra', 'oficiales.json')
+    if os.path.exists(ruta):
+        for o in json.load(open(ruta, encoding='utf-8')):
+            if not esta(o['logo'], o['variantes']): continue
+            variantes[o['logo']] = o['variantes']
+            for nombre in o.get('nombres', []): nombres.setdefault(nombre, o['logo'])
+            if o.get('paises'): paises[o['logo']] = sorted(o['paises'])
+    return genericos, cine, paises
+
 def main():
     p = argparse.ArgumentParser()
     p.add_argument('--picons', required=True); p.add_argument('--salida', required=True); p.add_argument('--render', required=True)
@@ -141,9 +167,12 @@ def main():
         nombres.setdefault(logo, logo)
     for repetido, logo in igual_a.items():
         nombres.setdefault(repetido, logo)
+    genericos, cine, paises = extras(a.salida, logos_dir, variantes, nombres)
     indice = {'version': 1, 'fuente': 'picons', 'lado': LADO,
               'generado': datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d'),
               'logos': dict(sorted(variantes.items())), 'nombres': dict(sorted(nombres.items()))}
+    if genericos: indice['genericos'] = dict(sorted(genericos.items())); indice['cine'] = cine
+    if paises: indice['paises'] = dict(sorted(paises.items()))
     # Sin nada nuevo, el índice no se toca (ni su fecha): la app lo vuelve a bajar y a mirar solo si ha cambiado algo.
     indice_path = os.path.join(a.salida, 'index.json')
     try:

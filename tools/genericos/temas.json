@@ -1,0 +1,512 @@
+{
+ "peliculas": {
+  "icono": "movie",
+  "cine": true,
+  "palabras": [
+   "PELÍCULAS",
+   "PELICULAS",
+   "CINE",
+   "MOVIES",
+   "MOVIE",
+   "FILMS",
+   "FILM",
+   "CINEMA",
+   "CINÉMA",
+   "FILME",
+   "FILMES",
+   "KINO",
+   "FILMY",
+   "SİNEMA"
+  ]
+ },
+ "series": {
+  "icono": "live_tv",
+  "palabras": [
+   "SERIES",
+   "SÉRIES",
+   "SERIE",
+   "SERIEN",
+   "SERIALE",
+   "SERIALS",
+   "DİZİ",
+   "DIZI",
+   "SERIALE TV"
+  ]
+ },
+ "comedia": {
+  "icono": "theater_comedy",
+  "palabras": [
+   "COMEDIA",
+   "COMEDY",
+   "COMÉDIE",
+   "COMEDIE",
+   "COMMEDIA",
+   "KOMÖDIE",
+   "KOMEDI",
+   "KOMEDİ",
+   "KOMEDIA",
+   "KOMEDIE",
+   "HUMOR",
+   "HUMOUR",
+   "COMÉDIA"
+  ]
+ },
+ "accion": {
+  "icono": "local_fire_department",
+  "palabras": [
+   "ACCIÓN",
+   "ACCION",
+   "ACTION",
+   "AZIONE",
+   "AÇÃO",
+   "ACAO",
+   "AKSİYON",
+   "AKSIYON",
+   "AKCJA",
+   "ACȚIUNE",
+   "ACTIUNE"
+  ]
+ },
+ "terror": {
+  "icono": "skull",
+  "palabras": [
+   "TERROR",
+   "HORROR",
+   "HORREUR",
+   "KORKU",
+   "SKRÄCK",
+   "GRUSEL"
+  ]
+ },
+ "infantil": {
+  "icono": "cruelty_free",
+  "palabras": [
+   "INFANTIL",
+   "INFANTILES",
+   "NIÑOS",
+   "KIDS",
+   "ENFANTS",
+   "JEUNESSE",
+   "BAMBINI",
+   "RAGAZZI",
+   "KINDER",
+   "ÇOCUK",
+   "COCUK",
+   "DZIECI",
+   "COPII",
+   "BARN",
+   "CRIANÇAS",
+   "CRIANCAS"
+  ]
+ },
+ "documentales": {
+  "icono": "public",
+  "palabras": [
+   "DOCUMENTALES",
+   "DOCUMENTAL",
+   "DOCUMENTARY",
+   "DOCUMENTARIES",
+   "DOCS",
+   "DOCUMENTAIRES",
+   "DOCUMENTAIRE",
+   "DOCUMENTARI",
+   "DOKU",
+   "DOKUS",
+   "DOKUMENTATION",
+   "DOCUMENTÁRIOS",
+   "DOCUMENTARIOS",
+   "BELGESEL",
+   "DOKUMENTY",
+   "DOKUMENTÄR",
+   "DOCUMENTARE"
+  ]
+ },
+ "deportes": {
+  "icono": "sports_soccer",
+  "palabras": [
+   "DEPORTES",
+   "SPORTS",
+   "SPORT",
+   "ESPORTES",
+   "DESPORTO",
+   "SPOR",
+   "DEPORTE"
+  ]
+ },
+ "futbol": {
+  "icono": "sports_soccer",
+  "palabras": [
+   "FÚTBOL",
+   "FUTBOL",
+   "FOOTBALL",
+   "SOCCER",
+   "CALCIO",
+   "FUSSBALL",
+   "FUßBALL",
+   "FUTEBOL",
+   "VOETBAL",
+   "PIŁKA NOŻNA"
+  ]
+ },
+ "baloncesto": {
+  "icono": "sports_basketball",
+  "palabras": [
+   "BALONCESTO",
+   "BASKETBALL",
+   "BASKET",
+   "BASQUET",
+   "BÁSQUET",
+   "BASQUETE"
+  ]
+ },
+ "tenis": {
+  "icono": "sports_tennis",
+  "palabras": [
+   "TENIS",
+   "TENNIS",
+   "TÊNIS"
+  ]
+ },
+ "golf": {
+  "icono": "golf_course",
+  "palabras": [
+   "GOLF"
+  ]
+ },
+ "motor": {
+  "icono": "sports_motorsports",
+  "palabras": [
+   "MOTOR",
+   "MOTORSPORT",
+   "MOTORSPORTS",
+   "MOTORI",
+   "AUTOMOBILISMO"
+  ]
+ },
+ "lucha": {
+  "icono": "sports_mma",
+  "palabras": [
+   "BOXEO",
+   "BOXING",
+   "BOXE",
+   "FIGHT",
+   "LUCHA",
+   "WRESTLING",
+   "MMA"
+  ]
+ },
+ "musica": {
+  "icono": "music_note",
+  "palabras": [
+   "MÚSICA",
+   "MUSICA",
+   "MUSIC",
+   "MUSIQUE",
+   "MUSIK",
+   "MUZIEK",
+   "MÜZİK",
+   "MUZIK",
+   "MUZYKA",
+   "MUZICĂ",
+   "MUZICA"
+  ]
+ },
+ "noticias": {
+  "icono": "newspaper",
+  "palabras": [
+   "NOTICIAS",
+   "NEWS",
+   "INFOS",
+   "NOTIZIE",
+   "NACHRICHTEN",
+   "NIEUWS",
+   "HABER",
+   "HABERLER",
+   "WIADOMOŚCI",
+   "ȘTIRI",
+   "STIRI",
+   "NYHETER",
+   "NOTÍCIAS"
+  ]
+ },
+ "western": {
+  "icono": "landscape",
+  "palabras": [
+   "WESTERN",
+   "WESTERNS",
+   "OESTE"
+  ]
+ },
+ "drama": {
+  "icono": "theaters",
+  "palabras": [
+   "DRAMA",
+   "DRAMAS",
+   "DRAME",
+   "DRAMMA",
+   "DRAMMATICO",
+   "DRAMATICO",
+   "DRAM",
+   "DRAMAT"
+  ]
+ },
+ "romance": {
+  "icono": "favorite",
+  "palabras": [
+   "ROMANCE",
+   "ROMÁNTICO",
+   "ROMANTICO",
+   "ROMANTIC",
+   "ROMANTIQUE",
+   "ROMANTICI",
+   "ROMANTIK",
+   "ROMANTİK",
+   "AMOR",
+   "LOVE",
+   "AMOUR",
+   "AMORE",
+   "LIEBE"
+  ]
+ },
+ "novelas": {
+  "icono": "local_florist",
+  "palabras": [
+   "NOVELAS",
+   "TELENOVELAS",
+   "NOVELA",
+   "TELENOVELA",
+   "SOAP",
+   "SOAPS"
+  ]
+ },
+ "animacion": {
+  "icono": "animation",
+  "palabras": [
+   "ANIMACIÓN",
+   "ANIMACION",
+   "ANIMATION",
+   "ANIMAZIONE",
+   "ANIMAÇÃO",
+   "ANIMACAO",
+   "ANIME",
+   "CARTOONS",
+   "CARTOON",
+   "DIBUJOS",
+   "ANIMADOS",
+   "DESSINS ANIMÉS",
+   "ZEICHENTRICK",
+   "ÇİZGİ FİLM"
+  ]
+ },
+ "cienciaficcion": {
+  "icono": "rocket_launch",
+  "palabras": [
+   "CIENCIA FICCIÓN",
+   "CIENCIA FICCION",
+   "SCI-FI",
+   "SCIFI",
+   "SCIENCE FICTION",
+   "SCIENCE-FICTION",
+   "FANTASCIENZA",
+   "FICÇÃO CIENTÍFICA",
+   "BİLİM KURGU",
+   "FANTASY",
+   "FANTASÍA",
+   "FANTASIA",
+   "FANTASTIQUE"
+  ]
+ },
+ "crimen": {
+  "icono": "fingerprint",
+  "palabras": [
+   "CRIMEN",
+   "CRIME",
+   "CRIMES",
+   "CRIMINAL",
+   "KRIMI",
+   "KRİMİ",
+   "POLICIACO",
+   "POLICÍACO",
+   "POLAR",
+   "GIALLO",
+   "SUÇ"
+  ]
+ },
+ "suspense": {
+  "icono": "mystery",
+  "palabras": [
+   "SUSPENSE",
+   "SUSPENSO",
+   "THRILLER",
+   "THRILLERS",
+   "MISTERIO",
+   "MYSTERY",
+   "MISTERO",
+   "MYSTÈRE"
+  ]
+ },
+ "familia": {
+  "icono": "family_restroom",
+  "palabras": [
+   "FAMILIA",
+   "FAMILY",
+   "FAMILLE",
+   "FAMIGLIA",
+   "FAMILIE",
+   "FAMÍLIA",
+   "AİLE",
+   "AILE",
+   "RODZINA",
+   "FAMILIAR"
+  ]
+ },
+ "clasicos": {
+  "icono": "star",
+  "palabras": [
+   "CLÁSICOS",
+   "CLASICOS",
+   "CLASSICS",
+   "CLASSIC",
+   "CLASSIQUES",
+   "CLASSICI",
+   "KLASSIKER",
+   "CLÁSSICOS",
+   "CLASSICOS",
+   "KLASİK",
+   "KLASIK",
+   "CLASICO",
+   "CLÁSICO"
+  ]
+ },
+ "estrenos": {
+  "icono": "new_releases",
+  "palabras": [
+   "ESTRENOS",
+   "PREMIERES",
+   "PREMIERE",
+   "PREMIÈRES",
+   "ESTREIAS",
+   "PRIME VISIONI",
+   "PREMIERY"
+  ]
+ },
+ "navidad": {
+  "icono": "ac_unit",
+  "palabras": [
+   "NAVIDAD",
+   "CHRISTMAS",
+   "XMAS",
+   "NOËL",
+   "NOEL",
+   "NATALE",
+   "WEIHNACHTEN",
+   "NATAL",
+   "KERST",
+   "KERSTMIS",
+   "JUL",
+   "YILBAŞI"
+  ]
+ },
+ "cocina": {
+  "icono": "restaurant",
+  "palabras": [
+   "COCINA",
+   "COOKING",
+   "FOOD",
+   "CUISINE",
+   "CUCINA",
+   "KOCHEN",
+   "CULINÁRIA",
+   "CULINARIA",
+   "YEMEK",
+   "GOTOWANIE",
+   "GASTRONOMÍA",
+   "GASTRONOMIA"
+  ]
+ },
+ "viajes": {
+  "icono": "flight",
+  "palabras": [
+   "VIAJES",
+   "TRAVEL",
+   "VOYAGE",
+   "VOYAGES",
+   "VIAGGI",
+   "REISEN",
+   "VIAGENS",
+   "SEYAHAT",
+   "PODRÓŻE",
+   "TURISMO"
+  ]
+ },
+ "naturaleza": {
+  "icono": "forest",
+  "palabras": [
+   "NATURALEZA",
+   "NATURE",
+   "NATURA",
+   "NATUR",
+   "NATUREZA",
+   "DOĞA",
+   "DOGA",
+   "NATUUR",
+   "ANIMALES",
+   "ANIMALS",
+   "ANIMAUX",
+   "ANIMALI",
+   "TIERE",
+   "WILDLIFE"
+  ]
+ },
+ "reality": {
+  "icono": "videocam",
+  "palabras": [
+   "REALITY",
+   "REALITIES",
+   "REALITY SHOW",
+   "REALITY SHOWS",
+   "TÉLÉRÉALITÉ",
+   "TELERREALIDAD"
+  ]
+ },
+ "guerra": {
+  "icono": "military_tech",
+  "palabras": [
+   "GUERRA",
+   "WAR",
+   "GUERRE",
+   "KRIEG",
+   "SAVAŞ",
+   "SAVAS",
+   "BÉLICO",
+   "BELICO",
+   "BELLICO"
+  ]
+ },
+ "aventura": {
+  "icono": "explore",
+  "palabras": [
+   "AVENTURA",
+   "AVENTURAS",
+   "ADVENTURE",
+   "ADVENTURES",
+   "AVENTURE",
+   "AVVENTURA",
+   "ABENTEUER",
+   "MACERA"
+  ]
+ },
+ "historia": {
+  "icono": "history",
+  "palabras": [
+   "HISTORIA",
+   "HISTORY",
+   "HISTOIRE",
+   "STORIA",
+   "GESCHICHTE",
+   "TARİH",
+   "TARIH",
+   "HISTÓRIA"
+  ]
+ }
+}

@@ -1,0 +1,1450 @@
+{
+ "logos": {
+  "generico/accion-acao": [
+   "default",
+   "dark"
+  ],
+  "generico/accion-accion": [
+   "default",
+   "dark"
+  ],
+  "generico/accion-action": [
+   "default",
+   "dark"
+  ],
+  "generico/accion-actiune": [
+   "default",
+   "dark"
+  ],
+  "generico/accion-akcja": [
+   "default",
+   "dark"
+  ],
+  "generico/accion-aksiyon": [
+   "default",
+   "dark"
+  ],
+  "generico/accion-azione": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-animacao": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-animacion": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-animados": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-animation": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-animazione": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-anime": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-cartoon": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-cartoons": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-cizgifilm": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-dessinsanimes": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-dibujos": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-zeichentrick": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-abenteuer": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-adventure": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-adventures": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-aventura": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-aventuras": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-aventure": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-avventura": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-macera": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-baloncesto": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-basket": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-basketball": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-basquet": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-basquete": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-bilimkurgu": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-cienciaficcion": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-fantascienza": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-fantasia": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-fantastique": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-fantasy": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-ficcaocientifica": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-sciencefiction": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-scifi": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-clasico": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-clasicos": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-classic": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-classici": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-classicos": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-classics": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-classiques": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-klasik": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-klassiker": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-cocina": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-cooking": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-cucina": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-cuisine": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-culinaria": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-food": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-gastronomia": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-gotowanie": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-kochen": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-yemek": [
+   "default",
+   "dark"
+  ],
+  "generico/comedia-comedia": [
+   "default",
+   "dark"
+  ],
+  "generico/comedia-comedie": [
+   "default",
+   "dark"
+  ],
+  "generico/comedia-comedy": [
+   "default",
+   "dark"
+  ],
+  "generico/comedia-commedia": [
+   "default",
+   "dark"
+  ],
+  "generico/comedia-humor": [
+   "default",
+   "dark"
+  ],
+  "generico/comedia-humour": [
+   "default",
+   "dark"
+  ],
+  "generico/comedia-komedi": [
+   "default",
+   "dark"
+  ],
+  "generico/comedia-komedia": [
+   "default",
+   "dark"
+  ],
+  "generico/comedia-komedie": [
+   "default",
+   "dark"
+  ],
+  "generico/comedia-komodie": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-crime": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-crimen": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-crimes": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-criminal": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-giallo": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-krimi": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-polar": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-policiaco": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-suc": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-deporte": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-deportes": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-desporto": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-esportes": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-spor": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-sport": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-sports": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-belgesel": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-docs": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-documentaire": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-documentaires": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-documental": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-documentales": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-documentare": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-documentari": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-documentaries": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-documentarios": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-documentary": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-doku": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-dokumentar": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-dokumentation": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-dokumenty": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-dokus": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-dram": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-drama": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-dramas": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-dramat": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-dramatico": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-drame": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-dramma": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-drammatico": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-estreias": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-estrenos": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-premiere": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-premieres": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-premiery": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-primevisioni": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-aile": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-famiglia": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-familia": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-familiar": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-familie": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-famille": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-family": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-rodzina": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-calcio": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-football": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-fussball": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-futbol": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-futebol": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-pilkanozna": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-soccer": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-voetbal": [
+   "default",
+   "dark"
+  ],
+  "generico/golf-golf": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-belico": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-bellico": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-guerra": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-guerre": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-krieg": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-savas": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-war": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-geschichte": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-histoire": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-historia": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-history": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-storia": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-tarih": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-bambini": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-barn": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-cocuk": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-copii": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-criancas": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-dzieci": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-enfants": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-infantil": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-infantiles": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-jeunesse": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-kids": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-kinder": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-ninos": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-ragazzi": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-boxe": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-boxeo": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-boxing": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-fight": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-lucha": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-mma": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-wrestling": [
+   "default",
+   "dark"
+  ],
+  "generico/motor-automobilismo": [
+   "default",
+   "dark"
+  ],
+  "generico/motor-motor": [
+   "default",
+   "dark"
+  ],
+  "generico/motor-motori": [
+   "default",
+   "dark"
+  ],
+  "generico/motor-motorsport": [
+   "default",
+   "dark"
+  ],
+  "generico/motor-motorsports": [
+   "default",
+   "dark"
+  ],
+  "generico/musica-music": [
+   "default",
+   "dark"
+  ],
+  "generico/musica-musica": [
+   "default",
+   "dark"
+  ],
+  "generico/musica-musik": [
+   "default",
+   "dark"
+  ],
+  "generico/musica-musique": [
+   "default",
+   "dark"
+  ],
+  "generico/musica-muzica": [
+   "default",
+   "dark"
+  ],
+  "generico/musica-muziek": [
+   "default",
+   "dark"
+  ],
+  "generico/musica-muzik": [
+   "default",
+   "dark"
+  ],
+  "generico/musica-muzyka": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-animales": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-animali": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-animals": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-animaux": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-doga": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-natur": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-natura": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-naturaleza": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-nature": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-natureza": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-natuur": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-tiere": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-wildlife": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-christmas": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-jul": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-kerst": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-kerstmis": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-natal": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-natale": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-navidad": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-noel": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-weihnachten": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-xmas": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-yilbasi": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-haber": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-haberler": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-infos": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-nachrichten": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-news": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-nieuws": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-noticias": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-notizie": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-nyheter": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-stiri": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-wiadomosci": [
+   "default",
+   "dark"
+  ],
+  "generico/novelas-novela": [
+   "default",
+   "dark"
+  ],
+  "generico/novelas-novelas": [
+   "default",
+   "dark"
+  ],
+  "generico/novelas-soap": [
+   "default",
+   "dark"
+  ],
+  "generico/novelas-soaps": [
+   "default",
+   "dark"
+  ],
+  "generico/novelas-telenovela": [
+   "default",
+   "dark"
+  ],
+  "generico/novelas-telenovelas": [
+   "default",
+   "dark"
+  ],
+  "generico/peliculas-cine": [
+   "default",
+   "dark"
+  ],
+  "generico/peliculas-cinema": [
+   "default",
+   "dark"
+  ],
+  "generico/peliculas-film": [
+   "default",
+   "dark"
+  ],
+  "generico/peliculas-filme": [
+   "default",
+   "dark"
+  ],
+  "generico/peliculas-filmes": [
+   "default",
+   "dark"
+  ],
+  "generico/peliculas-films": [
+   "default",
+   "dark"
+  ],
+  "generico/peliculas-filmy": [
+   "default",
+   "dark"
+  ],
+  "generico/peliculas-kino": [
+   "default",
+   "dark"
+  ],
+  "generico/peliculas-movie": [
+   "default",
+   "dark"
+  ],
+  "generico/peliculas-movies": [
+   "default",
+   "dark"
+  ],
+  "generico/peliculas-peliculas": [
+   "default",
+   "dark"
+  ],
+  "generico/peliculas-sinema": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-realities": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-reality": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-realityshow": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-realityshows": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-telerealite": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-telerrealidad": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-amor": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-amore": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-amour": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-liebe": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-love": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-romance": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-romantic": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-romantici": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-romantico": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-romantik": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-romantique": [
+   "default",
+   "dark"
+  ],
+  "generico/series-dizi": [
+   "default",
+   "dark"
+  ],
+  "generico/series-seriale": [
+   "default",
+   "dark"
+  ],
+  "generico/series-serialetv": [
+   "default",
+   "dark"
+  ],
+  "generico/series-serials": [
+   "default",
+   "dark"
+  ],
+  "generico/series-serie": [
+   "default",
+   "dark"
+  ],
+  "generico/series-serien": [
+   "default",
+   "dark"
+  ],
+  "generico/series-series": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-misterio": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-mistero": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-mystere": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-mystery": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-suspense": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-suspenso": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-thriller": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-thrillers": [
+   "default",
+   "dark"
+  ],
+  "generico/tenis-tenis": [
+   "default",
+   "dark"
+  ],
+  "generico/tenis-tennis": [
+   "default",
+   "dark"
+  ],
+  "generico/terror-grusel": [
+   "default",
+   "dark"
+  ],
+  "generico/terror-horreur": [
+   "default",
+   "dark"
+  ],
+  "generico/terror-horror": [
+   "default",
+   "dark"
+  ],
+  "generico/terror-korku": [
+   "default",
+   "dark"
+  ],
+  "generico/terror-skrack": [
+   "default",
+   "dark"
+  ],
+  "generico/terror-terror": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-podroze": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-reisen": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-seyahat": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-travel": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-turismo": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-viagens": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-viaggi": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-viajes": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-voyage": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-voyages": [
+   "default",
+   "dark"
+  ],
+  "generico/western-oeste": [
+   "default",
+   "dark"
+  ],
+  "generico/western-western": [
+   "default",
+   "dark"
+  ],
+  "generico/western-westerns": [
+   "default",
+   "dark"
+  ]
+ },
+ "genericos": {
+  "abenteuer": "generico/aventura-abenteuer",
+  "acao": "generico/accion-acao",
+  "accion": "generico/accion-accion",
+  "action": "generico/accion-action",
+  "actiune": "generico/accion-actiune",
+  "adventure": "generico/aventura-adventure",
+  "adventures": "generico/aventura-adventures",
+  "aile": "generico/familia-aile",
+  "akcja": "generico/accion-akcja",
+  "aksiyon": "generico/accion-aksiyon",
+  "amor": "generico/romance-amor",
+  "amore": "generico/romance-amore",
+  "amour": "generico/romance-amour",
+  "animacao": "generico/animacion-animacao",
+  "animacion": "generico/animacion-animacion",
+  "animados": "generico/animacion-animados",
+  "animales": "generico/naturaleza-animales",
+  "animali": "generico/naturaleza-animali",
+  "animals": "generico/naturaleza-animals",
+  "animation": "generico/animacion-animation",
+  "animaux": "generico/naturaleza-animaux",
+  "animazione": "generico/animacion-animazione",
+  "anime": "generico/animacion-anime",
+  "automobilismo": "generico/motor-automobilismo",
+  "aventura": "generico/aventura-aventura",
+  "aventuras": "generico/aventura-aventuras",
+  "aventure": "generico/aventura-aventure",
+  "avventura": "generico/aventura-avventura",
+  "azione": "generico/accion-azione",
+  "baloncesto": "generico/baloncesto-baloncesto",
+  "bambini": "generico/infantil-bambini",
+  "barn": "generico/infantil-barn",
+  "basket": "generico/baloncesto-basket",
+  "basketball": "generico/baloncesto-basketball",
+  "basquet": "generico/baloncesto-basquet",
+  "basquete": "generico/baloncesto-basquete",
+  "belgesel": "generico/documentales-belgesel",
+  "belico": "generico/guerra-belico",
+  "bellico": "generico/guerra-bellico",
+  "bilimkurgu": "generico/cienciaficcion-bilimkurgu",
+  "boxe": "generico/lucha-boxe",
+  "boxeo": "generico/lucha-boxeo",
+  "boxing": "generico/lucha-boxing",
+  "calcio": "generico/futbol-calcio",
+  "cartoon": "generico/animacion-cartoon",
+  "cartoons": "generico/animacion-cartoons",
+  "christmas": "generico/navidad-christmas",
+  "cienciaficcion": "generico/cienciaficcion-cienciaficcion",
+  "cine": "generico/peliculas-cine",
+  "cinema": "generico/peliculas-cinema",
+  "cizgifilm": "generico/animacion-cizgifilm",
+  "clasico": "generico/clasicos-clasico",
+  "clasicos": "generico/clasicos-clasicos",
+  "classic": "generico/clasicos-classic",
+  "classici": "generico/clasicos-classici",
+  "classicos": "generico/clasicos-classicos",
+  "classics": "generico/clasicos-classics",
+  "classiques": "generico/clasicos-classiques",
+  "cocina": "generico/cocina-cocina",
+  "cocuk": "generico/infantil-cocuk",
+  "comedia": "generico/comedia-comedia",
+  "comedie": "generico/comedia-comedie",
+  "comedy": "generico/comedia-comedy",
+  "commedia": "generico/comedia-commedia",
+  "cooking": "generico/cocina-cooking",
+  "copii": "generico/infantil-copii",
+  "criancas": "generico/infantil-criancas",
+  "crime": "generico/crimen-crime",
+  "crimen": "generico/crimen-crimen",
+  "crimes": "generico/crimen-crimes",
+  "criminal": "generico/crimen-criminal",
+  "cucina": "generico/cocina-cucina",
+  "cuisine": "generico/cocina-cuisine",
+  "culinaria": "generico/cocina-culinaria",
+  "deporte": "generico/deportes-deporte",
+  "deportes": "generico/deportes-deportes",
+  "desporto": "generico/deportes-desporto",
+  "dessinsanimes": "generico/animacion-dessinsanimes",
+  "dibujos": "generico/animacion-dibujos",
+  "dizi": "generico/series-dizi",
+  "docs": "generico/documentales-docs",
+  "documentaire": "generico/documentales-documentaire",
+  "documentaires": "generico/documentales-documentaires",
+  "documental": "generico/documentales-documental",
+  "documentales": "generico/documentales-documentales",
+  "documentare": "generico/documentales-documentare",
+  "documentari": "generico/documentales-documentari",
+  "documentaries": "generico/documentales-documentaries",
+  "documentarios": "generico/documentales-documentarios",
+  "documentary": "generico/documentales-documentary",
+  "doga": "generico/naturaleza-doga",
+  "doku": "generico/documentales-doku",
+  "dokumentar": "generico/documentales-dokumentar",
+  "dokumentation": "generico/documentales-dokumentation",
+  "dokumenty": "generico/documentales-dokumenty",
+  "dokus": "generico/documentales-dokus",
+  "dram": "generico/drama-dram",
+  "drama": "generico/drama-drama",
+  "dramas": "generico/drama-dramas",
+  "dramat": "generico/drama-dramat",
+  "dramatico": "generico/drama-dramatico",
+  "drame": "generico/drama-drame",
+  "dramma": "generico/drama-dramma",
+  "drammatico": "generico/drama-drammatico",
+  "dzieci": "generico/infantil-dzieci",
+  "enfants": "generico/infantil-enfants",
+  "esportes": "generico/deportes-esportes",
+  "estreias": "generico/estrenos-estreias",
+  "estrenos": "generico/estrenos-estrenos",
+  "famiglia": "generico/familia-famiglia",
+  "familia": "generico/familia-familia",
+  "familiar": "generico/familia-familiar",
+  "familie": "generico/familia-familie",
+  "famille": "generico/familia-famille",
+  "family": "generico/familia-family",
+  "fantascienza": "generico/cienciaficcion-fantascienza",
+  "fantasia": "generico/cienciaficcion-fantasia",
+  "fantastique": "generico/cienciaficcion-fantastique",
+  "fantasy": "generico/cienciaficcion-fantasy",
+  "ficcaocientifica": "generico/cienciaficcion-ficcaocientifica",
+  "fight": "generico/lucha-fight",
+  "film": "generico/peliculas-film",
+  "filme": "generico/peliculas-filme",
+  "filmes": "generico/peliculas-filmes",
+  "films": "generico/peliculas-films",
+  "filmy": "generico/peliculas-filmy",
+  "food": "generico/cocina-food",
+  "football": "generico/futbol-football",
+  "fussball": "generico/futbol-fussball",
+  "futbol": "generico/futbol-futbol",
+  "futebol": "generico/futbol-futebol",
+  "gastronomia": "generico/cocina-gastronomia",
+  "geschichte": "generico/historia-geschichte",
+  "giallo": "generico/crimen-giallo",
+  "golf": "generico/golf-golf",
+  "gotowanie": "generico/cocina-gotowanie",
+  "grusel": "generico/terror-grusel",
+  "guerra": "generico/guerra-guerra",
+  "guerre": "generico/guerra-guerre",
+  "haber": "generico/noticias-haber",
+  "haberler": "generico/noticias-haberler",
+  "histoire": "generico/historia-histoire",
+  "historia": "generico/historia-historia",
+  "history": "generico/historia-history",
+  "horreur": "generico/terror-horreur",
+  "horror": "generico/terror-horror",
+  "humor": "generico/comedia-humor",
+  "humour": "generico/comedia-humour",
+  "infantil": "generico/infantil-infantil",
+  "infantiles": "generico/infantil-infantiles",
+  "infos": "generico/noticias-infos",
+  "jeunesse": "generico/infantil-jeunesse",
+  "jul": "generico/navidad-jul",
+  "kerst": "generico/navidad-kerst",
+  "kerstmis": "generico/navidad-kerstmis",
+  "kids": "generico/infantil-kids",
+  "kinder": "generico/infantil-kinder",
+  "kino": "generico/peliculas-kino",
+  "klasik": "generico/clasicos-klasik",
+  "klassiker": "generico/clasicos-klassiker",
+  "kochen": "generico/cocina-kochen",
+  "komedi": "generico/comedia-komedi",
+  "komedia": "generico/comedia-komedia",
+  "komedie": "generico/comedia-komedie",
+  "komodie": "generico/comedia-komodie",
+  "korku": "generico/terror-korku",
+  "krieg": "generico/guerra-krieg",
+  "krimi": "generico/crimen-krimi",
+  "liebe": "generico/romance-liebe",
+  "love": "generico/romance-love",
+  "lucha": "generico/lucha-lucha",
+  "macera": "generico/aventura-macera",
+  "misterio": "generico/suspense-misterio",
+  "mistero": "generico/suspense-mistero",
+  "mma": "generico/lucha-mma",
+  "motor": "generico/motor-motor",
+  "motori": "generico/motor-motori",
+  "motorsport": "generico/motor-motorsport",
+  "motorsports": "generico/motor-motorsports",
+  "movie": "generico/peliculas-movie",
+  "movies": "generico/peliculas-movies",
+  "music": "generico/musica-music",
+  "musica": "generico/musica-musica",
+  "musik": "generico/musica-musik",
+  "musique": "generico/musica-musique",
+  "muzica": "generico/musica-muzica",
+  "muziek": "generico/musica-muziek",
+  "muzik": "generico/musica-muzik",
+  "muzyka": "generico/musica-muzyka",
+  "mystere": "generico/suspense-mystere",
+  "mystery": "generico/suspense-mystery",
+  "nachrichten": "generico/noticias-nachrichten",
+  "natal": "generico/navidad-natal",
+  "natale": "generico/navidad-natale",
+  "natur": "generico/naturaleza-natur",
+  "natura": "generico/naturaleza-natura",
+  "naturaleza": "generico/naturaleza-naturaleza",
+  "nature": "generico/naturaleza-nature",
+  "natureza": "generico/naturaleza-natureza",
+  "natuur": "generico/naturaleza-natuur",
+  "navidad": "generico/navidad-navidad",
+  "news": "generico/noticias-news",
+  "nieuws": "generico/noticias-nieuws",
+  "ninos": "generico/infantil-ninos",
+  "noel": "generico/navidad-noel",
+  "noticias": "generico/noticias-noticias",
+  "notizie": "generico/noticias-notizie",
+  "novela": "generico/novelas-novela",
+  "novelas": "generico/novelas-novelas",
+  "nyheter": "generico/noticias-nyheter",
+  "oeste": "generico/western-oeste",
+  "peliculas": "generico/peliculas-peliculas",
+  "pilkanozna": "generico/futbol-pilkanozna",
+  "podroze": "generico/viajes-podroze",
+  "polar": "generico/crimen-polar",
+  "policiaco": "generico/crimen-policiaco",
+  "premiere": "generico/estrenos-premiere",
+  "premieres": "generico/estrenos-premieres",
+  "premiery": "generico/estrenos-premiery",
+  "primevisioni": "generico/estrenos-primevisioni",
+  "ragazzi": "generico/infantil-ragazzi",
+  "realities": "generico/reality-realities",
+  "reality": "generico/reality-reality",
+  "realityshow": "generico/reality-realityshow",
+  "realityshows": "generico/reality-realityshows",
+  "reisen": "generico/viajes-reisen",
+  "rodzina": "generico/familia-rodzina",
+  "romance": "generico/romance-romance",
+  "romantic": "generico/romance-romantic",
+  "romantici": "generico/romance-romantici",
+  "romantico": "generico/romance-romantico",
+  "romantik": "generico/romance-romantik",
+  "romantique": "generico/romance-romantique",
+  "savas": "generico/guerra-savas",
+  "sciencefiction": "generico/cienciaficcion-sciencefiction",
+  "scifi": "generico/cienciaficcion-scifi",
+  "seriale": "generico/series-seriale",
+  "serialetv": "generico/series-serialetv",
+  "serials": "generico/series-serials",
+  "serie": "generico/series-serie",
+  "serien": "generico/series-serien",
+  "series": "generico/series-series",
+  "seyahat": "generico/viajes-seyahat",
+  "sinema": "generico/peliculas-sinema",
+  "skrack": "generico/terror-skrack",
+  "soap": "generico/novelas-soap",
+  "soaps": "generico/novelas-soaps",
+  "soccer": "generico/futbol-soccer",
+  "spor": "generico/deportes-spor",
+  "sport": "generico/deportes-sport",
+  "sports": "generico/deportes-sports",
+  "stiri": "generico/noticias-stiri",
+  "storia": "generico/historia-storia",
+  "suc": "generico/crimen-suc",
+  "suspense": "generico/suspense-suspense",
+  "suspenso": "generico/suspense-suspenso",
+  "tarih": "generico/historia-tarih",
+  "telenovela": "generico/novelas-telenovela",
+  "telenovelas": "generico/novelas-telenovelas",
+  "telerealite": "generico/reality-telerealite",
+  "telerrealidad": "generico/reality-telerrealidad",
+  "tenis": "generico/tenis-tenis",
+  "tennis": "generico/tenis-tennis",
+  "terror": "generico/terror-terror",
+  "thriller": "generico/suspense-thriller",
+  "thrillers": "generico/suspense-thrillers",
+  "tiere": "generico/naturaleza-tiere",
+  "travel": "generico/viajes-travel",
+  "turismo": "generico/viajes-turismo",
+  "viagens": "generico/viajes-viagens",
+  "viaggi": "generico/viajes-viaggi",
+  "viajes": "generico/viajes-viajes",
+  "voetbal": "generico/futbol-voetbal",
+  "voyage": "generico/viajes-voyage",
+  "voyages": "generico/viajes-voyages",
+  "war": "generico/guerra-war",
+  "weihnachten": "generico/navidad-weihnachten",
+  "western": "generico/western-western",
+  "westerns": "generico/western-westerns",
+  "wiadomosci": "generico/noticias-wiadomosci",
+  "wildlife": "generico/naturaleza-wildlife",
+  "wrestling": "generico/lucha-wrestling",
+  "xmas": "generico/navidad-xmas",
+  "yemek": "generico/cocina-yemek",
+  "yilbasi": "generico/navidad-yilbasi",
+  "zeichentrick": "generico/animacion-zeichentrick"
+ },
+ "cine": [
+  "cine",
+  "cinema",
+  "film",
+  "filme",
+  "filmes",
+  "films",
+  "filmy",
+  "kino",
+  "movie",
+  "movies",
+  "peliculas",
+  "sinema"
+ ]
+}

@@ -11,6 +11,8 @@ Logos de canales de televisión en alta resolución, con el fondo transparente, 
 - `index.json`: los nombres de canal (normalizados: minúsculas, sin espacios ni signos, «+» = «plus», «&» = «and») → el logo,
   y las variantes que tiene cada logo.
 - `fuentes.json`: la huella del fichero de origen de cada logo, para convertir solo lo que cambia.
+- En `index.json` también: `genericos` (palabra de una temática → su logo genérico), `cine` (las palabras de cine) y
+  `paises` (el país de los logos oficiales añadidos a mano).
 
 ## De dónde salen
 
@@ -20,6 +22,14 @@ lleva la misma licencia, GPL-3.0 (ver `LICENSE`).
 
 Se actualiza solo una vez por semana (GitHub Actions, `.github/workflows/actualizar.yml`): trae lo nuevo de Picons, convierte
 lo que ha cambiado, quita lo que ya no está y sube los cambios. También se puede lanzar a mano desde la pestaña Actions.
+
+Además, lo que añade OnePlay a mano (la tarea semanal no lo toca y lo vuelve a poner en el índice):
+
+- `logos/generico/` y `extra/genericos.json`: los logos **genéricos**, uno por temática y palabra («PELÍCULAS», «COMEDY»,
+  «HORREUR»…) para los canales que solo dicen una temática («PELÍCULAS 24/7»). Diseño propio de OnePlay con los iconos de
+  [Material Symbols](https://github.com/google/material-design-icons) (Apache 2.0) y la letra
+  [Inter](https://github.com/rsms/inter) (SIL OFL 1.1). Se generan con `tools/genericos/coleccion.py`.
+- `logos/extra/` y `extra/oficiales.json`: logos oficiales descargados de la web de cada canal, con su país.
 
 Los logos son marcas de sus respectivos propietarios y se usan solo para identificar cada canal.
 
