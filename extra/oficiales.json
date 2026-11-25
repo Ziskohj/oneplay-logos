@@ -1,1 +1,2307 @@
-[]
+[
+ {
+  "logo": "extra/onetoro",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "onetoro"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "OneToro",
+  "origen": "https://onetoro.tv/assets/icon/Logotipo.svg"
+ },
+ {
+  "logo": "extra/surfchannel",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "surfchannel",
+   "surfchanneltv",
+   "avatelsurfchannel",
+   "zapisurfchannel"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Surf Channel",
+  "origen": "https://surfchanneltv.com/wp-content/uploads/2021/03/logo512.png"
+ },
+ {
+  "logo": "extra/flixole",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "canalflixole",
+   "canalflixole1",
+   "canalflixole2",
+   "flixole"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Canal FlixOlé",
+  "origen": "https://flixole.com/wp-content/uploads/2022/03/FlixOle_logo-red_white.png"
+ },
+ {
+  "logo": "extra/laseptima",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "laseptima",
+   "lasep7ima"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "La Séptima",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/3/32/La_S%C3%A9ptima.svg"
+ },
+ {
+  "logo": "extra/hbomaxavances",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "maxavances",
+   "hbomaxavances"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "HBO Max Avances",
+  "origen": "https://beam-images.warnermediacdn.com/2025-06/hbo-max-logo-iridescent-2025.png?host=wbd-dotcom-drupal-prd-us-east-1.s3.amazonaws.com"
+ },
+ {
+  "logo": "extra/dbike",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "dbike",
+   "dbiketv",
+   "dbikechannel",
+   "dbiketvchannel",
+   "avdbike"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "DBike TV Channel",
+  "origen": "https://dbikechannel.es/img/logo.png"
+ },
+ {
+  "logo": "extra/qelloconcerts",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "qelloconcerts",
+   "qello",
+   "tivfiyqelloconcerts",
+   "stingrayqello",
+   "qelloconcertsbystingray"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "Qello Concerts by Stingray",
+  "origen": "https://qello.com/static/images/logos/logo-qello-horizontal.svg"
+ },
+ {
+  "logo": "extra/mypadeltv",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "mypadeltv",
+   "mypadel"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "My Padel TV",
+  "origen": "https://about.mypadel.tv/wp-content/uploads/2022/08/logow1.png"
+ },
+ {
+  "logo": "extra/canalonce",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "oncetv",
+   "canalonce",
+   "canaloncenacional"
+  ],
+  "paises": [
+   "MX"
+  ],
+  "canal": "Canal Once",
+  "origen": "https://canalonce.mx/REST/data/images/canal_once_logo2025_horizontal_blanco_sm.png"
+ },
+ {
+  "logo": "extra/canaldelcongreso",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "canaldelcongreso",
+   "congreso",
+   "canaldelcongresodiputados",
+   "canaldelcongresosenado"
+  ],
+  "paises": [
+   "MX"
+  ],
+  "canal": "Canal del Congreso",
+  "origen": "https://www.canaldelcongreso.gob.mx/images/logo-canal-congreso.png"
+ },
+ {
+  "logo": "extra/adnnoticias",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "adnnoticias",
+   "adn40op1",
+   "adn40op2",
+   "adnnoticiasantesadn40"
+  ],
+  "paises": [
+   "MX"
+  ],
+  "canal": "adn Noticias (antes ADN 40)",
+  "origen": "https://tvazteca-adnnoticias-prod.web.arc-cdn.net/resizer/v2/QJ4ZV254WZA4BOTSBYQLKT4VTQ.png?smart=true&auth=df3fe3e68320b6f3079efdf47b58f45e63269bb744c35cc73caa9359adcf7a1c&width=1200&height=630"
+ },
+ {
+  "logo": "extra/kpbs",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "kpbs"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "KPBS",
+  "origen": "https://cdn.kpbs.org/f7/56/6dab8b9c4cba90e9b2e9eece3300/kpbs-footer-logo.svg"
+ },
+ {
+  "logo": "extra/canal6multimedios",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "canal6delay1hr",
+   "canal6delay2hrs",
+   "multimedioscanal6",
+   "canal6multimedios"
+  ],
+  "paises": [
+   "MX"
+  ],
+  "canal": "Canal 6 Multimedios",
+  "origen": "https://www.multimediostv.com/ (SVG en línea de la página)"
+ },
+ {
+  "logo": "extra/mxnuestrocine",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "mxnuestrocine",
+   "nuestrocine",
+   "mxnuestrocine222"
+  ],
+  "paises": [
+   "MX"
+  ],
+  "canal": "MX Nuestro Cine",
+  "origen": "https://manualdeimagen.canal22.org.mx/descarga/MX_Nuestro_Cine.zip (MX Horizontal/Color/MXNC-color-horizontal.png)"
+ },
+ {
+  "logo": "extra/nplusforo",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "forotv",
+   "nplusforo",
+   "nmasforo",
+   "mexicoltvforo"
+  ],
+  "paises": [
+   "MX"
+  ],
+  "canal": "N+ Foro",
+  "origen": "https://static.nmas.com.mx/Nmas/cms/Logo_Foro_2026_H%201.png"
+ },
+ {
+  "logo": "extra/nplusunivision247",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "noticiasunivision247",
+   "univisionnoticias247",
+   "nplusunivision247",
+   "nplusunivision",
+   "nplusunivision247antesnoticiasunivision247"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "N+ Univision 24/7 (antes Noticias Univision 24/7)",
+  "origen": "https://www.univision.com/noticias (SVG en línea del bloque del canal en vivo)"
+ },
+ {
+  "logo": "extra/cbs8sandiego",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "cbs8desandiego",
+   "cbs8sandiego",
+   "kfmb",
+   "kfmbcbs8",
+   "cbs8sandiegokfmbtv"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "CBS 8 San Diego (KFMB-TV)",
+  "origen": "https://yt3.googleusercontent.com/ytc/AIdro_m9YAhBNPNyDel4Az3QyHAgl7CdszgFQtBrWOB2izVKE2-a=s900-c-k-c0x00ffffff-no-rj"
+ },
+ {
+  "logo": "extra/abc7newyork",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "abcnewyork",
+   "abc7newyork",
+   "wabc",
+   "wabctv",
+   "abc7ny",
+   "abc7newyorkwabctv"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "ABC7 New York (WABC-TV)",
+  "origen": "https://assets-cdn.abcotvs.net/static/images/WABC_white.svg"
+ },
+ {
+  "logo": "extra/kgun9tucson",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "abcchannel9tucson",
+   "kgun9",
+   "kgun",
+   "kgun9tucson",
+   "abc9tucson",
+   "kgun9tucsonabc"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "KGUN 9 Tucson (ABC)",
+  "origen": "https://ewscripps.brightspotcdn.com/fd/83/27982098460486692ddaf757edd3/kgun-main-inapp-logo-1.png"
+ },
+ {
+  "logo": "extra/kold13tucson",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "cbschannel13tucson",
+   "kold",
+   "kold13",
+   "cbs13tucson",
+   "13newstucson",
+   "kold13newstucsoncbs"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "KOLD 13 News Tucson (CBS)",
+  "origen": "https://www.kold.com/pf/resources/images/mastheads/logos/kold.svg?d=613&mxId=00000000"
+ },
+ {
+  "logo": "extra/repretel4",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "repretel4",
+   "canal4repretel",
+   "repretelcanal4"
+  ],
+  "paises": [
+   "CR"
+  ],
+  "canal": "Repretel 4",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/0/0c/RepretelCanal42024.svg"
+ },
+ {
+  "logo": "extra/repretel6",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "repretel6",
+   "canal6repretel",
+   "repretelcanal6"
+  ],
+  "paises": [
+   "CR"
+  ],
+  "canal": "Repretel 6",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/5/54/RepretelCanal62024.svg"
+ },
+ {
+  "logo": "extra/repretel11",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "repretel11",
+   "canal11repretel",
+   "repretelcanal11"
+  ],
+  "paises": [
+   "CR"
+  ],
+  "canal": "Repretel 11",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/5/56/RepretelCanal112024.svg"
+ },
+ {
+  "logo": "extra/tvmarti",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tvmarti",
+   "martitv",
+   "martinoticias"
+  ],
+  "paises": [
+   "CU"
+  ],
+  "canal": "TV Martí",
+  "origen": "https://www.martinoticias.com/Content/responsive/OCB/es-CU/img/logo.svg?cb=244"
+ },
+ {
+  "logo": "extra/rnndo",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "rednacionaldenoticias",
+   "rnncanal27",
+   "rednacionaldenoticiascanal27",
+   "rnnrednacionaldenoticias"
+  ],
+  "paises": [
+   "DO"
+  ],
+  "canal": "RNN (Red Nacional de Noticias)",
+  "origen": "https://rnn.com.do/wp-content/uploads/2025/04/Logo-RNN-Float.png"
+ },
+ {
+  "logo": "extra/nexpa",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nextv",
+   "nexcanal21",
+   "nexttv21"
+  ],
+  "paises": [
+   "PA"
+  ],
+  "canal": "Nex (canal 21)",
+  "origen": "https://nexpanama.com/wp-content/uploads/2019/06/Logo_Nex_512x512.png"
+ },
+ {
+  "logo": "extra/martiniquela1ere",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "martiniquela1ere",
+   "martinique1ere"
+  ],
+  "paises": [
+   "MQ"
+  ],
+  "canal": "Martinique La 1ère",
+  "origen": "https://la1ere.franceinfo.fr/statics/immutable/assets/logo-martinique.Dlbgw1_T.svg"
+ },
+ {
+  "logo": "extra/telemetropole",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "telemetropole",
+   "radiotelemetropole",
+   "metropole"
+  ],
+  "paises": [
+   "HT"
+  ],
+  "canal": "Télé Métropole",
+  "origen": "https://metropole.ht/wp-content/uploads/metropole-Logo-white.png"
+ },
+ {
+  "logo": "extra/telecaraibes",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "telecaraibes",
+   "radiotelecaraibes",
+   "radiotelevisioncaraibes",
+   "rtvc",
+   "telecaraibesrtvc"
+  ],
+  "paises": [
+   "HT"
+  ],
+  "canal": "Télé Caraïbes (RTVC)",
+  "origen": "https://www.radiotelecaraibes.com/wp-content/uploads/2024/11/RTVC-Logo_Blanc.png"
+ },
+ {
+  "logo": "extra/juno7tv",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "juno7tv",
+   "juno7"
+  ],
+  "paises": [
+   "HT"
+  ],
+  "canal": "Juno 7 TV",
+  "origen": "https://www.juno7.ht/wp-content/uploads/2020/12/j7600.png"
+ },
+ {
+  "logo": "extra/pbcjamaica",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "pbcjamaica",
+   "pbcj",
+   "pbcjamaicapbcj"
+  ],
+  "paises": [
+   "JM"
+  ],
+  "canal": "PBC Jamaica (PBCJ)",
+  "origen": "https://pbcjamaica.org/wp-content/uploads/2026/08/pbcj-logo-2025.png"
+ },
+ {
+  "logo": "extra/canal15ucr",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "canal15ucr",
+   "quinceucr",
+   "canal15",
+   "canalucr",
+   "quinceucrcanal15ucr"
+  ],
+  "paises": [
+   "CR"
+  ],
+  "canal": "Quince UCR (Canal 15 UCR)",
+  "origen": "https://quince.ucr.ac.cr/wp-content/uploads/2024/08/Quince-UCR-logo-transp-1.png"
+ },
+ {
+  "logo": "extra/teleginen",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "teleginen",
+   "radioteleginen",
+   "teleginenrtg18"
+  ],
+  "paises": [
+   "HT"
+  ],
+  "canal": "Télé Ginen (RTG 18)",
+  "origen": "https://rtghaiti.com"
+ },
+ {
+  "logo": "extra/rtvd4",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "rtvd",
+   "rtvd4",
+   "rtvd17",
+   "canal4rd",
+   "canal4rtvd",
+   "radiotelevisiondominicana",
+   "certv",
+   "rtvd4radiotelevisiondominicana"
+  ],
+  "paises": [
+   "DO"
+  ],
+  "canal": "RTVD 4 (Radio Televisión Dominicana)",
+  "origen": "https://rtvd.gob.do/wp-content/uploads/2022/06/LOGO-RTVD-FINAL-01-e1656343973481.png"
+ },
+ {
+  "logo": "extra/wsvn",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "wsvn",
+   "wsvnfox",
+   "wsvn7",
+   "7newsmiami",
+   "wsvn7newsmiami"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "WSVN 7 News Miami",
+  "origen": "https://wsvn.com/wp-content/themes/sunbeam/assets/images/logo-wsvn.svg"
+ },
+ {
+  "logo": "extra/wformiami",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "4miami",
+   "cbs4miami",
+   "wfor",
+   "cbsnewsmiami",
+   "cbsnewsmiamiwforcbs4"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "CBS News Miami (WFOR, CBS 4)",
+  "origen": "https://www.cbsnews.com/assets/show/miami/logo-wide-transparent-500.svg"
+ },
+ {
+  "logo": "extra/telelouange",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "telelouange"
+  ],
+  "paises": [
+   "HT"
+  ],
+  "canal": "Télé Louange",
+  "origen": "https://telelouange.com/wp-content/uploads/2026/09/TL-Logowith-back-2025-copy1-copy.png"
+ },
+ {
+  "logo": "extra/tele4veh",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tele4veh",
+   "radiotele4veh"
+  ],
+  "paises": [
+   "HT"
+  ],
+  "canal": "Radio Télé 4VEH",
+  "origen": "https://4veh.org/wp-content/uploads/2023/05/4VEH-LOGO-FR.png"
+ },
+ {
+  "logo": "extra/rth2000",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "rth2000tv",
+   "rthnow",
+   "rth2000rthnow"
+  ],
+  "paises": [
+   "HT"
+  ],
+  "canal": "RTH 2000 (RTH Now)",
+  "origen": "https://rth2000.com/wp-content/uploads/2026/06/newlogo3.png"
+ },
+ {
+  "logo": "extra/tvnpa",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tvnpanama",
+   "tvncanal2",
+   "tvnpanamacanal2"
+  ],
+  "paises": [
+   "PA"
+  ],
+  "canal": "TVN (Panamá, canal 2)",
+  "origen": "https://www.tvn-2.com/tvn/logos/tvn.svg"
+ },
+ {
+  "logo": "extra/wapa",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "wapa",
+   "wapatv",
+   "wapa1",
+   "wapa2",
+   "wapa3",
+   "wapa4",
+   "wapaecd",
+   "wapapuertorico"
+  ],
+  "paises": [
+   "PR"
+  ],
+  "canal": "WAPA TV",
+  "origen": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/3678511e-b939-11ed-8535-57bdf0713b09.png"
+ },
+ {
+  "logo": "extra/wipr",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "wipr",
+   "wiprtv",
+   "wiprcanal6",
+   "wiprpuertorico",
+   "wiprtv1",
+   "wiprtv2"
+  ],
+  "paises": [
+   "PR"
+  ],
+  "canal": "WIPR (canal 6)",
+  "origen": "https://wipr.pr/wp-content/uploads/2024/10/wipr-logo-new.webp"
+ },
+ {
+  "logo": "extra/dsports",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "directvsports",
+   "directvsports1",
+   "directvsportslatam",
+   "dsports"
+  ],
+  "paises": [
+   "EC"
+  ],
+  "canal": "DSports",
+  "origen": "https://assets.directvsports.com/__export/1674156850342/sites/dsports/arte/logo_dsports.svg"
+ },
+ {
+  "logo": "extra/nsctv",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nsctv",
+   "globonsc",
+   "globonsccriciuma",
+   "globonscjoinville",
+   "globonscflorianopolis",
+   "globoflorianopolis",
+   "nsctvflorianopolis",
+   "nsctvjoinville",
+   "nsctvcriciuma",
+   "nsctvblumenau",
+   "nsctvchapeco"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "NSC TV",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/e/e1/NSC_TV_2017.svg"
+ },
+ {
+  "logo": "extra/redeamazonica",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "redeamazonica",
+   "globoamazonas",
+   "globomanaus",
+   "redeamazonicamanaus",
+   "amazonica"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "Rede Amazônica",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/4/40/Logotipo_da_Rede_Amaz%C3%B4nica_2023.svg"
+ },
+ {
+  "logo": "extra/rpcbr",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "globorpc",
+   "globorpctv",
+   "globorpcmaringa",
+   "rpcmaringa",
+   "rpcfozdoigua",
+   "rpcfozdoiguacu",
+   "rpcpontagrossa",
+   "rpccuritiba",
+   "rpclondrina",
+   "rpccascavel",
+   "rpcguarapuava",
+   "rpcparanavai",
+   "rpcparanabrasil"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "RPC (Paraná, Brasil)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/c/c1/RPC_2015.png"
+ },
+ {
+  "logo": "extra/tvtem",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tvtem",
+   "globotvtem",
+   "globotvtembauru",
+   "globobauru",
+   "tvtembauru",
+   "tvtemsorocaba",
+   "globotvtemsorocaba",
+   "tvtemsaojosedoriopreto",
+   "globotvtemsaojosedoriopreto",
+   "tvtemitapetininga"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "TV TEM",
+  "origen": "https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png"
+ },
+ {
+  "logo": "extra/tvtribuna",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tvtribuna",
+   "tvtribunasantos",
+   "globotribunasantos",
+   "globotvtribunasantos"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "TV Tribuna (Santos)",
+  "origen": "https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_TV_Tribuna_%28Santos%29.png"
+ },
+ {
+  "logo": "extra/tvmorena",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tvmorena",
+   "tvmorenams",
+   "tvmorenacampogrande",
+   "globotvmorena",
+   "globotvmorenams",
+   "globocampogrande"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "TV Morena",
+  "origen": "https://upload.wikimedia.org/wikipedia/pt/5/5b/Logotipo_da_TV_Morena.png"
+ },
+ {
+  "logo": "extra/tvliberal",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tvliberal",
+   "tvliberalbelem",
+   "globotvliberal",
+   "globotvliberalbelem",
+   "globotvbelem",
+   "globobelem"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "TV Liberal",
+  "origen": "https://upload.wikimedia.org/wikipedia/pt/8/84/TVLiberal_2026.png"
+ },
+ {
+  "logo": "extra/tvgazetaes",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tvgazetaes",
+   "tvgazetavitoria",
+   "tvgazetaespiritosanto",
+   "globotvgazetavitoria",
+   "globotvgazetevitoria",
+   "globovitoria",
+   "globoespiritosanto"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "TV Gazeta (Espírito Santo)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/2/29/TV_Gazeta_ES_2026.svg"
+ },
+ {
+  "logo": "extra/mtv00s",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "mtv00s",
+   "mtv2000s"
+  ],
+  "paises": [
+   "GB"
+  ],
+  "canal": "MTV 00s",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/d/db/MTV_00s_logo.svg"
+ },
+ {
+  "logo": "extra/mtv80s",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "mtv80s"
+  ],
+  "paises": [
+   "GB"
+  ],
+  "canal": "MTV 80s",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png"
+ },
+ {
+  "logo": "extra/mtv90s",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "mtv90s"
+  ],
+  "paises": [
+   "GB"
+  ],
+  "canal": "MTV 90s",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/9/9e/MTV_90s_2022.svg"
+ },
+ {
+  "logo": "extra/tv21mk",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "rtv21mk",
+   "tv21mk",
+   "tv21macedonia",
+   "tv21macedoniadelnorte"
+  ],
+  "paises": [
+   "MK"
+  ],
+  "canal": "TV21 (Macedonia del Norte)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo_of_TV21_Macedonia.svg"
+ },
+ {
+  "logo": "extra/trondertv",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "trndertv",
+   "trondertv"
+  ],
+  "paises": [
+   "NO"
+  ],
+  "canal": "Trønder TV",
+  "origen": "https://tvkiosken.image-service.eu-north-1-prod.vmnd.tv/api/v2/img/6ae081e2e4b0ce825a97f4ff?location=main&width=1200"
+ },
+ {
+  "logo": "extra/nhgooi",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nhgooi",
+   "nhgooitv",
+   "nhgooitelevisie",
+   "gooienmeer"
+  ],
+  "paises": [
+   "NL"
+  ],
+  "canal": "NH Gooi",
+  "origen": "https://gooienmeer.nl/images/logo-gooienmeer-televisie.svg"
+ },
+ {
+  "logo": "extra/rtvzulthe",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "omroepzulthetv",
+   "zulthetv"
+  ],
+  "paises": [
+   "NL"
+  ],
+  "canal": "RTV Zulthe",
+  "origen": "https://rtvzulthe.nl/wp-content/uploads/2023/06/cropped-Logo-RTV-Zulthe-.png"
+ },
+ {
+  "logo": "extra/szekelyfoldtv",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "szekelyfoldtv",
+   "szekelyfoldtelevizio"
+  ],
+  "paises": [
+   "RO"
+  ],
+  "canal": "Székelyföld Televízió",
+  "origen": "https://szekelyfold.tv/sites/default/files/szekelyfold_televizo_logo_0.png"
+ },
+ {
+  "logo": "extra/golfpass",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "golfpass"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "GolfPass",
+  "origen": "https://golf-pass.brightspotcdn.com/21/99/e00f30a14ae1a6bb6007a1b3c239/gp-primary-logo-rgb-inverse.svg"
+ },
+ {
+  "logo": "extra/gsn",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "gameshownetwork",
+   "gameshownetworkgsn"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "Game Show Network (GSN)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Game_Show_Network_2018.svg"
+ },
+ {
+  "logo": "extra/telemundo51",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "telemundo51miami",
+   "telemundo51wscvmiami",
+   "telemundo51miamiwscv",
+   "telemundo51"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "Telemundo 51 Miami (WSCV)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/0/05/Telemundo_51_%282018%29.svg"
+ },
+ {
+  "logo": "extra/peachtreetv",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "peachtree",
+   "peachtreetv",
+   "wpch",
+   "peachtreetvwpchatlanta"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "Peachtree TV (WPCH Atlanta)",
+  "origen": "https://www.peachtreetv.com/pf/resources/images/logos/wpch.svg?d=39&mxId=ab0e421d"
+ },
+ {
+  "logo": "extra/rogerstv",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "rogerstvlondon",
+   "rogerstv"
+  ],
+  "paises": [
+   "CA"
+  ],
+  "canal": "Rogers tv",
+  "origen": "https://www.rogerstv.com/images/Rogerstv_ENG_rgb.png"
+ },
+ {
+  "logo": "extra/tvrogers",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tvrogersottawa",
+   "tvrogers"
+  ],
+  "paises": [
+   "CA"
+  ],
+  "canal": "TV Rogers",
+  "origen": "https://www.rogerstv.com/images/Rogerstv_FR_rgb.png"
+ },
+ {
+  "logo": "extra/nbc6johnstown",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nbc6johnstown",
+   "nbc6wjacjohnstown",
+   "wjac",
+   "wjac6nbcjohnstown"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "WJAC 6 (NBC Johnstown)",
+  "origen": "https://wjactv.com/resources/assets/wjac/images/logos/wjac-logo.svg"
+ },
+ {
+  "logo": "extra/nbc7hattiesburg",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nbc7hattiesburg",
+   "nbc7wdamhattiesburg",
+   "wdam",
+   "wdam7",
+   "wdam7nbchattiesburg"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "WDAM 7 (NBC Hattiesburg)",
+  "origen": "https://www.wdam.com/pf/resources/images/mastheads/logos/wdam.svg?d=613&mxId=00000000"
+ },
+ {
+  "logo": "extra/nbc10rhodeisland",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nbc10rhodeisland",
+   "nbc10wjarrhodeisland",
+   "nbcprovidencenewbedfordnewswjar",
+   "nbcprovidencenewbedfordnews",
+   "wjar",
+   "nbc10wjarprovidence"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "NBC 10 WJAR (Providence)",
+  "origen": "https://turnto10.com/resources/assets/wjar/images/logos/wjar-logo.svg"
+ },
+ {
+  "logo": "extra/nbc18lexington",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nbc18lexington",
+   "nbc18wlexlexington",
+   "nbclexingtonnewswlex",
+   "nbclexingtonnews",
+   "lexingtonkywlexnbc18",
+   "lex18wlexlexington"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "LEX 18 (WLEX Lexington)",
+  "origen": "https://ewscripps.brightspotcdn.com/f2/c3/3b1290384bfdb045bf8795db80ee/lex18-logo.png"
+ },
+ {
+  "logo": "extra/nbcmontana",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nbc13missoula",
+   "nbc13montana",
+   "nbc13kecimissoula",
+   "nbc13ktvmmontana",
+   "missoulamtkecinbc13",
+   "nbcmontana",
+   "nbcmontanakeciktvm"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "NBC Montana (KECI/KTVM)",
+  "origen": "https://nbcmontana.com/resources/assets/keci/images/logos/keci-logo.svg"
+ },
+ {
+  "logo": "extra/nbc15mobile",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nbc15mobilealabama",
+   "nbc15wpmimobilealabama",
+   "nbc15mobile",
+   "wpmi",
+   "nbc15newswpmimobile"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "NBC 15 News (WPMI Mobile)",
+  "origen": "https://mynbc15.com/resources/assets/wpmi/images/logos/wpmi-logo.svg"
+ },
+ {
+  "logo": "extra/nbc16eugene",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nbc16eugene",
+   "nbc16kmtreugene",
+   "eugeneorkmtrnbc16",
+   "kmtr",
+   "kmtr16nbceugene"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "KMTR 16 (NBC Eugene)",
+  "origen": "https://nbc16.com/resources/assets/kmtr/images/logos/kmtr-logo.svg"
+ },
+ {
+  "logo": "extra/nbc24toledo",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nbc24toledo",
+   "nbc24wnwotoledo",
+   "nbcwnwotoledooh",
+   "wnwo",
+   "nbc24newswnwotoledo"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "NBC 24 News (WNWO Toledo)",
+  "origen": "https://nbc24.com/resources/assets/wnwo/images/logos/wnwo-logo.svg"
+ },
+ {
+  "logo": "extra/krnvreno",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nbc7reno",
+   "nbc7krnvreno",
+   "krnv",
+   "news4reno",
+   "news4krnvnbcreno"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "News 4 KRNV (NBC Reno)",
+  "origen": "https://mynews4.com/resources/assets/krnv/images/logos/krnv-logo.svg"
+ },
+ {
+  "logo": "extra/nbc4nashville",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nbc4nashville",
+   "nbc4wsmvnashville",
+   "nbcwsmvnashvilletn",
+   "wsmv4news",
+   "wsmv4",
+   "wsmv",
+   "wsmv4nbcnashville"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "WSMV 4 (NBC Nashville)",
+  "origen": "https://www.wsmv.com/pf/resources/images/mastheads/logos/wsmv.svg?d=613&mxId=00000000"
+ },
+ {
+  "logo": "extra/nbc7lakecharles",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nbc7lakecharles",
+   "nbc7kplclakecharles",
+   "lakecharleslakplcnbc7",
+   "kplc",
+   "kplc7nbclakecharles"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "KPLC 7 (NBC Lake Charles)",
+  "origen": "https://www.kplctv.com/pf/resources/images/mastheads/logos/kplc.svg?d=613&mxId=00000000"
+ },
+ {
+  "logo": "extra/nbc10rochester",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nbc10rochester",
+   "nbc10kttcrochester",
+   "kttc",
+   "kttcnbcrochestermn"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "KTTC (NBC Rochester MN)",
+  "origen": "https://www.kttc.com/pf/resources/images/mastheads/logos/kttc.svg?d=613&mxId=00000000"
+ },
+ {
+  "logo": "extra/nbc10albany",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nbc10albany",
+   "nbc10walbalbany",
+   "walb",
+   "walbnews10nbcalbanyga"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "WALB News 10 (NBC Albany GA)",
+  "origen": "https://www.walb.com/pf/resources/images/mastheads/logos/walb.svg?d=613&mxId=00000000"
+ },
+ {
+  "logo": "extra/nbc25peoria",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nbc25peoria",
+   "nbc25weekpeoria",
+   "week25",
+   "25newsweeknbcpeoria"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "25 News WEEK (NBC Peoria)",
+  "origen": "https://www.week.com/pf/resources/images/mastheads/logos/week.svg?d=613&mxId=00000000"
+ },
+ {
+  "logo": "extra/nbc29charlottesville",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nbc29charlottesville",
+   "nbc29wvircharlottesville",
+   "wvir"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "NBC29 (WVIR Charlottesville)",
+  "origen": "https://www.nbc29.com/pf/resources/images/mastheads/logos/wvir.svg"
+ },
+ {
+  "logo": "extra/nbc41kansascity",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nbc41kansascity",
+   "nbc41kshbkansascity",
+   "nbckansascitykshb",
+   "nbckansascity",
+   "nbckshb",
+   "nbckshbkansascitymo",
+   "kshb",
+   "kshb41nbckansascity"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "KSHB 41 (NBC Kansas City)",
+  "origen": "https://ewscripps.brightspotcdn.com/0b/68/8a79fd954e24be88a6d226e9e899/kshb-main-logo.png"
+ },
+ {
+  "logo": "extra/nbc26greenbay",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nbc26greenbay",
+   "nbc26wgbagreenbay",
+   "nbc26wgbafonddulac",
+   "nbcgreenbaynewswgba",
+   "nbcgreenbaynews",
+   "greenbaywiwgbanbc26",
+   "wgba"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "NBC 26 (WGBA Green Bay)",
+  "origen": "https://ewscripps.brightspotcdn.com/12/d7/5e49c4284abe9859bf2774944ffe/main-logo.png"
+ },
+ {
+  "logo": "extra/nbc9tupelo",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nbc9tupelo",
+   "nbc9wtvatupelo",
+   "wtva",
+   "wtvanbctupelo"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "WTVA (NBC Tupelo)",
+  "origen": "https://www.wtva.com/pf/resources/images/mastheads/logos/wtva.svg?d=613&mxId=00000000"
+ },
+ {
+  "logo": "extra/nbc40bowlinggreen",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nbc40bowlinggreen",
+   "nbc40wnkybowlinggreen",
+   "cbs40wnkydt2bowlinggreen",
+   "wnky",
+   "wnkynews40bowlinggreen"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "WNKY News 40 (Bowling Green)",
+  "origen": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wnky.com/content/uploads/2024/03/c/t/wnky-news-40-logo-call-letters.png"
+ },
+ {
+  "logo": "extra/fox29westpalmbeach",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "fox29westpalmbeach",
+   "fox29wflxwestpalmbeach",
+   "wflx"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "FOX 29 WFLX (West Palm Beach)",
+  "origen": "https://www.wflx.com/pf/resources/images/mastheads/logos/wflx.svg?d=613&mxId=00000000"
+ },
+ {
+  "logo": "extra/fox11reno",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "fox11reno",
+   "fox11krxireno",
+   "foxkrxireno",
+   "krxi"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "FOX 11 KRXI (Reno)",
+  "origen": "https://foxreno.com/resources/assets/krxi/images/logos/krxi_logo_w.svg"
+ },
+ {
+  "logo": "extra/cbs3wilmington",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "cbs3wilmington",
+   "cbs3wwaywilmington",
+   "cbs3wwaydt2wilmington",
+   "wway",
+   "wway3",
+   "wway3wilmingtonnc"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "WWAY 3 (Wilmington NC)",
+  "origen": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wwaytv3.com/content/uploads/2025/01/e/y/new-wway-logo-with-affiliates.png"
+ },
+ {
+  "logo": "extra/komo4seattle",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "seattlewakomoabc4",
+   "abc4komoseattle",
+   "abcseattlekomo",
+   "abckomo",
+   "komo",
+   "komonews",
+   "komonewsabc4seattle"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "KOMO News (ABC 4 Seattle)",
+  "origen": "https://komonews.com/resources/assets/komo/images/logos/komo-logo.svg"
+ },
+ {
+  "logo": "extra/kutv2saltlake",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "saltlakecityutkutvcbs2",
+   "cbs2kutvsaltlakecity",
+   "cbssaltlakecitykutv",
+   "kutv",
+   "2kutvcbssaltlakecity"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "2 KUTV (CBS Salt Lake City)",
+  "origen": "https://kutv.com/resources/assets/kutv/images/logos/kutv-logo.svg"
+ },
+ {
+  "logo": "extra/wgxamacon",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "macongawgxafox24",
+   "macongawgxad2abc25",
+   "fox24wgxamacon",
+   "foxwgxamacon",
+   "wgxa",
+   "wgxanewsfox24abcmacon"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "WGXA News (FOX 24 / ABC Macon)",
+  "origen": "https://wgxa.tv/resources/assets/wgxa/images/logos/wgxa-logo.svg"
+ },
+ {
+  "logo": "extra/wtov9wheeling",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "wheelingwvwtovnbc9",
+   "wheelingwvwtovd2fox10",
+   "nbc9wtovsteubenville",
+   "wtov",
+   "wtov9nbcfoxsteubenvillewheeling"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "WTOV 9 (NBC/FOX Steubenville-Wheeling)",
+  "origen": "https://wtov9.com/resources/assets/wtov/images/logos/wtov-logo.svg"
+ },
+ {
+  "logo": "extra/kval13eugene",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "eugeneorkvalcbs13",
+   "cbs13kvaleugene",
+   "kval",
+   "kval13cbseugene"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "KVAL 13 (CBS Eugene)",
+  "origen": "https://kval.com/resources/assets/kval/images/logos/kval-logo.svg"
+ },
+ {
+  "logo": "extra/katv7littlerock",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "littlerockarkatvabc7",
+   "abc7littlerockarkatv",
+   "katv",
+   "katvabc7littlerock"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "KATV ABC 7 (Little Rock)",
+  "origen": "https://katv.com/resources/assets/katv/images/logos/katv-logo.svg"
+ },
+ {
+  "logo": "extra/wtvc9chattanooga",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "chattanoogatnwtvcabc9",
+   "chattanoogatnwtvcd2fox10",
+   "wtvc",
+   "newschannel9",
+   "newschannel9wtvcabcchattanooga"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "NewsChannel 9 WTVC (ABC Chattanooga)",
+  "origen": "https://newschannel9.com/resources/assets/wtvc/images/logos/wtvc-logo.svg"
+ },
+ {
+  "logo": "extra/wluk11greenbay",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "greenbaywiwlukfox11",
+   "fox11wlukgreenbay",
+   "foxwlukgreenbay",
+   "foxgreenbaynewswluk",
+   "foxgreenbaynews",
+   "wluk",
+   "fox11newswlukgreenbay"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "FOX 11 News WLUK (Green Bay)",
+  "origen": "https://fox11online.com/resources/assets/wluk/images/logos/wluk-logo.svg"
+ },
+ {
+  "logo": "extra/kmov4stlouis",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "stlouismokmovcbs4",
+   "stlouismokmovd2abc30",
+   "cbs4kmovstlouis",
+   "kmov",
+   "firstalert4kmovcbsstlouis"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "First Alert 4 KMOV (CBS St. Louis)",
+  "origen": "https://www.kmov.com/pf/resources/images/mastheads/logos/kmov.svg?d=613&mxId=00000000"
+ },
+ {
+  "logo": "extra/wkyt27lexington",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "lexingtonkywkytcbs27",
+   "cbs27wkytlexington",
+   "wkyt",
+   "wkytcbs27lexington"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "WKYT (CBS 27 Lexington)",
+  "origen": "https://www.wkyt.com/pf/resources/images/mastheads/logos/wkyt.svg?d=613&mxId=00000000"
+ },
+ {
+  "logo": "extra/wbay2greenbay",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "greenbaywiwbayabc2",
+   "abc2wbaygreenbay",
+   "wbay",
+   "actionnews2wbayabcgreenbay"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "Action News 2 WBAY (ABC Green Bay)",
+  "origen": "https://www.wbay.com/pf/resources/images/mastheads/logos/wbay.svg?d=613&mxId=00000000"
+ },
+ {
+  "logo": "extra/kwqc6davenport",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "davenportiakwqcnbc6",
+   "nbc6kwqcdavenport",
+   "nbc6kwqcdavenportrockislandmoline",
+   "kwqc",
+   "kwqc6nbcdavenport"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "KWQC 6 (NBC Davenport)",
+  "origen": "https://www.kwqc.com/pf/resources/images/mastheads/logos/kwqc.svg?d=613&mxId=00000000"
+ },
+ {
+  "logo": "extra/noticiastelemundoahora",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "noticiastelemundoahora",
+   "telemundoahora"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "Noticias Telemundo Ahora",
+  "origen": "https://www.telemundo.com/noticias"
+ },
+ {
+  "logo": "extra/paramountpluswithshowtime",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "paramountpluswithshowtime",
+   "paramountpluswithshowtimeeast",
+   "paramountpluswithshowtimewest"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "Paramount+ with Showtime",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/0/09/Paramount%2B_with_Showtime_logo.svg"
+ },
+ {
+  "logo": "extra/msgsn",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "msgsn",
+   "gtmsgsnzone1",
+   "gtmsgsnzone2",
+   "gtmsgsnzone3",
+   "msgsportsnet",
+   "msgsportsnetmsgsn"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "MSG Sportsnet (MSGSN)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Msg-sportsnet.png"
+ },
+ {
+  "logo": "extra/wbbj7jackson",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "jacksontnwbbjabc7",
+   "jacksontnwbbjd2cbs8",
+   "cbs7wbbjdt3jackson",
+   "wbbj",
+   "7wbbjabcjacksontn"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "7 WBBJ (ABC Jackson TN)",
+  "origen": "https://www.wbbjtv.com/pf/resources/images/mastheads/logos/wbbj.svg?d=613&mxId=00000000"
+ },
+ {
+  "logo": "extra/fox13saltlake",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "saltlakecityutkstufox13",
+   "fox13kstusaltlakecity",
+   "foxsaltlakecitynewskstu",
+   "foxsaltlakecitynews",
+   "kstu"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "FOX 13 KSTU (Salt Lake City)",
+  "origen": "https://ewscripps.brightspotcdn.com/20/0d/7f7fbec4446e99924c9d79851e6a/kstu-main-logo.png"
+ },
+ {
+  "logo": "extra/mexicanal",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "mexicanal"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "Mexicanal",
+  "origen": "https://mexicanal.com/themes/custom/mexicanalbs5/images/logo-mexicanal-h.svg"
+ },
+ {
+  "logo": "extra/kqed",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "sanfranciscocakqedpbs9",
+   "kqed",
+   "kqedpbs",
+   "kqedpbssanfrancisco"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "KQED (PBS San Francisco)",
+  "origen": "https://cdn.kqed.org/wp-content/uploads/2023/04/KQED-logo_Black-01.png"
+ },
+ {
+  "logo": "extra/wttw",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "chicagoilwttwpbs11",
+   "wttw",
+   "wttw11",
+   "wttwpbschicago"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "WTTW (PBS Chicago)",
+  "origen": "https://www.wttw.com/global/wttw-header-full/img/wttw-logo-svg.svg"
+ },
+ {
+  "logo": "extra/pbsutah",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "saltlakecityutkuedpbs7",
+   "kued",
+   "pbsutah",
+   "pbsutahkued"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "PBS Utah (KUED)",
+  "origen": "https://image.pbs.org/bento3-prod/pbsutah/images/%20global%20/PBS%20Utah%20logos/0bdeaec6f3_PBS-Utah-station-RGB-PNG.png"
+ },
+ {
+  "logo": "extra/thirteen",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "newyorknywnetpbs13",
+   "wnet",
+   "thirteen",
+   "thirteenpbs",
+   "thirteenwnetpbsnuevayork"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "THIRTEEN (WNET PBS Nueva York)",
+  "origen": "https://www.thirteen.org/wp-content/plugins/wnet-station-wrappers/libs/images/THIRTEEN/station-logo-svg.svg"
+ },
+ {
+  "logo": "extra/ninepbs",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "stlouismoketcpbs9",
+   "ketc",
+   "ninepbs",
+   "ninepbsketcstlouis"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "Nine PBS (KETC St. Louis)",
+  "origen": "https://image.pbs.org/bento3-prod/ketc-bento-live-pbs/ninenet/general/2414b8c255_NinePBS-logo-main.png"
+ },
+ {
+  "logo": "extra/torole",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "torole",
+   "toroletv"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Torolé TV",
+  "origen": "https://toroletv.com/wp-content/uploads/2025/03/torole_logotipo_blanco.png"
+ },
+ {
+  "logo": "extra/comarcaltv",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "comarcal",
+   "comarcal2",
+   "comarcaltv"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Comarcal TV",
+  "origen": "https://comarcal.tv/wp-content/uploads/2022/02/cropped-logo-comarcaltv.fw_-1.png"
+ },
+ {
+  "logo": "extra/acontrapluscine",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "acontrapluscine",
+   "acontraplus"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Acontra+ Cine",
+  "origen": "https://www.acontraplus.com/assets/customer/logo-footer.png"
+ },
+ {
+  "logo": "extra/pocoyo",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "pocoyo",
+   "pocoyotv"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Pocoyó",
+  "origen": "https://www.pocoyo.com/es"
+ },
+ {
+  "logo": "extra/oficiosperdidos",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "oficiosperdidos",
+   "tivfiyoficiosperdidos"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Oficios Perdidos",
+  "origen": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/66e60d7b-1fbc-4a30-89ff-eb5a3f69265e.png"
+ },
+ {
+  "logo": "extra/vivirconperros",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "vivirconperros",
+   "tivfiyvivirconperros"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Vivir con perros",
+  "origen": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/1f801d8a-4629-470a-a79f-bef0c960033e.png"
+ },
+ {
+  "logo": "extra/vivircongatos",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "vivircongatos",
+   "tivfiyvivircongatos",
+   "test6vivircongatos"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Vivir con gatos",
+  "origen": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/fded11b5-5333-4785-8e91-761bd81a9a4b.png"
+ },
+ {
+  "logo": "extra/rakutentvcrimen",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "rakutentvcrimeseries",
+   "rakutentvcrimen",
+   "crimenrakutentv"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Rakuten TV Crimen",
+  "origen": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png"
+ },
+ {
+  "logo": "extra/rakutentvthrillers",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "rakutentvthrillermovies",
+   "rakutentvthrillers",
+   "thrillersrakutentv"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Rakuten TV Thrillers",
+  "origen": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/71338730-9b8c-4ef6-9ab9-2c3cfcdf7dfd.png"
+ },
+ {
+  "logo": "extra/rakutentvscifi",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "rakutentvscifimovies",
+   "rakutentvscifi",
+   "scifirakutentv"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Rakuten TV Sci-Fi",
+  "origen": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/04ac7530-32fc-45cb-b8f8-7f73f34105e4.png"
+ },
+ {
+  "logo": "extra/rakutentvcineespanol",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "rakutentvcineespanol",
+   "cineespanolrakutentv"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Rakuten TV Cine Español",
+  "origen": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/2da65634-f27e-48f9-8f3b-a03bd31cbade.png"
+ },
+ {
+  "logo": "extra/rakutentvromanticas",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "rakutentvromancemovies",
+   "rakutentvromantico",
+   "peliculasromanticasrakutentv",
+   "rakutentvpeliculasromanticas"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Rakuten TV Películas Románticas",
+  "origen": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6a3d067c-8cb2-4581-84e1-f284ee948e3a.png"
+ },
+ {
+  "logo": "extra/rakutentvaccion",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "rakutentvaccion",
+   "peliculasdeaccionrakutentv"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Rakuten TV Acción",
+  "origen": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6b4cf5b7-bb4d-439a-9779-f83fd1bde012.png"
+ },
+ {
+  "logo": "extra/ufcfightpass",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "ufcfightpass",
+   "ufcfight",
+   "ufcfightpassenglish"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "UFC Fight Pass",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/9/99/UFC_Fight_Pass_Logo.svg"
+ },
+ {
+  "logo": "extra/peluchetv",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "peluche",
+   "peluchetv",
+   "avpeluche"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Peluche TV",
+  "origen": "https://peluchetv.es/wp-content/uploads/2022/08/cropped-Sin-titulo-1-1.png"
+ },
+ {
+  "logo": "extra/laligaplus",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "laligaplus",
+   "laligaplusplus"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "LALIGA+",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/b/b6/LaLiga%2B_2023_Logo.svg"
+ },
+ {
+  "logo": "extra/imperiatv",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "imperiatv"
+  ],
+  "paises": [
+   "BA"
+  ],
+  "canal": "Imperia TV",
+  "origen": "https://imperiatv.ba/assets/images/image01.png?v=38363b8a"
+ },
+ {
+  "logo": "extra/rugbypasstv",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "rugbypasstv",
+   "rptv"
+  ],
+  "paises": [
+   "IE"
+  ],
+  "canal": "RugbyPass TV",
+  "origen": "https://static.diceplatform.com/prod/original/dce.worldrugby/settings/RPTV_App_Logo.kL6Ib.ARv8B.png"
+ },
+ {
+  "logo": "extra/tv1rwanda",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tv1rwanda"
+  ],
+  "paises": [
+   "RW"
+  ],
+  "canal": "TV1 Rwanda",
+  "origen": "https://static.wixstatic.com/media/5d2bbd_939383bfc46543ed9853c1bb1b6a3726~mv2.png"
+ },
+ {
+  "logo": "extra/russkiyillyuzion",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "russkijilluzion",
+   "russkiyillyuzion",
+   "russkiyilluzion"
+  ],
+  "paises": [
+   "RU"
+  ],
+  "canal": "Русский Иллюзион (Russkiy Illyuzion)",
+  "origen": "https://tv-stream.ru/uploads/LOGO_RUSSKI_ILLUSION_300x300_belaya_nadpis_bf458e37d8.svg"
+ },
+ {
+  "logo": "extra/illyuzionplus",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "illuzionplus",
+   "illyuzionplus",
+   "plusillyuzionplus"
+  ],
+  "paises": [
+   "RU"
+  ],
+  "canal": "Иллюзион+ (Illyuzion+)",
+  "origen": "https://tv-stream.ru/uploads/illusionplus_white_a3d0481a4f.svg"
+ },
+ {
+  "logo": "extra/telekafe",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "telekafe",
+   "telecafe"
+  ],
+  "paises": [
+   "RU"
+  ],
+  "canal": "Телекафе (Telekafe)",
+  "origen": "https://www.telecafe.ru/images/icons/favicon.svg"
+ },
+ {
+  "logo": "extra/ruposhibangla",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "ruposhibangla",
+   "ruposhibanglatv"
+  ],
+  "paises": [
+   "BD"
+  ],
+  "canal": "Ruposhi Bangla TV",
+  "origen": "https://ruposhibangla.tv/wp-content/uploads/2023/05/Logo-png-RBTV-2048x1469.png"
+ },
+ {
+  "logo": "extra/sovershennosekretno",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "sovershennosekretno",
+   "sovershennosekretnotv",
+   "topsecret"
+  ],
+  "paises": [
+   "RU"
+  ],
+  "canal": "Совершенно секретно (TOP SECRET)",
+  "origen": "https://static.tildacdn.com/tild6461-3031-4332-b265-646333386330/logo.png"
+ },
+ {
+  "logo": "extra/mtvhits",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "mtvhits"
+  ],
+  "paises": [
+   "GB"
+  ],
+  "canal": "MTV Hits",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/d/d6/MTV_Hits_2021.svg"
+ },
+ {
+  "logo": "extra/gbcghana",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "ghanabroadcasting",
+   "ghanabroadcastingcorporation",
+   "gbcghana",
+   "gbcghanabroadcastingcorporation"
+  ],
+  "paises": [
+   "GH"
+  ],
+  "canal": "GBC (Ghana Broadcasting Corporation)",
+  "origen": "https://www.gbcghanaonline.com/wp-content/uploads/2020/07/cropped-gbc_header.png"
+ }
+]
