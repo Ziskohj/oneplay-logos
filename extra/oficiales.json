@@ -3507,5 +3507,260 @@
   ],
   "canal": "Nex (NEXtv, canal 21)",
   "origen": "https://nexpanama.com/wp-content/uploads/2019/06/Logo_Nex_512x512.png"
+ },
+ {
+  "logo": "extra/npynoticiasparaguay",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "npynoticiasparaguay",
+   "noticiasparaguay"
+  ],
+  "paises": [
+   "PY"
+  ],
+  "canal": "NPY (Noticias Paraguay)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/d/d9/NPY_Logo2023.png"
+ },
+ {
+  "logo": "extra/dsports2antesdirectvsports2",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "dsports2antesdirectvsports2",
+   "directvsports2"
+  ],
+  "paises": [
+   "AR"
+  ],
+  "canal": "DSports 2 (antes DirecTV Sports 2)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/1/1f/DSports_2_2022.png"
+ },
+ {
+  "logo": "extra/skysport24",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "skysports24it"
+  ],
+  "paises": [
+   "IT"
+  ],
+  "canal": "Sky Sport 24",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/d/df/Sky_Sport_24_-_Logo_2026.svg"
+ },
+ {
+  "logo": "extra/tlclatinoamerica",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tlclatinoamerica",
+   "tlchdmx"
+  ],
+  "paises": [
+   "MX",
+   "GT",
+   "HN",
+   "SV",
+   "NI",
+   "CR",
+   "PA",
+   "CU",
+   "DO",
+   "PR",
+   "CO",
+   "VE",
+   "EC",
+   "PE",
+   "BO",
+   "CL",
+   "AR",
+   "UY",
+   "PY"
+  ],
+  "canal": "TLC (Latinoamérica)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/3/3c/TLC_logo_%282023%29.svg"
+ },
+ {
+  "logo": "extra/skysportsf1",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "unitedkingdomskysportsf1"
+  ],
+  "paises": [
+   "GB"
+  ],
+  "canal": "Sky Sports F1",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Sky_Sports_F1_-_Logo_2025.svg"
+ },
+ {
+  "logo": "extra/depelicula",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "dpelicula"
+  ],
+  "paises": [
+   "MX"
+  ],
+  "canal": "De Película",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/0/00/DPel%C3%ADcula_2021.svg"
+ },
+ {
+  "logo": "extra/hboxtreme",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "hboextreme"
+  ],
+  "paises": [
+   "MX",
+   "GT",
+   "HN",
+   "SV",
+   "NI",
+   "CR",
+   "PA",
+   "CU",
+   "DO",
+   "PR",
+   "CO",
+   "VE",
+   "EC",
+   "PE",
+   "BO",
+   "CL",
+   "AR",
+   "UY",
+   "PY"
+  ],
+  "canal": "HBO Xtreme",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/f/fc/HBO_Xtreme.svg"
+ },
+ {
+  "logo": "extra/nplusunivisionantesnoticiasunivision",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nplusunivisionantesnoticiasunivision",
+   "mxunivisionnoticias"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "N+ Univision (antes Noticias Univision)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Nmas_Univision.svg"
+ },
+ {
+  "logo": "extra/tvntelevisoranacionalcanal2",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tvntelevisoranacionalcanal2",
+   "tvn2"
+  ],
+  "paises": [
+   "PA"
+  ],
+  "canal": "TVN (Televisora Nacional, canal 2)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/d/de/TVN_Panama_logo.svg"
+ },
+ {
+  "logo": "extra/cdminternacionalwccvtv",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "cdminternacionalwccvtv",
+   "cdm"
+  ],
+  "paises": [
+   "PR"
+  ],
+  "canal": "CDM Internacional (WCCV-TV)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/c/c2/CDM_Internacional_logo.png"
+ },
+ {
+  "logo": "extra/canal5uruguay",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "canal5uruguay"
+  ],
+  "paises": [
+   "UY"
+  ],
+  "canal": "Canal 5 (Uruguay)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/9/90/5ltnu.svg"
+ },
+ {
+  "logo": "extra/tvglobopernambucoantesglobonordeste",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tvglobopernambucoantesglobonordeste",
+   "globonordeste"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "TV Globo Pernambuco (antes Globo Nordeste)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/c/c9/TV_Globo_2025.svg"
+ },
+ {
+  "logo": "extra/eurosport1",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "eurosports1"
+  ],
+  "canal": "Eurosport 1",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_1_Logo_2015.svg"
+ },
+ {
+  "logo": "extra/warnerchannellatinoamerica",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "warnerchannellatinoamerica",
+   "warner"
+  ],
+  "paises": [
+   "MX",
+   "GT",
+   "HN",
+   "SV",
+   "NI",
+   "CR",
+   "PA",
+   "CU",
+   "DO",
+   "PR",
+   "CO",
+   "VE",
+   "EC",
+   "PE",
+   "BO",
+   "CL",
+   "AR",
+   "UY",
+   "PY"
+  ],
+  "canal": "Warner Channel (Latinoamérica)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Warner_Channel_2026.svg"
  }
 ]
