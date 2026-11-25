@@ -2291,5 +2291,1221 @@
   ],
   "canal": "GBC (Ghana Broadcasting Corporation)",
   "origen": "https://www.gbcghanaonline.com/wp-content/uploads/2020/07/cropped-gbc_header.png"
+ },
+ {
+  "logo": "extra/lnpluslanacionplus",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "lnpluslanacionplus",
+   "lnplus"
+  ],
+  "paises": [
+   "AR"
+  ],
+  "canal": "LN+ (La Nación +)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/a/a3/La_Naci%C3%B3n_%2B.png"
+ },
+ {
+  "logo": "extra/tvaztecaguate",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tvaztecaguate"
+  ],
+  "paises": [
+   "GT"
+  ],
+  "canal": "TV Azteca Guate",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png"
+ },
+ {
+  "logo": "extra/canal13guatemala",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "canal13guatemala"
+  ],
+  "paises": [
+   "GT"
+  ],
+  "canal": "Canal 13 (Guatemala)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Canal_13_Guatemala_Logo.svg"
+ },
+ {
+  "logo": "extra/rpctvcanal4",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "rpctvcanal4"
+  ],
+  "paises": [
+   "PA"
+  ],
+  "canal": "RPC TV (Canal 4)",
+  "origen": "https://www.rpctv.com/css-custom/314/images/logo-314.svg"
+ },
+ {
+  "logo": "extra/tn8canal8",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tn8canal8"
+  ],
+  "paises": [
+   "NI"
+  ],
+  "canal": "TN8 (Canal 8)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/5/5e/TN8_Nicaragua.svg"
+ },
+ {
+  "logo": "extra/caribvision",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "caribvision"
+  ],
+  "paises": [
+   "BB"
+  ],
+  "canal": "CaribVision",
+  "origen": "https://upload.wikimedia.org/wikipedia/en/d/dd/Carib_vision.png"
+ },
+ {
+  "logo": "extra/discoverykidslatinoamerica",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "discoverykidslatinoamerica"
+  ],
+  "canal": "Discovery Kids (Latinoamérica)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Discovery_Kids_2021_2D_Gradient.svg"
+ },
+ {
+  "logo": "extra/canalunoecuador",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "canalunoecuador"
+  ],
+  "paises": [
+   "EC"
+  ],
+  "canal": "Canal Uno (Ecuador)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/2/27/Canal_Uno_%28Ecuador%29_logo.png"
+ },
+ {
+  "logo": "extra/canal6nicaraguense",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "canal6nicaraguense"
+  ],
+  "paises": [
+   "NI"
+  ],
+  "canal": "Canal 6 Nicaragüense",
+  "origen": "https://canal6.com.ni/wp-content/uploads/cropped-logo-menu.png"
+ },
+ {
+  "logo": "extra/teleoncewliidt",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "teleoncewliidt",
+   "teleonce"
+  ],
+  "paises": [
+   "PR"
+  ],
+  "canal": "TeleOnce (WLII-DT)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Teleonce_Logo_2021_%28cropped%29.svg"
+ },
+ {
+  "logo": "extra/teledocecanal12",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "teledocecanal12"
+  ],
+  "paises": [
+   "UY"
+  ],
+  "canal": "Teledoce (Canal 12)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/7/79/Teledoce_2022.png"
+ },
+ {
+  "logo": "extra/canal13chile",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "canal13chile",
+   "clcanal13hdopc1"
+  ],
+  "paises": [
+   "CL"
+  ],
+  "canal": "Canal 13 (Chile)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/6/61/Canal_13_2025.svg"
+ },
+ {
+  "logo": "extra/tntodonoticias",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tntodonoticias",
+   "todonoticias"
+  ],
+  "paises": [
+   "AR"
+  ],
+  "canal": "TN (Todo Noticias)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/4/4f/TN_todo_noticias_logo.svg"
+ },
+ {
+  "logo": "extra/atbredatb",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "atbredatb",
+   "atbcochabamba"
+  ],
+  "paises": [
+   "BO"
+  ],
+  "canal": "ATB (Red ATB)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_de_ATB_Bolivia_desde_2026..png"
+ },
+ {
+  "logo": "extra/redunobolivia",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "redunobolivia",
+   "redunosantacruzprogramas"
+  ],
+  "paises": [
+   "BO"
+  ],
+  "canal": "Red Uno (Bolivia)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/5/57/Red_Uno_actual.svg"
+ },
+ {
+  "logo": "extra/unitelbolivia",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "unitelbolivia",
+   "unitelhdsantacruz"
+  ],
+  "paises": [
+   "BO"
+  ],
+  "canal": "Unitel (Bolivia)",
+  "origen": "https://integraciones.unitel.bo/v25/resources/unitel/images/png/logo-unitel-2026.png"
+ },
+ {
+  "logo": "extra/investigacaodiscoveryid",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "investigacaodiscoveryid",
+   "discoveryidinvestigacao"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "Investigação Discovery (ID)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/3/35/InvestigationDiscoveryLogo2020.svg"
+ },
+ {
+  "logo": "extra/eptvribeirao",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "eptvribeirao",
+   "eptvribeiraopreto"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "EPTV Ribeirão",
+  "origen": "https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png"
+ },
+ {
+  "logo": "extra/eptvcentralsaocarlos",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "eptvcentralsaocarlos",
+   "eptvsaocarlos"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "EPTV Central (São Carlos)",
+  "origen": "https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png"
+ },
+ {
+  "logo": "extra/tvgazetadealagoas",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tvgazetadealagoas",
+   "globoalagoas"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "TV Gazeta de Alagoas",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/6/60/TV_Gazeta_de_Alagoas_logo_2025.png"
+ },
+ {
+  "logo": "extra/tvbahia",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tvbahia",
+   "globobahia"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "TV Bahia",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/7/73/TV_Bahia_logo_%282025%29.svg"
+ },
+ {
+  "logo": "extra/tvcentroamerica",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tvcentroamerica",
+   "globocentroamerica"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "TV Centro América",
+  "origen": "https://upload.wikimedia.org/wikipedia/pt/7/77/Logotipo_da_TV_Centro_Am%C3%A9rica.png"
+ },
+ {
+  "logo": "extra/eptvcampinas",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "globoeptvcampinas"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "EPTV Campinas",
+  "origen": "https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png"
+ },
+ {
+  "logo": "extra/intertvaltolitoral",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "intertvaltolitoral",
+   "globointertvlitoral"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "InterTV Alto Litoral",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/InterTV_Logo_2025.webp/500px-InterTV_Logo_2025.webp.png"
+ },
+ {
+  "logo": "extra/rbstv",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "globorbs"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "RBS TV",
+  "origen": "https://upload.wikimedia.org/wikipedia/pt/c/c3/RBS_TV.png"
+ },
+ {
+  "logo": "extra/tvvanguardasaojosedoscamposredevanguarda",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tvvanguardasaojosedoscamposredevanguarda",
+   "globotvvanguardasjosedoscampos"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "TV Vanguarda São José dos Campos (Rede Vanguarda)",
+  "origen": "https://upload.wikimedia.org/wikipedia/pt/0/09/Logotipo_da_Rede_Vanguarda.png"
+ },
+ {
+  "logo": "extra/tvverdesmares",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tvverdesmares",
+   "globoverdesmares"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "TV Verdes Mares",
+  "origen": "https://upload.wikimedia.org/wikipedia/pt/8/8e/Logotipo_da_TV_Verdes_Mares.png"
+ },
+ {
+  "logo": "extra/tvsergipe",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tvsergipe",
+   "globosergipe"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "TV Sergipe",
+  "origen": "https://upload.wikimedia.org/wikipedia/pt/b/ba/Logotipo_da_TV_Sergipe.png"
+ },
+ {
+  "logo": "extra/historybrasil",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "historybrasil",
+   "historyhannel"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "History (Brasil)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/0/01/History_%282021%29.svg"
+ },
+ {
+  "logo": "extra/intertvdosvales",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "intertvdosvales"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "InterTV dos Vales",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/InterTV_Logo_2025.webp/500px-InterTV_Logo_2025.webp.png"
+ },
+ {
+  "logo": "extra/rbstvportoalegre",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "rbstvpoafhdh265"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "RBS TV Porto Alegre",
+  "origen": "https://upload.wikimedia.org/wikipedia/pt/c/c3/RBS_TV.png"
+ },
+ {
+  "logo": "extra/sbtsaopaulo",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "sbtsaopaulo",
+   "sbtsp"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "SBT São Paulo",
+  "origen": "https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg"
+ },
+ {
+  "logo": "extra/tvanhangueragoiania",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tvanhangueragoiania",
+   "tvanhanguera"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "TV Anhanguera (Goiânia)",
+  "origen": "https://upload.wikimedia.org/wikipedia/pt/6/61/Logotipo_da_TV_Anhanguera.png"
+ },
+ {
+  "logo": "extra/tvratimbum",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tvratimbum",
+   "tvratibum"
+  ],
+  "paises": [
+   "BR"
+  ],
+  "canal": "TV Rá-Tim-Bum",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png"
+ },
+ {
+  "logo": "extra/tivatvwrua",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tivatvwrua",
+   "canaltiva"
+  ],
+  "paises": [
+   "PR"
+  ],
+  "canal": "Tiva TV (WRUA)",
+  "origen": "https://tivatv.com/wp-content/uploads/2026/11/Pearl-White-TIVA-Logo-Hi-Res-2-scaled.png"
+ },
+ {
+  "logo": "extra/cnc3",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "cnc3",
+   "cnc3trinidad"
+  ],
+  "paises": [
+   "TT"
+  ],
+  "canal": "CNC3",
+  "origen": "https://www.cnc3.co.tt/wp-content/uploads/2022/09/logo-CNC3-Matthew.png"
+ },
+ {
+  "logo": "extra/cvmtelevision",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "cvmtelevision",
+   "cvmjamaica"
+  ],
+  "paises": [
+   "JM"
+  ],
+  "canal": "CVM Television",
+  "origen": "https://cvmtv.com/cvmtv-logo.png"
+ },
+ {
+  "logo": "extra/flowsports",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "flowsports"
+  ],
+  "paises": [
+   "TT"
+  ],
+  "canal": "Flow Sports",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flow_sports.png"
+ },
+ {
+  "logo": "extra/isat",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "isat"
+  ],
+  "paises": [
+   "AR"
+  ],
+  "canal": "I.Sat",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/2/20/I.Sat_logo.svg"
+ },
+ {
+  "logo": "extra/mtvindia",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "mtvindia"
+  ],
+  "paises": [
+   "IN"
+  ],
+  "canal": "MTV (India)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_2021_%28brand_version%29.svg"
+ },
+ {
+  "logo": "extra/nickelodeonsenalcaribe",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nickelodeonsenalcaribe",
+   "nickcaribbean"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "Nickelodeon (señal Caribe)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg"
+ },
+ {
+  "logo": "extra/radiotelevisioncaraibesrtvc",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "radiotelevisioncaraibesrtvc",
+   "rtvcaraibes2"
+  ],
+  "paises": [
+   "HT"
+  ],
+  "canal": "Radio Télévision Caraïbes (RTVC)",
+  "origen": "https://www.radiotelecaraibes.com/wp-content/uploads/2024/01/logo-RTVC-01.png"
+ },
+ {
+  "logo": "extra/sonlifebroadcastingnetworksbn",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "sonlifebroadcastingnetworksbn",
+   "sbnsonlife"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "SonLife Broadcasting Network (SBN)",
+  "origen": "https://images.squarespace-cdn.com/content/v1/64a60b938b55ab0ad536728e/c0a45c4c-3584-4c80-9ee3-b7861c2a1dae/SBN+Red+Solid_LogoWithTagline.png"
+ },
+ {
+  "logo": "extra/trinidadandtobagotelevisionttt",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "trinidadandtobagotelevisionttt",
+   "ttttrinidad"
+  ],
+  "paises": [
+   "TT"
+  ],
+  "canal": "Trinidad and Tobago Television (TTT)",
+  "origen": "https://upload.wikimedia.org/wikipedia/en/7/74/TTT_Official_Logo.png"
+ },
+ {
+  "logo": "extra/tn8telenicacanal8",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tn8telenicacanal8",
+   "telenicacanaltn8"
+  ],
+  "paises": [
+   "NI"
+  ],
+  "canal": "TN8 (Telenica Canal 8)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/5/5e/TN8_Nicaragua.svg"
+ },
+ {
+  "logo": "extra/vtvhondurasantesvicatelevision",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "vtvhondurasantesvicatelevision",
+   "vicatv"
+  ],
+  "paises": [
+   "HN"
+  ],
+  "canal": "VTV (Honduras), antes VICA Televisión",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/2/26/VTV_HN_logo_2019.png"
+ },
+ {
+  "logo": "extra/espn3",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "espn3ch"
+  ],
+  "canal": "ESPN 3",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png"
+ },
+ {
+  "logo": "extra/espn7",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "espn7",
+   "espn7chile"
+  ],
+  "paises": [
+   "CL"
+  ],
+  "canal": "ESPN 7",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/7/7f/ESPN_7_logo.svg"
+ },
+ {
+  "logo": "extra/dsportsplus",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "directvsportspluscolombia"
+  ],
+  "paises": [
+   "CO"
+  ],
+  "canal": "DSports+",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/f/fb/DSports%2B_2022.png"
+ },
+ {
+  "logo": "extra/espn2",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "espn2colombia"
+  ],
+  "canal": "ESPN 2",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg"
+ },
+ {
+  "logo": "extra/espn",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "espncolombia"
+  ],
+  "canal": "ESPN",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg"
+ },
+ {
+  "logo": "extra/rcnnuestrateleinternacional",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "rcnnuestrateleinternacional",
+   "rcninternacional"
+  ],
+  "paises": [
+   "CO"
+  ],
+  "canal": "RCN Nuestra Tele Internacional",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/8/83/RCN_Nuestra_Tele_logo.svg"
+ },
+ {
+  "logo": "extra/cubavisioninternacional",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "visioninternacionalopcion2"
+  ],
+  "paises": [
+   "CU"
+  ],
+  "canal": "Cubavisión Internacional",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Cvinternacional.png"
+ },
+ {
+  "logo": "extra/atreseries",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "a3series"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Atreseries",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/1/16/Atreseries_2020_logo.svg"
+ },
+ {
+  "logo": "extra/movistarplusantes0",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "movistarplusantes0",
+   "mpluscero"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Movistar Plus (antes #0)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Movistar_Plus%2B_2022_logo.svg"
+ },
+ {
+  "logo": "extra/tudn",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "204tudn"
+  ],
+  "paises": [
+   "MX"
+  ],
+  "canal": "TUDN",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/6/6c/TUDN_Logo.svg"
+ },
+ {
+  "logo": "extra/ntn24",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "ntn24",
+   "ntn24int"
+  ],
+  "paises": [
+   "CO"
+  ],
+  "canal": "NTN24",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/4/4c/NTN24_logo.svg"
+ },
+ {
+  "logo": "extra/dwdeutschewelle",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "dwdeutschewelle",
+   "dwamerica"
+  ],
+  "paises": [
+   "DE"
+  ],
+  "canal": "DW (Deutsche Welle)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg"
+ },
+ {
+  "logo": "extra/adnnoticiasantesadn40",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "adn40"
+  ],
+  "paises": [
+   "MX"
+  ],
+  "canal": "adn Noticias (antes ADN 40)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/6/62/ADN_Noticias_%282025%29.svg"
+ },
+ {
+  "logo": "extra/antena3internacional",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "antena3latinoamerica"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Antena 3 Internacional",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png"
+ },
+ {
+  "logo": "extra/hbosignature",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "hbosignatures"
+  ],
+  "canal": "HBO Signature",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg"
+ },
+ {
+  "logo": "extra/cinemaxlatinoamerica",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "cinemaxlatinoamerica",
+   "cinemaxhdmx"
+  ],
+  "canal": "Cinemax (Latinoamérica)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg"
+ },
+ {
+  "logo": "extra/investigationdiscoveryid",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "investigationdiscoveryid",
+   "discoveryinvestigation"
+  ],
+  "canal": "Investigation Discovery (ID)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/3/35/InvestigationDiscoveryLogo2020.svg"
+ },
+ {
+  "logo": "extra/discoverychannellatinoamerica",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "discoverychannellatinoamerica",
+   "discoverychannelmexico"
+  ],
+  "canal": "Discovery Channel (Latinoamérica)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg"
+ },
+ {
+  "logo": "extra/disneychannelespana",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "disneychannelespana",
+   "disneychanel"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Disney Channel (España)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
+ },
+ {
+  "logo": "extra/hbolatinoamerica",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "hbolatinoamerica",
+   "hboeste"
+  ],
+  "canal": "HBO (Latinoamérica)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg"
+ },
+ {
+  "logo": "extra/multicinemamc",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "multicinemamc",
+   "multicinema"
+  ],
+  "paises": [
+   "MX"
+  ],
+  "canal": "Multicinema (MC)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png"
+ },
+ {
+  "logo": "extra/telemundochicagowsnstv",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "telemundochicagowsnstv",
+   "noticiasltelemundochicago"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "Telemundo Chicago (WSNS-TV)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/TelemundoChicago2019.svg"
+ },
+ {
+  "logo": "extra/exitosatvcanal61",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "exitosatvcanal61",
+   "perulcanalexitosa"
+  ],
+  "paises": [
+   "PE"
+  ],
+  "canal": "Exitosa (TV, canal 6.1)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png"
+ },
+ {
+  "logo": "extra/universalpremiereuniversalplus",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "universalpremiereuniversalplus",
+   "universalpremier"
+  ],
+  "canal": "Universal Premiere (Universal+)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png"
+ },
+ {
+  "logo": "extra/tvciudad",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tvciudad",
+   "tvciuda"
+  ],
+  "paises": [
+   "UY"
+  ],
+  "canal": "TV Ciudad",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png"
+ },
+ {
+  "logo": "extra/canal4montecarlotvuruguay",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "canal4montecarlotvuruguay",
+   "canal4montecarlo"
+  ],
+  "paises": [
+   "UY"
+  ],
+  "canal": "Canal 4 (Montecarlo TV, Uruguay)",
+  "origen": "https://www.canal4.com.uy/css-custom/332/favicons/mstile-310x310.png"
+ },
+ {
+  "logo": "extra/clansenalinternacional",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "clansenalinternacional",
+   "clantveinternacional"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Clan (señal internacional)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/6/63/Clan_2026.svg"
+ },
+ {
+  "logo": "extra/espn2latinoamerica",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "espn2latinoamerica",
+   "espn2mexicofull"
+  ],
+  "canal": "ESPN 2 (Latinoamérica)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg"
+ },
+ {
+  "logo": "extra/espn3latinoamerica",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "espn3latinoamerica",
+   "espn3mexico"
+  ],
+  "canal": "ESPN 3 (Latinoamérica)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png"
+ },
+ {
+  "logo": "extra/studiouniversallatinoamerica",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "studiouniversallatinoamerica",
+   "estudiouniversal"
+  ],
+  "canal": "Studio Universal (Latinoamérica)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png"
+ },
+ {
+  "logo": "extra/mileniotelevision",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "mileniotelevision",
+   "mileniotvhd"
+  ],
+  "paises": [
+   "MX"
+  ],
+  "canal": "Milenio Televisión",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png"
+ },
+ {
+  "logo": "extra/canal4nicaragua",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "canal4nicaragua"
+  ],
+  "paises": [
+   "NI"
+  ],
+  "canal": "Canal 4 (Nicaragua)",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png"
+ },
+ {
+  "logo": "extra/hosannavision",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "hosannavision",
+   "hosanna"
+  ],
+  "paises": [
+   "PA"
+  ],
+  "canal": "Hosanna Visión",
+  "origen": "https://hosannavision.com/site/assets/files/1/hosanna-logo.png"
+ },
+ {
+  "logo": "extra/thewordnetwork",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "theword"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "The Word Network",
+  "origen": "https://www.thewordnetwork.org/wp-content/uploads/2022/04/WordNetwork_Logo.png"
+ },
+ {
+  "logo": "extra/tnhtelevisionnacionaldehondurascanal8",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "tnhtelevisionnacionaldehondurascanal8",
+   "tnhtv"
+  ],
+  "paises": [
+   "HN"
+  ],
+  "canal": "TNH (Televisión Nacional de Honduras, canal 8)",
+  "origen": "https://tnh.gob.hn/tnh-logo-original.png"
+ },
+ {
+  "logo": "extra/elcanaldelfutbolecdf",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "elcanaldelfutbolecdf",
+   "canaldelfutbol"
+  ],
+  "paises": [
+   "EC"
+  ],
+  "canal": "El Canal del Fútbol (ECDF)",
+  "origen": "https://static.elcanaldelfutbol.com/static/images/ecdf_new_logo_2026_white.png"
+ },
+ {
+  "logo": "extra/cnninternational",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "cnninternacional"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "CNN International",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/9/9d/CNN_Logo_%282014%29.svg"
+ },
+ {
+  "logo": "extra/bloombergtelevision",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "bloombergtelevision"
+  ],
+  "paises": [
+   "US"
+  ],
+  "canal": "Bloomberg Television",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/5/5d/New_Bloomberg_Logo.svg"
+ },
+ {
+  "logo": "extra/eurosport2",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "eurosports2"
+  ],
+  "canal": "Eurosport 2",
+  "origen": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Eurosport_2_Logo_2015.svg"
+ },
+ {
+  "logo": "extra/nexnextvcanal21",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "nexnextvcanal21"
+  ],
+  "paises": [
+   "PA"
+  ],
+  "canal": "Nex (NEXtv, canal 21)",
+  "origen": "https://nexpanama.com/wp-content/uploads/2019/06/Logo_Nex_512x512.png"
  }
 ]
