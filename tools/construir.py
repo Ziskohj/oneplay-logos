@@ -31,6 +31,9 @@ def extras(salida, logos_dir, variantes, nombres):
       y las palabras de cine.
     - `extra/oficiales.json`: logos oficiales de la web de cada canal (`logos/extra/`): [{logo, variantes, nombres, paises}].
       Un nombre que ya está por Picons se queda con el de Picons.
+    - `extra/alias.json`: {"alias": {nombre como lo escribe un panel: nombre que ya está en el índice}} (los dos normalizados):
+      el alias lleva el mismo logo que ese nombre («cnnespanol» → «cnnenespanol»). Revisados a mano; uno que ya existe no se
+      toca, y uno que apunta a un nombre que no está, no entra.
     Solo lo que tiene sus ficheros."""
     def esta(logo, vs):
         return vs and all(os.path.exists(os.path.join(logos_dir, f'{logo}.{v}.png')) for v in vs)
@@ -49,6 +52,10 @@ def extras(salida, logos_dir, variantes, nombres):
             variantes[o['logo']] = o['variantes']
             for nombre in o.get('nombres', []): nombres.setdefault(nombre, o['logo'])
             if o.get('paises'): paises[o['logo']] = sorted(o['paises'])
+    ruta = os.path.join(salida, 'extra', 'alias.json')
+    if os.path.exists(ruta):
+        for alias, nombre in json.load(open(ruta, encoding='utf-8')).get('alias', {}).items():
+            if nombre in nombres: nombres.setdefault(alias, nombres[nombre])
     return genericos, cine, paises
 
 def main():
