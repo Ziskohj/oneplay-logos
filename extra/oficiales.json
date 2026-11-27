@@ -3831,5 +3831,23 @@
   ],
   "canal": "Canal Sur",
   "origen": "Picons (canalsurandalucia)"
+ },
+ {
+  "logo": "extra/ligue1",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "ligue1",
+   "ligue1mcdonalds",
+   "francialigue1",
+   "franceligue1",
+   "ligue1francia",
+   "ligue1france",
+   "ligue1ubereats"
+  ],
+  "paises": [],
+  "canal": "Ligue 1",
+  "origen": "https://commons.wikimedia.org/wiki/File:Ligue_1_McDonald's_logo.svg"
  }
 ]

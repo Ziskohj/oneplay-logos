@@ -1,242 +1,1736 @@
 {
+ "genericos": {
+  "peliculas": "generico/peliculas-peliculas",
+  "cine": "generico/peliculas-cine",
+  "movies": "generico/peliculas-movies",
+  "movie": "generico/peliculas-movie",
+  "films": "generico/peliculas-films",
+  "film": "generico/peliculas-film",
+  "cinema": "generico/peliculas-cinema",
+  "filme": "generico/peliculas-filme",
+  "filmes": "generico/peliculas-filmes",
+  "kino": "generico/peliculas-kino",
+  "filmy": "generico/peliculas-filmy",
+  "sinema": "generico/peliculas-sinema",
+  "filmer": "generico/peliculas-filmer",
+  "elokuvat": "generico/peliculas-elokuvat",
+  "filmek": "generico/peliculas-filmek",
+  "filmovi": "generico/peliculas-filmovi",
+  "filmi": "generico/peliculas-filmi",
+  "filma": "generico/peliculas-filma",
+  "pellicules": "generico/peliculas-pellicules",
+  "phim": "generico/peliculas-phim",
+  "filmler": "generico/peliculas-filmler",
+  "pelis": "generico/peliculas-pelis",
+  "фильмы": "generico/peliculas-x2bd500134c",
+  "кино": "generico/peliculas-x28ac665d3f",
+  "фільми": "generico/peliculas-x4efc5fd94a",
+  "кіно": "generico/peliculas-xef8b4c28dc",
+  "филми": "generico/peliculas-x9907c8cc17",
+  "филмови": "generico/peliculas-x6c26771f2a",
+  "ταινιεσ": "generico/peliculas-x783ef50d12",
+  "σινεμα": "generico/peliculas-xe801953035",
+  "افلام": "generico/peliculas-xede8892ab9",
+  "سينما": "generico/peliculas-xd3d826adf3",
+  "فيلم": "generico/peliculas-x739d1685ad",
+  "فلميں": "generico/peliculas-x2b18f8a933",
+  "סרטים": "generico/peliculas-x2a33f0871e",
+  "קולנוע": "generico/peliculas-x39ab103c3e",
+  "फिलमें": "generico/peliculas-x4f850132d5",
+  "मूवीज": "generico/peliculas-x9522423f9c",
+  "सिनेमा": "generico/peliculas-x20091c83db",
+  "সিনেমা": "generico/peliculas-xde7ebaff58",
+  "চলচচিতর": "generico/peliculas-x70b3c97971",
+  "ภาพยนตร์": "generico/peliculas-x464cb7b0c3",
+  "หนัง": "generico/peliculas-x504a2093ad",
+  "영화": "generico/peliculas-xc33953efd9",
+  "映画": "generico/peliculas-x675d287d3e",
+  "电影": "generico/peliculas-xba723f5f1d",
+  "電影": "generico/peliculas-xeb8bc1158d",
+  "series": "generico/series-series",
+  "serie": "generico/series-serie",
+  "serien": "generico/series-serien",
+  "seriale": "generico/series-seriale",
+  "serials": "generico/series-serials",
+  "dizi": "generico/series-dizi",
+  "serialetv": "generico/series-serialetv",
+  "serier": "generico/series-serier",
+  "sarjat": "generico/series-sarjat",
+  "serialy": "generico/series-serialy",
+  "sorozatok": "generico/series-sorozatok",
+  "serije": "generico/series-serije",
+  "diziler": "generico/series-diziler",
+  "tvseries": "generico/series-tvseries",
+  "tvshows": "generico/series-tvshows",
+  "сериалы": "generico/series-x0d7aac603f",
+  "серіали": "generico/series-x171ed199ed",
+  "сериали": "generico/series-x1a06beebeb",
+  "серије": "generico/series-xc8587649e9",
+  "σειρεσ": "generico/series-x8254a61401",
+  "مسلسلات": "generico/series-xbc1bda51c7",
+  "سريال": "generico/series-x64d94b3295",
+  "סדרות": "generico/series-xef3bce99c8",
+  "सीरीज": "generico/series-x0e61193001",
+  "धारावाहिक": "generico/series-x5466c31927",
+  "সিরিজ": "generico/series-xa9ca0e4d60",
+  "ซีรีส์": "generico/series-x23d62d8466",
+  "시리즈": "generico/series-xc3e89aee42",
+  "シリース": "generico/series-x3b8a0db008",
+  "电视剧": "generico/series-xa7db207fc1",
+  "電視劇": "generico/series-xe4829ed1bc",
+  "剧集": "generico/series-x4f40bbb394",
+  "劇集": "generico/series-x35e4f9976f",
+  "comedia": "generico/comedia-comedia",
+  "comedy": "generico/comedia-comedy",
+  "comedie": "generico/comedia-comedie",
+  "commedia": "generico/comedia-commedia",
+  "komodie": "generico/comedia-komodie",
+  "komedi": "generico/comedia-komedi",
+  "komedia": "generico/comedia-komedia",
+  "komedie": "generico/comedia-komedie",
+  "humor": "generico/comedia-humor",
+  "humour": "generico/comedia-humour",
+  "vigjatek": "generico/comedia-vigjatek",
+  "komedija": "generico/comedia-komedija",
+  "komediot": "generico/comedia-komediot",
+  "комедия": "generico/comedia-x703b388248",
+  "комедии": "generico/comedia-xaccdcb9110",
+  "юмор": "generico/comedia-x02bacf2d17",
+  "комедія": "generico/comedia-x8a5074cea9",
+  "комедіі": "generico/comedia-xf67be8524c",
+  "комедија": "generico/comedia-x35bdf78ffe",
+  "κωμωδια": "generico/comedia-x7e49644ecf",
+  "κωμωδιεσ": "generico/comedia-x3881c43dbf",
+  "كوميديا": "generico/comedia-x358631ceb2",
+  "كوميدي": "generico/comedia-x0ccd453c1f",
+  "كمدي": "generico/comedia-x4cfc1f02d1",
+  "קומדיה": "generico/comedia-x56465ebd55",
+  "कॉमेडी": "generico/comedia-x357b7c459b",
+  "কমেডি": "generico/comedia-xff908a7d4d",
+  "ตลก": "generico/comedia-x44a3773109",
+  "코미디": "generico/comedia-x048c7f7f6b",
+  "コメティ": "generico/comedia-x03d5d3e41c",
+  "喜剧": "generico/comedia-x52f05c6670",
+  "喜劇": "generico/comedia-x29498d64fe",
+  "accion": "generico/accion-accion",
+  "action": "generico/accion-action",
+  "azione": "generico/accion-azione",
+  "acao": "generico/accion-acao",
+  "aksiyon": "generico/accion-aksiyon",
+  "akcja": "generico/accion-akcja",
+  "actiune": "generico/accion-actiune",
+  "akce": "generico/accion-akce",
+  "akcio": "generico/accion-akcio",
+  "akcija": "generico/accion-akcija",
+  "accio": "generico/accion-accio",
+  "toiminta": "generico/accion-toiminta",
+  "hanhong": "generico/accion-hanhong",
+  "aksi": "generico/accion-aksi",
+  "actie": "generico/accion-actie",
+  "боевик": "generico/accion-xe1735501f1",
+  "боевики": "generico/accion-xa1befd17c2",
+  "экшн": "generico/accion-x0c88d1b453",
+  "боиовик": "generico/accion-xb8f7010dd9",
+  "боиовики": "generico/accion-x1ac5f50877",
+  "екшън": "generico/accion-x6ad364f5fc",
+  "акција": "generico/accion-x249b1030d4",
+  "δραση": "generico/accion-xdd11301f90",
+  "اكشن": "generico/accion-xff4a487052",
+  "حركة": "generico/accion-xd0685c466f",
+  "אקשן": "generico/accion-x91eeb61cd2",
+  "एकशन": "generico/accion-xeabf1cf816",
+  "অযাকশন": "generico/accion-xc323d01283",
+  "แอ็คชัน": "generico/accion-x95754cfb99",
+  "แอคชัน": "generico/accion-x9d1f80c9a2",
+  "액션": "generico/accion-xf3f0a6419a",
+  "アクション": "generico/accion-xfaedd7eb6a",
+  "动作": "generico/accion-xd9d9827827",
+  "動作": "generico/accion-x62a8d884d6",
+  "terror": "generico/terror-terror",
+  "horror": "generico/terror-horror",
+  "horreur": "generico/terror-horreur",
+  "korku": "generico/terror-korku",
+  "skrack": "generico/terror-skrack",
+  "grusel": "generico/terror-grusel",
+  "skrk": "generico/terror-skrk",
+  "skrekk": "generico/terror-skrekk",
+  "kauhu": "generico/terror-kauhu",
+  "horor": "generico/terror-horor",
+  "kinhdi": "generico/terror-kinhdi",
+  "griezel": "generico/terror-griezel",
+  "epouvante": "generico/terror-epouvante",
+  "miedo": "generico/terror-miedo",
+  "ужасы": "generico/terror-x19d2300c2b",
+  "хоррор": "generico/terror-x4638a52d73",
+  "жахи": "generico/terror-xd262c8b07e",
+  "ужаси": "generico/terror-x2fcdf21062",
+  "хорор": "generico/terror-x370dd3d3b3",
+  "τρομου": "generico/terror-xf76667bc51",
+  "τρομοσ": "generico/terror-x711dc58e04",
+  "رعب": "generico/terror-xabfc1d9ab9",
+  "ترسناك": "generico/terror-x20fe615b08",
+  "وحشت": "generico/terror-xa8907e68ce",
+  "אימה": "generico/terror-x3a47278a7a",
+  "हॉरर": "generico/terror-x341d719633",
+  "डरावनी": "generico/terror-xd6f5401b7c",
+  "হরর": "generico/terror-xbfc4f195a6",
+  "ভৌতিক": "generico/terror-x0dc3d51c55",
+  "สยองขวัญ": "generico/terror-x1947c8ce6c",
+  "공포": "generico/terror-x520524f583",
+  "호러": "generico/terror-xc64e6e1c70",
+  "ホラー": "generico/terror-x1dec9772cd",
+  "恐怖": "generico/terror-xe8e8a86959",
+  "infantil": "generico/infantil-infantil",
+  "infantiles": "generico/infantil-infantiles",
+  "ninos": "generico/infantil-ninos",
+  "kids": "generico/infantil-kids",
+  "enfants": "generico/infantil-enfants",
+  "jeunesse": "generico/infantil-jeunesse",
+  "bambini": "generico/infantil-bambini",
+  "ragazzi": "generico/infantil-ragazzi",
+  "kinder": "generico/infantil-kinder",
+  "cocuk": "generico/infantil-cocuk",
+  "dzieci": "generico/infantil-dzieci",
+  "copii": "generico/infantil-copii",
+  "barn": "generico/infantil-barn",
+  "criancas": "generico/infantil-criancas",
+  "brn": "generico/infantil-brn",
+  "lapset": "generico/infantil-lapset",
+  "deti": "generico/infantil-deti",
+  "gyerekek": "generico/infantil-gyerekek",
+  "djeca": "generico/infantil-djeca",
+  "deca": "generico/infantil-deca",
+  "otroci": "generico/infantil-otroci",
+  "femije": "generico/infantil-femije",
+  "nens": "generico/infantil-nens",
+  "infantils": "generico/infantil-infantils",
+  "anak": "generico/infantil-anak",
+  "anakanak": "generico/infantil-anakanak",
+  "thieunhi": "generico/infantil-thieunhi",
+  "kinderen": "generico/infantil-kinderen",
+  "cocuklar": "generico/infantil-cocuklar",
+  "peques": "generico/infantil-peques",
+  "дети": "generico/infantil-x9f1fea2365",
+  "детскии": "generico/infantil-xf6293f2ed7",
+  "детские": "generico/infantil-x57548f41dc",
+  "діти": "generico/infantil-x418eef0804",
+  "дитячі": "generico/infantil-x897cfc389b",
+  "деца": "generico/infantil-x350c8d8c00",
+  "детски": "generico/infantil-x9733cbb556",
+  "дечији": "generico/infantil-x409fffc1cb",
+  "παιδικα": "generico/infantil-x3fac2977ad",
+  "παιδια": "generico/infantil-xa7fe70aaa9",
+  "اطفال": "generico/infantil-xcd43032297",
+  "كودك": "generico/infantil-x93bfb238f8",
+  "كودكان": "generico/infantil-xd830ecafeb",
+  "بچے": "generico/infantil-x4de8ceaad5",
+  "ילדים": "generico/infantil-x486aabf842",
+  "बचचे": "generico/infantil-xe016385d26",
+  "किडस": "generico/infantil-x5f97db659f",
+  "শিশু": "generico/infantil-x428cf038a9",
+  "কিডস": "generico/infantil-x4eb64381c6",
+  "เด็ก": "generico/infantil-xff9a904d37",
+  "어린이": "generico/infantil-x9923ae1fbf",
+  "키즈": "generico/infantil-xa20ceaf169",
+  "キッス": "generico/infantil-x6005ea7c09",
+  "子供": "generico/infantil-x11fb5d289a",
+  "ことも": "generico/infantil-xd50d52be13",
+  "儿童": "generico/infantil-x873fc984fc",
+  "兒童": "generico/infantil-xe3858b83f3",
+  "少儿": "generico/infantil-xacd3b58e3c",
+  "少兒": "generico/infantil-x888d21486f",
+  "documentales": "generico/documentales-documentales",
+  "documental": "generico/documentales-documental",
+  "documentary": "generico/documentales-documentary",
+  "documentaries": "generico/documentales-documentaries",
+  "docs": "generico/documentales-docs",
+  "documentaires": "generico/documentales-documentaires",
+  "documentaire": "generico/documentales-documentaire",
+  "documentari": "generico/documentales-documentari",
+  "doku": "generico/documentales-doku",
+  "dokus": "generico/documentales-dokus",
+  "dokumentation": "generico/documentales-dokumentation",
+  "documentarios": "generico/documentales-documentarios",
+  "belgesel": "generico/documentales-belgesel",
+  "dokumenty": "generico/documentales-dokumenty",
+  "dokumentar": "generico/documentales-dokumentar",
+  "documentare": "generico/documentales-documentare",
+  "dokumentarer": "generico/documentales-dokumentarer",
+  "dokumentit": "generico/documentales-dokumentit",
+  "dokumentarni": "generico/documentales-dokumentarni",
+  "dokumentumfilmek": "generico/documentales-dokumentumfilmek",
+  "dokumentarci": "generico/documentales-dokumentarci",
+  "dokumenter": "generico/documentales-dokumenter",
+  "tailieu": "generico/documentales-tailieu",
+  "documentals": "generico/documentales-documentals",
+  "belgeseller": "generico/documentales-belgeseller",
+  "документальные": "generico/documentales-x9eead25a50",
+  "документальное": "generico/documentales-x5f43a91bf8",
+  "документальні": "generico/documentales-xca3b96c79b",
+  "документални": "generico/documentales-xd7a7362cd0",
+  "документарни": "generico/documentales-x8747143c96",
+  "ντοκιμαντερ": "generico/documentales-x1b41a11bea",
+  "وثايقي": "generico/documentales-x41789f852c",
+  "وثايقية": "generico/documentales-xcf2c40ce7b",
+  "وثايقيات": "generico/documentales-xdd04a0f1ba",
+  "مستند": "generico/documentales-xd938110773",
+  "דוקו": "generico/documentales-xfac5a4347a",
+  "תיעודי": "generico/documentales-xafa1460459",
+  "डॉकयूमेंटरी": "generico/documentales-x8b0207362a",
+  "वृततचितर": "generico/documentales-x67efdc617a",
+  "তথযচিতর": "generico/documentales-x5466cc62ed",
+  "สารคดี": "generico/documentales-xe8b7199b92",
+  "다큐멘터리": "generico/documentales-x72c9c2f44d",
+  "다큐": "generico/documentales-xff838cfb61",
+  "トキュメンタリー": "generico/documentales-xbc61b78c69",
+  "纪录片": "generico/documentales-x162ffa3f62",
+  "紀錄片": "generico/documentales-x6b9877f901",
+  "纪实": "generico/documentales-x9e897cf426",
+  "紀實": "generico/documentales-x5a6be0943e",
+  "deportes": "generico/deportes-deportes",
+  "sports": "generico/deportes-sports",
+  "sport": "generico/deportes-sport",
+  "esportes": "generico/deportes-esportes",
+  "desporto": "generico/deportes-desporto",
+  "spor": "generico/deportes-spor",
+  "deporte": "generico/deportes-deporte",
+  "urheilu": "generico/deportes-urheilu",
+  "olahraga": "generico/deportes-olahraga",
+  "sukan": "generico/deportes-sukan",
+  "thethao": "generico/deportes-thethao",
+  "deportivo": "generico/deportes-deportivo",
+  "спорт": "generico/deportes-x9dfe189252",
+  "αθλητικα": "generico/deportes-x656af95844",
+  "σπορ": "generico/deportes-x3b8e9b0058",
+  "رياضة": "generico/deportes-x8af22f7f74",
+  "الرياضة": "generico/deportes-x0132e61828",
+  "رياضي": "generico/deportes-xc2e597b192",
+  "ورزش": "generico/deportes-xfa8a444d8c",
+  "ورزشي": "generico/deportes-x92a15a70b7",
+  "كھيل": "generico/deportes-x986918b5b5",
+  "ספורט": "generico/deportes-x36d421f278",
+  "खेल": "generico/deportes-x1a8208b170",
+  "सपोरटस": "generico/deportes-x29cc674ca9",
+  "খেলা": "generico/deportes-x49235a19dc",
+  "খেলাধুলা": "generico/deportes-xa18f4a92f3",
+  "সপোরটস": "generico/deportes-x3bbf04dab6",
+  "กีฬา": "generico/deportes-x5c49f56ef4",
+  "스포츠": "generico/deportes-x5bfa27be8b",
+  "スホーツ": "generico/deportes-x941ebf0ff6",
+  "体育": "generico/deportes-x82d0f5fd4e",
+  "體育": "generico/deportes-x98bc812d83",
+  "运动": "generico/deportes-x9d99dac5fb",
+  "運動": "generico/deportes-xd5d3ea280b",
+  "futbol": "generico/futbol-futbol",
+  "football": "generico/futbol-football",
+  "soccer": "generico/futbol-soccer",
+  "calcio": "generico/futbol-calcio",
+  "fussball": "generico/futbol-fussball",
+  "fuball": "generico/futbol-fussball",
+  "futebol": "generico/futbol-futebol",
+  "voetbal": "generico/futbol-voetbal",
+  "pilkanozna": "generico/futbol-pilkanozna",
+  "pikanozna": "generico/futbol-pilkanozna",
+  "futbolsala": "generico/futbol-futbolsala",
+  "futsal": "generico/futbol-futsal",
+  "fotboll": "generico/futbol-fotboll",
+  "fotball": "generico/futbol-fotball",
+  "fodbold": "generico/futbol-fodbold",
+  "jalkapallo": "generico/futbol-jalkapallo",
+  "fotbal": "generico/futbol-fotbal",
+  "futbal": "generico/futbol-futbal",
+  "foci": "generico/futbol-foci",
+  "labdarugas": "generico/futbol-labdarugas",
+  "nogomet": "generico/futbol-nogomet",
+  "fudbal": "generico/futbol-fudbal",
+  "futboll": "generico/futbol-futboll",
+  "sepakbola": "generico/futbol-sepakbola",
+  "bolasepak": "generico/futbol-bolasepak",
+  "bonga": "generico/futbol-bonga",
+  "футбол": "generico/futbol-x3dbc5b65ff",
+  "фудбал": "generico/futbol-x1cb0564968",
+  "футзал": "generico/futbol-xb05528760d",
+  "минифутбол": "generico/futbol-x344111a6cb",
+  "ποδοσφαιρο": "generico/futbol-xfc622812dd",
+  "كرةالقدم": "generico/futbol-x4baeec8170",
+  "كرةقدم": "generico/futbol-x8910d151f9",
+  "كرةالصالات": "generico/futbol-x1a4ca1a762",
+  "فوتبال": "generico/futbol-x05d5066b20",
+  "فوتسال": "generico/futbol-x4a25c98cf0",
+  "فٹبال": "generico/futbol-x179cd3c7d1",
+  "כדורגל": "generico/futbol-x5bc2d16300",
+  "फुटबॉल": "generico/futbol-xf311f74f71",
+  "ফুটবল": "generico/futbol-x97fa9859f5",
+  "ฟตบอล": "generico/futbol-x7c94d8edbe",
+  "ฟตซอล": "generico/futbol-xa1b588d9dc",
+  "축구": "generico/futbol-xeb16d04f13",
+  "풋살": "generico/futbol-x4696b444b6",
+  "サッカー": "generico/futbol-x5c7866a750",
+  "フットサル": "generico/futbol-x9c50871a8b",
+  "足球": "generico/futbol-x514ef76f62",
+  "五人制足球": "generico/futbol-x47fc16be10",
+  "室内足球": "generico/futbol-xc57eda88a3",
+  "室內足球": "generico/futbol-x211f7fdfaf",
+  "baloncesto": "generico/baloncesto-baloncesto",
+  "basketball": "generico/baloncesto-basketball",
+  "basket": "generico/baloncesto-basket",
+  "basquet": "generico/baloncesto-basquet",
+  "basquete": "generico/baloncesto-basquete",
+  "koripallo": "generico/baloncesto-koripallo",
+  "kosarka": "generico/baloncesto-kosarka",
+  "kosarlabda": "generico/baloncesto-kosarlabda",
+  "koszykowka": "generico/baloncesto-koszykowka",
+  "basketbal": "generico/baloncesto-basketbal",
+  "basketbol": "generico/baloncesto-basketbol",
+  "baschet": "generico/baloncesto-baschet",
+  "pallacanestro": "generico/baloncesto-pallacanestro",
+  "bolabasket": "generico/baloncesto-bolabasket",
+  "bongro": "generico/baloncesto-bongro",
+  "баскетбол": "generico/baloncesto-x61e6e6145f",
+  "кошарка": "generico/baloncesto-x2376b8b8c1",
+  "μπασκετ": "generico/baloncesto-xef7eb4e031",
+  "καλαθοσφαιριση": "generico/baloncesto-xb234db3c7c",
+  "كرةالسلة": "generico/baloncesto-xdc4deb015a",
+  "كرةسلة": "generico/baloncesto-x3f3179aa39",
+  "بسكتبال": "generico/baloncesto-x33f9177252",
+  "כדורסל": "generico/baloncesto-xd95b754a84",
+  "बासकेटबॉल": "generico/baloncesto-x4a4408de91",
+  "বাসকেটবল": "generico/baloncesto-xa66810a70f",
+  "บาสเกตบอล": "generico/baloncesto-xbacad5edf1",
+  "농구": "generico/baloncesto-xcda3717eb7",
+  "ハスケットホール": "generico/baloncesto-x176714dafd",
+  "ハスケ": "generico/baloncesto-xf5fd383725",
+  "篮球": "generico/baloncesto-xbfb5785690",
+  "籃球": "generico/baloncesto-xbbb641e81d",
+  "tenis": "generico/tenis-tenis",
+  "tennis": "generico/tenis-tennis",
+  "tenisz": "generico/tenis-tenisz",
+  "теннис": "generico/tenis-x7f98f2fb55",
+  "теніс": "generico/tenis-xa9251fa0bc",
+  "тенис": "generico/tenis-x10e38b9445",
+  "τενισ": "generico/tenis-xaaf1eb934e",
+  "تنس": "generico/tenis-x660d96f173",
+  "التنس": "generico/tenis-xb0cf09509f",
+  "تنيس": "generico/tenis-x65b7d32e15",
+  "טניס": "generico/tenis-x12094c30c8",
+  "टेनिस": "generico/tenis-xdc8a8ca523",
+  "টেনিস": "generico/tenis-x28fdbbb74d",
+  "เทนนิส": "generico/tenis-x756df05cb5",
+  "테니스": "generico/tenis-x7bb5910fc3",
+  "テニス": "generico/tenis-x5f420bb5eb",
+  "网球": "generico/tenis-x5c9751cdc9",
+  "網球": "generico/tenis-xf29f636a70",
+  "golf": "generico/golf-golf",
+  "гольф": "generico/golf-x389fae23d4",
+  "голф": "generico/golf-x470d732755",
+  "γκολφ": "generico/golf-x3b7bd36e34",
+  "جولف": "generico/golf-xa376866f98",
+  "غولف": "generico/golf-x260d1ea1d4",
+  "گلف": "generico/golf-x10a9978fec",
+  "גולף": "generico/golf-x07b6e54ee8",
+  "गोलफ": "generico/golf-xffa659c6a3",
+  "กอล์ฟ": "generico/golf-x1105734ce1",
+  "골프": "generico/golf-x23df7599a1",
+  "コルフ": "generico/golf-x6399f7ae9a",
+  "高尔夫": "generico/golf-x45f16d57de",
+  "高爾夫": "generico/golf-x087da65fca",
+  "motor": "generico/motor-motor",
+  "motorsport": "generico/motor-motorsport",
+  "motorsports": "generico/motor-motorsports",
+  "motori": "generico/motor-motori",
+  "automobilismo": "generico/motor-automobilismo",
+  "automoto": "generico/motor-automoto",
+  "sportsmecaniques": "generico/motor-sportsmecaniques",
+  "deportesdemotor": "generico/motor-deportesdemotor",
+  "автоспорт": "generico/motor-x035b7afe44",
+  "мотоспорт": "generico/motor-xaeba646de1",
+  "سباقالسيارات": "generico/motor-xb6598aaca1",
+  "سباقات": "generico/motor-xb2c11817ee",
+  "اتومبيلراني": "generico/motor-xd137032fbc",
+  "मोटरसपोरट": "generico/motor-xaec2bd1dd8",
+  "มอเตอร์สปอร์ต": "generico/motor-x2567439b71",
+  "모터스포츠": "generico/motor-x8e16fe9f47",
+  "モータースホーツ": "generico/motor-x56ab2fbeb8",
+  "赛车": "generico/motor-x192224e5e1",
+  "賽車": "generico/motor-x67eb3400e7",
+  "boxeo": "generico/lucha-boxeo",
+  "boxing": "generico/lucha-boxing",
+  "boxe": "generico/lucha-boxe",
+  "fight": "generico/lucha-fight",
+  "lucha": "generico/lucha-lucha",
+  "wrestling": "generico/lucha-wrestling",
+  "mma": "generico/lucha-mma",
+  "boks": "generico/lucha-boks",
+  "boksen": "generico/lucha-boksen",
+  "boxen": "generico/lucha-boxen",
+  "boxning": "generico/lucha-boxning",
+  "nyrkkeily": "generico/lucha-nyrkkeily",
+  "boksing": "generico/lucha-boksing",
+  "boksning": "generico/lucha-boksning",
+  "pugilato": "generico/lucha-pugilato",
+  "kampfsport": "generico/lucha-kampfsport",
+  "artesmarciales": "generico/lucha-artesmarciales",
+  "gures": "generico/lucha-gures",
+  "dovus": "generico/lucha-dovus",
+  "tinju": "generico/lucha-tinju",
+  "бокс": "generico/lucha-x7e2a0f35df",
+  "единоборства": "generico/lucha-x433bea8aa3",
+  "єдиноборства": "generico/lucha-x588ff9538e",
+  "πυγμαχια": "generico/lucha-xd838f8e9ba",
+  "μποξ": "generico/lucha-x6596bab908",
+  "ملاكمة": "generico/lucha-x0899828dde",
+  "مصارعة": "generico/lucha-x9de8aa11e9",
+  "قتال": "generico/lucha-x80f259575b",
+  "بوكس": "generico/lucha-xc689b54e19",
+  "كشتي": "generico/lucha-xacb8cbca41",
+  "אגרוף": "generico/lucha-x7946687120",
+  "बॉकसिंग": "generico/lucha-xa5fadd9ae3",
+  "कुशती": "generico/lucha-x4e9bf8f18c",
+  "বকসিং": "generico/lucha-xa43723a09f",
+  "มวย": "generico/lucha-x05a20c3f1f",
+  "มวยไทย": "generico/lucha-xab8bd8f45d",
+  "복싱": "generico/lucha-xb5449fece6",
+  "권투": "generico/lucha-x0098a0759a",
+  "격투기": "generico/lucha-x6d5c904f19",
+  "ホクシンク": "generico/lucha-x63504289b6",
+  "格闘技": "generico/lucha-x8f8f4d98dd",
+  "フロレス": "generico/lucha-x2855aa745b",
+  "拳击": "generico/lucha-x307a9db777",
+  "拳擊": "generico/lucha-xb291618883",
+  "格斗": "generico/lucha-x9c7f364efc",
+  "格鬥": "generico/lucha-x2ba123946d",
+  "搏击": "generico/lucha-xa5608771be",
+  "搏擊": "generico/lucha-x1e68b713d3",
+  "musica": "generico/musica-musica",
+  "music": "generico/musica-music",
+  "musique": "generico/musica-musique",
+  "musik": "generico/musica-musik",
+  "muziek": "generico/musica-muziek",
+  "muzik": "generico/musica-muzik",
+  "muzyka": "generico/musica-muzyka",
+  "muzica": "generico/musica-muzica",
+  "musikk": "generico/musica-musikk",
+  "musiikki": "generico/musica-musiikki",
+  "hudba": "generico/musica-hudba",
+  "zene": "generico/musica-zene",
+  "glazba": "generico/musica-glazba",
+  "muzika": "generico/musica-muzika",
+  "glasba": "generico/musica-glasba",
+  "muzike": "generico/musica-muzike",
+  "amnhac": "generico/musica-amnhac",
+  "музыка": "generico/musica-x5bd6ccf6be",
+  "музика": "generico/musica-x5e45b488b7",
+  "μουσικη": "generico/musica-x5f6f858f31",
+  "موسيقي": "generico/musica-x823d010f68",
+  "اغاني": "generico/musica-xdc249f4a96",
+  "موزيك": "generico/musica-xa6c34b6850",
+  "מוזיקה": "generico/musica-x0851d60ea2",
+  "संगीत": "generico/musica-xd2cc352003",
+  "मयूजिक": "generico/musica-xcaa51545d9",
+  "সঙগীত": "generico/musica-x24e2660d4a",
+  "গান": "generico/musica-xb5bfca6fee",
+  "মিউজিক": "generico/musica-x40b42837b2",
+  "เพลง": "generico/musica-xa86340bd44",
+  "ดนตรี": "generico/musica-xc77e6fa063",
+  "음악": "generico/musica-x414a7aadc6",
+  "뮤직": "generico/musica-xd6d58531e9",
+  "音楽": "generico/musica-x6376c97463",
+  "ミューシック": "generico/musica-x06532a0082",
+  "音乐": "generico/musica-xafb3c40c39",
+  "音樂": "generico/musica-xf7ec64c3a6",
+  "noticias": "generico/noticias-noticias",
+  "news": "generico/noticias-news",
+  "infos": "generico/noticias-infos",
+  "notizie": "generico/noticias-notizie",
+  "nachrichten": "generico/noticias-nachrichten",
+  "nieuws": "generico/noticias-nieuws",
+  "haber": "generico/noticias-haber",
+  "haberler": "generico/noticias-haberler",
+  "wiadomosci": "generico/noticias-wiadomosci",
+  "stiri": "generico/noticias-stiri",
+  "nyheter": "generico/noticias-nyheter",
+  "nyheder": "generico/noticias-nyheder",
+  "uutiset": "generico/noticias-uutiset",
+  "zpravy": "generico/noticias-zpravy",
+  "spravy": "generico/noticias-spravy",
+  "hirek": "generico/noticias-hirek",
+  "vijesti": "generico/noticias-vijesti",
+  "vesti": "generico/noticias-vesti",
+  "novice": "generico/noticias-novice",
+  "lajme": "generico/noticias-lajme",
+  "noticies": "generico/noticias-noticies",
+  "berita": "generico/noticias-berita",
+  "tintuc": "generico/noticias-tintuc",
+  "actualites": "generico/noticias-actualites",
+  "informativos": "generico/noticias-informativos",
+  "noticiario": "generico/noticias-noticiario",
+  "новости": "generico/noticias-xd562cb0f03",
+  "новини": "generico/noticias-xcd0f3ecc8d",
+  "ειδησεισ": "generico/noticias-xb8e05103de",
+  "ενημερωση": "generico/noticias-x23f6ce19e0",
+  "اخبار": "generico/noticias-xd5582e8e7f",
+  "الاخبار": "generico/noticias-x5c59e64e0d",
+  "اخبارية": "generico/noticias-xc10d579772",
+  "خبر": "generico/noticias-x86b5489e33",
+  "خبري": "generico/noticias-x1e69f5e459",
+  "خبريں": "generico/noticias-x21a0affe88",
+  "חדשות": "generico/noticias-x03bea7e98b",
+  "समाचार": "generico/noticias-x12bc6b682f",
+  "नयूज": "generico/noticias-x9b36721960",
+  "खबरें": "generico/noticias-xb2f07c8fa5",
+  "খবর": "generico/noticias-xcfe98f58a4",
+  "সংবাদ": "generico/noticias-x7745f60c67",
+  "নিউজ": "generico/noticias-x5ba06d22b2",
+  "ขาว": "generico/noticias-xa35ba01062",
+  "뉴스": "generico/noticias-x81d6a19ceb",
+  "ニュース": "generico/noticias-x68cd1ffec8",
+  "報道": "generico/noticias-x80f95ea504",
+  "新闻": "generico/noticias-x76484b3b88",
+  "新聞": "generico/noticias-x1e685b43b4",
+  "western": "generico/western-western",
+  "westerns": "generico/western-westerns",
+  "oeste": "generico/western-oeste",
+  "faroeste": "generico/western-faroeste",
+  "вестерн": "generico/western-x721979059d",
+  "вестерны": "generico/western-x204779e91a",
+  "γουεστερν": "generico/western-xb9591b7616",
+  "ويسترن": "generico/western-x6e7b446b32",
+  "西部劇": "generico/western-x16cf4ba922",
+  "서부극": "generico/western-xc17d098687",
+  "西部片": "generico/western-x1902b73552",
+  "drama": "generico/drama-drama",
+  "dramas": "generico/drama-dramas",
+  "drame": "generico/drama-drame",
+  "dramma": "generico/drama-dramma",
+  "drammatico": "generico/drama-drammatico",
+  "dramatico": "generico/drama-dramatico",
+  "dram": "generico/drama-dram",
+  "dramat": "generico/drama-dramat",
+  "draama": "generico/drama-draama",
+  "драма": "generico/drama-xee861e959f",
+  "драмы": "generico/drama-xab9b716dfd",
+  "δραμα": "generico/drama-x6dbe6e4cf6",
+  "دراما": "generico/drama-x0ecf1525e2",
+  "درام": "generico/drama-x4426e749e4",
+  "ڈرامہ": "generico/drama-x82ca44b725",
+  "ڈرامے": "generico/drama-x3b03c5d193",
+  "דרמה": "generico/drama-xc8ad5a2b7f",
+  "डरामा": "generico/drama-x4a5b8d1f33",
+  "नाटक": "generico/drama-xe32b6ecf94",
+  "নাটক": "generico/drama-xfef042df51",
+  "ডরামা": "generico/drama-x893d4acca9",
+  "ดรามา": "generico/drama-x6c14c05ad7",
+  "ละคร": "generico/drama-xc82d206675",
+  "드라마": "generico/drama-xca1d7dd827",
+  "トラマ": "generico/drama-x6c3bb4d765",
+  "剧情": "generico/drama-xcbeffbe8ec",
+  "劇情": "generico/drama-x9c79351937",
+  "戏剧": "generico/drama-x066051e9af",
+  "戲劇": "generico/drama-xb6d32ef618",
+  "romance": "generico/romance-romance",
+  "romantico": "generico/romance-romantico",
+  "romantic": "generico/romance-romantic",
+  "romantique": "generico/romance-romantique",
+  "romantici": "generico/romance-romantici",
+  "romantik": "generico/romance-romantik",
+  "amor": "generico/romance-amor",
+  "love": "generico/romance-love",
+  "amour": "generico/romance-amour",
+  "amore": "generico/romance-amore",
+  "liebe": "generico/romance-liebe",
+  "romantika": "generico/romance-romantika",
+  "romantikus": "generico/romance-romantikus",
+  "romantisch": "generico/romance-romantisch",
+  "romantiek": "generico/romance-romantiek",
+  "мелодрама": "generico/romance-xce22834518",
+  "мелодрамы": "generico/romance-xb998dea7f4",
+  "романтика": "generico/romance-xadd64dc22a",
+  "романтични": "generico/romance-x3e9d58599c",
+  "ρομαντικα": "generico/romance-xc82f4aa1e3",
+  "ρομαντικεσ": "generico/romance-x0fe2a3168d",
+  "رومانسي": "generico/romance-x91993be6a2",
+  "رومانسية": "generico/romance-x75667b5bc2",
+  "عاشقانه": "generico/romance-xfea05f6f30",
+  "رمانتيك": "generico/romance-xf8ac5ee507",
+  "רומנטי": "generico/romance-x5fe68d6c40",
+  "רומנטיקה": "generico/romance-x76913ad326",
+  "रोमांस": "generico/romance-x2aa904f0fc",
+  "रोमांटिक": "generico/romance-xab511dab51",
+  "রোমানস": "generico/romance-x8d251f2992",
+  "রোমানটিক": "generico/romance-x7ab2ce2406",
+  "โรแมนติก": "generico/romance-x63d6bc8a38",
+  "로맨스": "generico/romance-x2f8e4de6f0",
+  "멜로": "generico/romance-x884b2f38f8",
+  "ロマンス": "generico/romance-x9bc96a93d6",
+  "恋愛": "generico/romance-xe2a0ced198",
+  "爱情": "generico/romance-x1ac7a8936c",
+  "愛情": "generico/romance-xd742216167",
+  "浪漫": "generico/romance-xce0b0c8306",
+  "novelas": "generico/novelas-novelas",
+  "telenovelas": "generico/novelas-telenovelas",
+  "novela": "generico/novelas-novela",
+  "telenovela": "generico/novelas-telenovela",
+  "soap": "generico/novelas-soap",
+  "soaps": "generico/novelas-soaps",
+  "теленовеллы": "generico/novelas-x23f3ec7792",
+  "теленовелла": "generico/novelas-xe70bc3ae27",
+  "animacion": "generico/animacion-animacion",
+  "animation": "generico/animacion-animation",
+  "animazione": "generico/animacion-animazione",
+  "animacao": "generico/animacion-animacao",
+  "anime": "generico/animacion-anime",
+  "cartoons": "generico/animacion-cartoons",
+  "cartoon": "generico/animacion-cartoon",
+  "dibujos": "generico/animacion-dibujos",
+  "animados": "generico/animacion-animados",
+  "dessinsanimes": "generico/animacion-dessinsanimes",
+  "zeichentrick": "generico/animacion-zeichentrick",
+  "cizgifilm": "generico/animacion-cizgifilm",
+  "tegnefilm": "generico/animacion-tegnefilm",
+  "tecknat": "generico/animacion-tecknat",
+  "animaatio": "generico/animacion-animaatio",
+  "animowane": "generico/animacion-animowane",
+  "bajki": "generico/animacion-bajki",
+  "kreslene": "generico/animacion-kreslene",
+  "rajzfilmek": "generico/animacion-rajzfilmek",
+  "rajzfilm": "generico/animacion-rajzfilm",
+  "crtani": "generico/animacion-crtani",
+  "crtici": "generico/animacion-crtici",
+  "risanke": "generico/animacion-risanke",
+  "deseneanimate": "generico/animacion-deseneanimate",
+  "desene": "generico/animacion-desene",
+  "dibuixos": "generico/animacion-dibuixos",
+  "tekenfilms": "generico/animacion-tekenfilms",
+  "animasi": "generico/animacion-animasi",
+  "hoathinh": "generico/animacion-hoathinh",
+  "desenhos": "generico/animacion-desenhos",
+  "desenhosanimados": "generico/animacion-desenhosanimados",
+  "cartoni": "generico/animacion-cartoni",
+  "cartonianimati": "generico/animacion-cartonianimati",
+  "dibujosanimados": "generico/animacion-dibujosanimados",
+  "мультфильмы": "generico/animacion-xe52f798bf2",
+  "мультики": "generico/animacion-x51d71109aa",
+  "анимация": "generico/animacion-xdf7517951e",
+  "аниме": "generico/animacion-x626dd44380",
+  "мультфільми": "generico/animacion-xdc56a1dc40",
+  "анімація": "generico/animacion-xae32862fc9",
+  "аніме": "generico/animacion-x276b25d34c",
+  "цртани": "generico/animacion-xb10e2518ed",
+  "κινουμενασχεδια": "generico/animacion-xa66050473a",
+  "ανιμε": "generico/animacion-xfe509a9ec2",
+  "كرتون": "generico/animacion-x02e9622200",
+  "كارتون": "generico/animacion-x559a3eda2f",
+  "رسوممتحركة": "generico/animacion-xc40f5d2599",
+  "انمي": "generico/animacion-xc4502e450d",
+  "انيميشن": "generico/animacion-xe9498fb06e",
+  "انيمه": "generico/animacion-xccc4978f11",
+  "מצוירים": "generico/animacion-x867a2e5591",
+  "אנימציה": "generico/animacion-xf6b469bdf2",
+  "אנימה": "generico/animacion-x013f7dd539",
+  "कारटून": "generico/animacion-x4697f2ae62",
+  "एनिमेशन": "generico/animacion-x2b24c6794f",
+  "एनीमे": "generico/animacion-xd783aab4ba",
+  "কারটুন": "generico/animacion-x0cd2814678",
+  "অযানিমেশন": "generico/animacion-x6bc6550162",
+  "การ์ตน": "generico/animacion-xfb4479c2e6",
+  "อนิเมะ": "generico/animacion-xd80fba1f98",
+  "แอนิเมชัน": "generico/animacion-x37f805eb9e",
+  "애니메이션": "generico/animacion-xa3aac6b565",
+  "애니": "generico/animacion-x6f4617f4d6",
+  "만화": "generico/animacion-x430b9bfb57",
+  "アニメ": "generico/animacion-x70092af8e5",
+  "アニメーション": "generico/animacion-xcc40a6fc67",
+  "动画": "generico/animacion-x135f634fed",
+  "動畫": "generico/animacion-x9ccfc4d6f7",
+  "动漫": "generico/animacion-x8ca4a7b3fe",
+  "動漫": "generico/animacion-x84ec62144c",
+  "卡通": "generico/animacion-x15c182865e",
+  "cienciaficcion": "generico/cienciaficcion-cienciaficcion",
+  "scifi": "generico/cienciaficcion-scifi",
+  "sciencefiction": "generico/cienciaficcion-sciencefiction",
+  "fantascienza": "generico/cienciaficcion-fantascienza",
+  "ficcaocientifica": "generico/cienciaficcion-ficcaocientifica",
+  "bilimkurgu": "generico/cienciaficcion-bilimkurgu",
+  "fantasy": "generico/cienciaficcion-fantasy",
+  "fantasia": "generico/cienciaficcion-fantasia",
+  "fantastique": "generico/cienciaficcion-fantastique",
+  "fantastyka": "generico/cienciaficcion-fantastyka",
+  "фантастика": "generico/cienciaficcion-x322928e499",
+  "фэнтези": "generico/cienciaficcion-xb3a72ad67e",
+  "фентезі": "generico/cienciaficcion-x5a2e7bc64a",
+  "επιστημονικηφαντασια": "generico/cienciaficcion-xa8abb19375",
+  "φαντασιασ": "generico/cienciaficcion-x918e1977f7",
+  "خيالعلمي": "generico/cienciaficcion-xf00ef0d066",
+  "فانتازيا": "generico/cienciaficcion-x6dff15c415",
+  "علميتخيلي": "generico/cienciaficcion-x0e67d628b0",
+  "فانتزي": "generico/cienciaficcion-xe0da150d75",
+  "מדעבדיוני": "generico/cienciaficcion-x4721117c31",
+  "פנטזיה": "generico/cienciaficcion-xd9cdfd6871",
+  "साइंसफिकशन": "generico/cienciaficcion-x00a7b716e7",
+  "फैंटेसी": "generico/cienciaficcion-x04673eb9ed",
+  "ไซไฟ": "generico/cienciaficcion-xc9174c7902",
+  "แฟนตาซี": "generico/cienciaficcion-xea086019bd",
+  "공상과학": "generico/cienciaficcion-xd3535ea827",
+  "판타지": "generico/cienciaficcion-x1da177c121",
+  "ファンタシー": "generico/cienciaficcion-xb2c91581d6",
+  "サイエンスフィクション": "generico/cienciaficcion-x9b4ea2c4be",
+  "科幻": "generico/cienciaficcion-x8d8943ae31",
+  "奇幻": "generico/cienciaficcion-x5e5a44705f",
+  "crimen": "generico/crimen-crimen",
+  "crime": "generico/crimen-crime",
+  "crimes": "generico/crimen-crimes",
+  "criminal": "generico/crimen-criminal",
+  "krimi": "generico/crimen-krimi",
+  "policiaco": "generico/crimen-policiaco",
+  "polar": "generico/crimen-polar",
+  "giallo": "generico/crimen-giallo",
+  "suc": "generico/crimen-suc",
+  "kriminal": "generico/crimen-kriminal",
+  "kryminal": "generico/crimen-kryminal",
+  "krymina": "generico/crimen-kryminal",
+  "bunugyi": "generico/crimen-bunugyi",
+  "misdaad": "generico/crimen-misdaad",
+  "rikos": "generico/crimen-rikos",
+  "policial": "generico/crimen-policial",
+  "криминал": "generico/crimen-x3fe5d120d5",
+  "детектив": "generico/crimen-x8984b2f849",
+  "детективы": "generico/crimen-x6569c26887",
+  "кримінал": "generico/crimen-x5410912cff",
+  "детективи": "generico/crimen-xe6d37e3f6e",
+  "криминални": "generico/crimen-xa926d99ad6",
+  "крими": "generico/crimen-x3069152601",
+  "αστυνομικα": "generico/crimen-x682036605d",
+  "εγκλημα": "generico/crimen-x15e9458e40",
+  "جريمة": "generico/crimen-x9ea632373a",
+  "جرايم": "generico/crimen-x1a6e89e6ae",
+  "بوليسي": "generico/crimen-x33f08e465a",
+  "جنايي": "generico/crimen-xec0c62f17f",
+  "פשע": "generico/crimen-x0cfd5fe2a4",
+  "कराइम": "generico/crimen-xfe3820ac11",
+  "अपराध": "generico/crimen-xf93b75b1da",
+  "করাইম": "generico/crimen-xf6a2ef58ef",
+  "অপরাধ": "generico/crimen-x1e7376f6f1",
+  "อาชญากรรม": "generico/crimen-x506180d4a5",
+  "범죄": "generico/crimen-xbbd369bb70",
+  "犯罪": "generico/crimen-xd39a51b844",
+  "クライム": "generico/crimen-x3679d9f812",
+  "罪案": "generico/crimen-x01cd265444",
+  "警匪": "generico/crimen-x859fcadd1d",
+  "suspense": "generico/suspense-suspense",
+  "suspenso": "generico/suspense-suspenso",
+  "thriller": "generico/suspense-thriller",
+  "thrillers": "generico/suspense-thrillers",
+  "misterio": "generico/suspense-misterio",
+  "mystery": "generico/suspense-mystery",
+  "mistero": "generico/suspense-mistero",
+  "mystere": "generico/suspense-mystere",
+  "spanning": "generico/suspense-spanning",
+  "gerilim": "generico/suspense-gerilim",
+  "jannitys": "generico/suspense-jannitys",
+  "thrillery": "generico/suspense-thrillery",
+  "триллер": "generico/suspense-xc3437eb394",
+  "триллеры": "generico/suspense-x59e04f417a",
+  "трилер": "generico/suspense-x3310c9035d",
+  "трилери": "generico/suspense-x4599e9c8a4",
+  "трилър": "generico/suspense-x05ef55f6eb",
+  "трилъри": "generico/suspense-x29435db7b9",
+  "θριλερ": "generico/suspense-x760d8e732c",
+  "μυστηριου": "generico/suspense-x7b928fb8e5",
+  "اثارة": "generico/suspense-x686084b297",
+  "تشويق": "generico/suspense-x9f01aa8f81",
+  "غموض": "generico/suspense-x368e509719",
+  "هيجاني": "generico/suspense-x803b0a9080",
+  "معمايي": "generico/suspense-xddbfc73a2c",
+  "מתח": "generico/suspense-x1e7a252892",
+  "מותחן": "generico/suspense-x9e3c287904",
+  "थरिलर": "generico/suspense-x6d38cbb764",
+  "रहसय": "generico/suspense-xed21826bcb",
+  "ससपेंस": "generico/suspense-xa318b4f4dc",
+  "থরিলার": "generico/suspense-xa12f9d126b",
+  "রহসয": "generico/suspense-x67b47e7a7b",
+  "ระทึกขวัญ": "generico/suspense-x60c1d8b934",
+  "ลึกลับ": "generico/suspense-x695cf36d16",
+  "스릴러": "generico/suspense-x610d70341e",
+  "미스터리": "generico/suspense-x90b12f2050",
+  "サスヘンス": "generico/suspense-x8399f2a751",
+  "スリラー": "generico/suspense-x030d5088eb",
+  "ミステリー": "generico/suspense-x7ccf486031",
+  "悬疑": "generico/suspense-x3505ff2120",
+  "懸疑": "generico/suspense-xe365cb5030",
+  "惊悚": "generico/suspense-x66b4e34678",
+  "驚悚": "generico/suspense-x476dde64c0",
+  "familia": "generico/familia-familia",
+  "family": "generico/familia-family",
+  "famille": "generico/familia-famille",
+  "famiglia": "generico/familia-famiglia",
+  "familie": "generico/familia-familie",
+  "aile": "generico/familia-aile",
+  "rodzina": "generico/familia-rodzina",
+  "familiar": "generico/familia-familiar",
+  "familj": "generico/familia-familj",
+  "perhe": "generico/familia-perhe",
+  "rodina": "generico/familia-rodina",
+  "csalad": "generico/familia-csalad",
+  "csaladi": "generico/familia-csaladi",
+  "obitelj": "generico/familia-obitelj",
+  "porodica": "generico/familia-porodica",
+  "druzina": "generico/familia-druzina",
+  "familja": "generico/familia-familja",
+  "keluarga": "generico/familia-keluarga",
+  "giainh": "generico/familia-giainh",
+  "семеиныи": "generico/familia-xba6ba8ca6d",
+  "семеиные": "generico/familia-x161d7d7b33",
+  "семья": "generico/familia-x51496baf88",
+  "сімеині": "generico/familia-xc676fbd2b7",
+  "семеини": "generico/familia-xe4de0842b3",
+  "семеиство": "generico/familia-x24800aa5b2",
+  "породични": "generico/familia-x0d2b1630e0",
+  "οικογενειακα": "generico/familia-x349e4648e0",
+  "οικογενεια": "generico/familia-xd36a5ce9ae",
+  "عايلي": "generico/familia-x5afe927779",
+  "عايلية": "generico/familia-x5d31a4c7ca",
+  "العايلة": "generico/familia-x7e081cea60",
+  "خانوادگي": "generico/familia-x83c3f46b96",
+  "خانواده": "generico/familia-x850886d8a7",
+  "משפחה": "generico/familia-x926c043fcf",
+  "परिवार": "generico/familia-x59b4de98a6",
+  "फैमिली": "generico/familia-x1e8d5bfb35",
+  "পরিবার": "generico/familia-xf4261445c3",
+  "ครอบครัว": "generico/familia-x03895b26b9",
+  "가족": "generico/familia-xf3440eb1ce",
+  "ファミリー": "generico/familia-x6cde1262df",
+  "家族": "generico/familia-x242e8e5c3f",
+  "家庭": "generico/familia-x7cc8d6a508",
+  "合家欢": "generico/familia-x1fa999577a",
+  "合家歡": "generico/familia-xe6305d5aa6",
+  "clasicos": "generico/clasicos-clasicos",
+  "classics": "generico/clasicos-classics",
+  "classic": "generico/clasicos-classic",
+  "classiques": "generico/clasicos-classiques",
+  "classici": "generico/clasicos-classici",
+  "klassiker": "generico/clasicos-klassiker",
+  "classicos": "generico/clasicos-classicos",
+  "klasik": "generico/clasicos-klasik",
+  "clasico": "generico/clasicos-clasico",
+  "klassiekers": "generico/clasicos-klassiekers",
+  "klassikot": "generico/clasicos-klassikot",
+  "klasyka": "generico/clasicos-klasyka",
+  "klasika": "generico/clasicos-klasika",
+  "klasszikusok": "generico/clasicos-klasszikusok",
+  "klasikler": "generico/clasicos-klasikler",
+  "klassisk": "generico/clasicos-klassisk",
+  "классика": "generico/clasicos-x3e6bd93881",
+  "класика": "generico/clasicos-x9ea2df23f1",
+  "класици": "generico/clasicos-xb628dcbfc3",
+  "κλασικα": "generico/clasicos-x6b2f1b212f",
+  "κλασικεσ": "generico/clasicos-x6f86a3280e",
+  "كلاسيك": "generico/clasicos-x5422ab3190",
+  "كلاسيكي": "generico/clasicos-xe4d4bb298b",
+  "كلاسيكيات": "generico/clasicos-x0a4b027952",
+  "קלאסי": "generico/clasicos-x019fc46621",
+  "קלאסיקה": "generico/clasicos-x4203aa7345",
+  "कलासिक": "generico/clasicos-x18651c9d02",
+  "কলাসিক": "generico/clasicos-x7952efa021",
+  "คลาสสิก": "generico/clasicos-x9adad6e8c7",
+  "클래식": "generico/clasicos-x7e8ef0af1f",
+  "고전": "generico/clasicos-x5ac49557fb",
+  "クラシック": "generico/clasicos-xea12219d0e",
+  "名作": "generico/clasicos-x393767b195",
+  "经典": "generico/clasicos-xc0ca4b88a4",
+  "經典": "generico/clasicos-x0b466aa5a2",
+  "estrenos": "generico/estrenos-estrenos",
+  "premieres": "generico/estrenos-premieres",
+  "premiere": "generico/estrenos-premiere",
+  "estreias": "generico/estrenos-estreias",
+  "primevisioni": "generico/estrenos-primevisioni",
+  "premiery": "generico/estrenos-premiery",
+  "lancamentos": "generico/estrenos-lancamentos",
+  "newreleases": "generico/estrenos-newreleases",
+  "nuoveuscite": "generico/estrenos-nuoveuscite",
+  "vizyon": "generico/estrenos-vizyon",
+  "premiarer": "generico/estrenos-premiarer",
+  "estrenes": "generico/estrenos-estrenes",
+  "премьеры": "generico/estrenos-x49cdb90ec7",
+  "премьера": "generico/estrenos-x8485fd0eba",
+  "премиери": "generico/estrenos-x5c3413b343",
+  "премијере": "generico/estrenos-x5e6aa08949",
+  "πρεμιερεσ": "generico/estrenos-xf36d18c4a8",
+  "신작": "generico/estrenos-xfca998648a",
+  "新作": "generico/estrenos-x359068ffde",
+  "最新作": "generico/estrenos-x47025ab36b",
+  "新片": "generico/estrenos-x5861e10ba2",
+  "首播": "generico/estrenos-x9b4f85a230",
+  "navidad": "generico/navidad-navidad",
+  "christmas": "generico/navidad-christmas",
+  "xmas": "generico/navidad-xmas",
+  "noel": "generico/navidad-noel",
+  "natale": "generico/navidad-natale",
+  "weihnachten": "generico/navidad-weihnachten",
+  "natal": "generico/navidad-natal",
+  "kerst": "generico/navidad-kerst",
+  "kerstmis": "generico/navidad-kerstmis",
+  "jul": "generico/navidad-jul",
+  "yilbasi": "generico/navidad-yilbasi",
+  "joulu": "generico/navidad-joulu",
+  "vanoce": "generico/navidad-vanoce",
+  "vianoce": "generico/navidad-vianoce",
+  "karacsony": "generico/navidad-karacsony",
+  "bozic": "generico/navidad-bozic",
+  "craciun": "generico/navidad-craciun",
+  "nadal": "generico/navidad-nadal",
+  "bozenarodzenie": "generico/navidad-bozenarodzenie",
+  "swieta": "generico/navidad-swieta",
+  "giangsinh": "generico/navidad-giangsinh",
+  "krishtlindje": "generico/navidad-krishtlindje",
+  "новыигод": "generico/navidad-xb1bece5270",
+  "рождество": "generico/navidad-x94dd824be3",
+  "різдво": "generico/navidad-x6e0fa965cf",
+  "новиирік": "generico/navidad-xf1a6d7d6be",
+  "коледа": "generico/navidad-xd1ac1340f8",
+  "божић": "generico/navidad-x56d812fa27",
+  "χριστουγεννα": "generico/navidad-xb8c7249a4a",
+  "الكريسماس": "generico/navidad-x1fc32b3d2b",
+  "عيدالميلاد": "generico/navidad-xc2d150b3b9",
+  "करिसमस": "generico/navidad-x3dde130af9",
+  "คริสต์มาส": "generico/navidad-xdab3f22786",
+  "크리스마스": "generico/navidad-x7ef953cae0",
+  "クリスマス": "generico/navidad-xa646289ad7",
+  "圣诞": "generico/navidad-x5a1fbcde53",
+  "聖誕": "generico/navidad-xb8bde29099",
+  "圣诞节": "generico/navidad-x64f50f60ac",
+  "聖誕節": "generico/navidad-x340a88f0b7",
+  "cocina": "generico/cocina-cocina",
+  "cooking": "generico/cocina-cooking",
+  "food": "generico/cocina-food",
+  "cuisine": "generico/cocina-cuisine",
+  "cucina": "generico/cocina-cucina",
+  "kochen": "generico/cocina-kochen",
+  "culinaria": "generico/cocina-culinaria",
+  "yemek": "generico/cocina-yemek",
+  "gotowanie": "generico/cocina-gotowanie",
+  "gastronomia": "generico/cocina-gastronomia",
+  "matlagning": "generico/cocina-matlagning",
+  "ruoka": "generico/cocina-ruoka",
+  "koken": "generico/cocina-koken",
+  "kuchnia": "generico/cocina-kuchnia",
+  "vareni": "generico/cocina-vareni",
+  "varenie": "generico/cocina-varenie",
+  "fozes": "generico/cocina-fozes",
+  "gasztro": "generico/cocina-gasztro",
+  "kuhanje": "generico/cocina-kuhanje",
+  "kuvanje": "generico/cocina-kuvanje",
+  "gatit": "generico/cocina-gatit",
+  "cuina": "generico/cocina-cuina",
+  "masak": "generico/cocina-masak",
+  "masakan": "generico/cocina-masakan",
+  "kuliner": "generico/cocina-kuliner",
+  "amthuc": "generico/cocina-amthuc",
+  "mutfak": "generico/cocina-mutfak",
+  "comida": "generico/cocina-comida",
+  "gourmet": "generico/cocina-gourmet",
+  "recetas": "generico/cocina-recetas",
+  "кулинария": "generico/cocina-x49d2bea0fe",
+  "кухня": "generico/cocina-xaed56e68a6",
+  "кулінарія": "generico/cocina-xb50bf381dd",
+  "кулинарство": "generico/cocina-x2a3d02c76c",
+  "кухиња": "generico/cocina-x36d88d710f",
+  "μαγειρικη": "generico/cocina-x9994df5e08",
+  "γαστρονομια": "generico/cocina-x01b8d7c649",
+  "طبخ": "generico/cocina-xf129646d5d",
+  "الطبخ": "generico/cocina-x3dfe1b3a2f",
+  "مطبخ": "generico/cocina-xc75be674d3",
+  "طعام": "generico/cocina-x3944fbff8c",
+  "اشپزي": "generico/cocina-x400c905f3f",
+  "בישול": "generico/cocina-x64bedcd174",
+  "אוכל": "generico/cocina-xa9377a66d9",
+  "खाना": "generico/cocina-xee02d6e4f7",
+  "कुकिंग": "generico/cocina-xa348e5dddd",
+  "रसोई": "generico/cocina-x225cadc634",
+  "রাননা": "generico/cocina-xb12b2932da",
+  "อาหาร": "generico/cocina-xa5a1bd8e87",
+  "ทําอาหาร": "generico/cocina-xdc9101aaf3",
+  "요리": "generico/cocina-x75f8e418c7",
+  "음식": "generico/cocina-x70e49ae967",
+  "푸드": "generico/cocina-x2642be60f2",
+  "料理": "generico/cocina-xdf2144b498",
+  "クルメ": "generico/cocina-x577b0205c6",
+  "フート": "generico/cocina-x821d24d0a5",
+  "美食": "generico/cocina-xadcc7c4f90",
+  "烹饪": "generico/cocina-xd601839da0",
+  "烹飪": "generico/cocina-xf853af2e2e",
+  "viajes": "generico/viajes-viajes",
+  "travel": "generico/viajes-travel",
+  "voyage": "generico/viajes-voyage",
+  "voyages": "generico/viajes-voyages",
+  "viaggi": "generico/viajes-viaggi",
+  "reisen": "generico/viajes-reisen",
+  "viagens": "generico/viajes-viagens",
+  "seyahat": "generico/viajes-seyahat",
+  "podroze": "generico/viajes-podroze",
+  "turismo": "generico/viajes-turismo",
+  "resor": "generico/viajes-resor",
+  "reiser": "generico/viajes-reiser",
+  "rejser": "generico/viajes-rejser",
+  "matkailu": "generico/viajes-matkailu",
+  "reizen": "generico/viajes-reizen",
+  "cestovani": "generico/viajes-cestovani",
+  "cestovanie": "generico/viajes-cestovanie",
+  "utazas": "generico/viajes-utazas",
+  "putovanja": "generico/viajes-putovanja",
+  "potovanja": "generico/viajes-potovanja",
+  "calatorii": "generico/viajes-calatorii",
+  "viatges": "generico/viajes-viatges",
+  "wisata": "generico/viajes-wisata",
+  "perjalanan": "generico/viajes-perjalanan",
+  "dulich": "generico/viajes-dulich",
+  "gezi": "generico/viajes-gezi",
+  "viagem": "generico/viajes-viagem",
+  "tourism": "generico/viajes-tourism",
+  "tourisme": "generico/viajes-tourisme",
+  "путешествия": "generico/viajes-x40d3bc16ce",
+  "туризм": "generico/viajes-xf3743dacf1",
+  "подорожі": "generico/viajes-x1e8b1765ca",
+  "пътешествия": "generico/viajes-xece7f6bc23",
+  "туризъм": "generico/viajes-xba09231473",
+  "путовања": "generico/viajes-x0dafc64e96",
+  "ταξιδια": "generico/viajes-x80caab5f01",
+  "ταξιδι": "generico/viajes-x16c87c974e",
+  "سفر": "generico/viajes-xa74ecc3b5d",
+  "سياحة": "generico/viajes-x72b93a32d0",
+  "السفر": "generico/viajes-xaa2a11ed25",
+  "گردشگري": "generico/viajes-x874dfbeff1",
+  "טיולים": "generico/viajes-x34ec679ffd",
+  "תיירות": "generico/viajes-xac7127fdb9",
+  "यातरा": "generico/viajes-x615d6b547d",
+  "टरैवल": "generico/viajes-x513aa98da9",
+  "ভরমণ": "generico/viajes-xa2a468d291",
+  "ทองเทียว": "generico/viajes-x4d339f0203",
+  "เทียว": "generico/viajes-xeccb2b8a0c",
+  "여행": "generico/viajes-x0943e72f63",
+  "旅行": "generico/viajes-x92c1b6c8fd",
+  "トラヘル": "generico/viajes-xc97395ef9a",
+  "旅游": "generico/viajes-x49a9d6b3c3",
+  "旅遊": "generico/viajes-x6cf7de7318",
+  "naturaleza": "generico/naturaleza-naturaleza",
+  "nature": "generico/naturaleza-nature",
+  "natura": "generico/naturaleza-natura",
+  "natur": "generico/naturaleza-natur",
+  "natureza": "generico/naturaleza-natureza",
+  "doga": "generico/naturaleza-doga",
+  "natuur": "generico/naturaleza-natuur",
+  "animales": "generico/naturaleza-animales",
+  "animals": "generico/naturaleza-animals",
+  "animaux": "generico/naturaleza-animaux",
+  "animali": "generico/naturaleza-animali",
+  "tiere": "generico/naturaleza-tiere",
+  "wildlife": "generico/naturaleza-wildlife",
+  "luonto": "generico/naturaleza-luonto",
+  "elaimet": "generico/naturaleza-elaimet",
+  "dieren": "generico/naturaleza-dieren",
+  "przyroda": "generico/naturaleza-przyroda",
+  "zwierzeta": "generico/naturaleza-zwierzeta",
+  "priroda": "generico/naturaleza-priroda",
+  "zvirata": "generico/naturaleza-zvirata",
+  "termeszet": "generico/naturaleza-termeszet",
+  "allatok": "generico/naturaleza-allatok",
+  "narava": "generico/naturaleza-narava",
+  "alam": "generico/naturaleza-alam",
+  "hewan": "generico/naturaleza-hewan",
+  "thiennhien": "generico/naturaleza-thiennhien",
+  "hayvanlar": "generico/naturaleza-hayvanlar",
+  "djur": "generico/naturaleza-djur",
+  "animais": "generico/naturaleza-animais",
+  "vidasalvaje": "generico/naturaleza-vidasalvaje",
+  "fauna": "generico/naturaleza-fauna",
+  "природа": "generico/naturaleza-x210960fc31",
+  "животные": "generico/naturaleza-x0085afb774",
+  "тварини": "generico/naturaleza-xa809755e36",
+  "животни": "generico/naturaleza-xeb9a995783",
+  "животиње": "generico/naturaleza-x56f9798799",
+  "φυση": "generico/naturaleza-xa671c79c23",
+  "ζωα": "generico/naturaleza-xe33351cf96",
+  "طبيعة": "generico/naturaleza-xb1821d3f27",
+  "الطبيعة": "generico/naturaleza-x12afd1c5c5",
+  "حيوانات": "generico/naturaleza-x1a27ebf59b",
+  "الحيوانات": "generico/naturaleza-xed7e080545",
+  "طبيعت": "generico/naturaleza-xfa78e8a94b",
+  "حياتوحش": "generico/naturaleza-x92c659f532",
+  "טבע": "generico/naturaleza-x11a2941765",
+  "חיות": "generico/naturaleza-x2e4cf80413",
+  "परकृति": "generico/naturaleza-x8298b8692f",
+  "जानवर": "generico/naturaleza-xb5894654c0",
+  "वनयजीव": "generico/naturaleza-x40d3e347d9",
+  "পরকৃতি": "generico/naturaleza-x62f6b02883",
+  "ธรรมชาติ": "generico/naturaleza-x21a405faf4",
+  "สัตว์": "generico/naturaleza-x07c122fa25",
+  "자연": "generico/naturaleza-xacfcddfd59",
+  "동물": "generico/naturaleza-x3ddaaaa753",
+  "自然": "generico/naturaleza-xd63f619942",
+  "動物": "generico/naturaleza-x09e7384c81",
+  "ネイチャー": "generico/naturaleza-xbc7d035bb2",
+  "动物": "generico/naturaleza-x41ac3e62af",
+  "reality": "generico/reality-reality",
+  "realities": "generico/reality-realities",
+  "realityshow": "generico/reality-realityshow",
+  "realityshows": "generico/reality-realityshows",
+  "telerealite": "generico/reality-telerealite",
+  "telerrealidad": "generico/reality-telerrealidad",
+  "реалити": "generico/reality-x60f2595952",
+  "реалитишоу": "generico/reality-x375cf36a30",
+  "реаліті": "generico/reality-xe4cbb901ea",
+  "реалітішоу": "generico/reality-x0ad8fb15d0",
+  "риалити": "generico/reality-x29c024640f",
+  "ријалити": "generico/reality-x65725cbea8",
+  "ριαλιτι": "generico/reality-x575420bbb8",
+  "تلفزيونالواقع": "generico/reality-x9deb76b1b9",
+  "برامجالواقع": "generico/reality-x9e06f3b929",
+  "ריאליטי": "generico/reality-xb31e01f1c1",
+  "रियलिटी": "generico/reality-x11ed60823b",
+  "रियलिटीशो": "generico/reality-xaebddc455c",
+  "เรียลลิตี": "generico/reality-x05a895e6f6",
+  "리얼리티": "generico/reality-x60c230a74c",
+  "예능": "generico/reality-x1f02de556f",
+  "버라이어티": "generico/reality-x7ae253ee43",
+  "リアリティ": "generico/reality-x61b0e2eaf3",
+  "ハラエティ": "generico/reality-x6ba85c42bf",
+  "真人秀": "generico/reality-x2418e8f9ee",
+  "综艺": "generico/reality-xe9fb7d54e1",
+  "綜藝": "generico/reality-x93cb18423d",
+  "guerra": "generico/guerra-guerra",
+  "war": "generico/guerra-war",
+  "guerre": "generico/guerra-guerre",
+  "krieg": "generico/guerra-krieg",
+  "savas": "generico/guerra-savas",
+  "belico": "generico/guerra-belico",
+  "bellico": "generico/guerra-bellico",
+  "krig": "generico/guerra-krig",
+  "sota": "generico/guerra-sota",
+  "oorlog": "generico/guerra-oorlog",
+  "wojenne": "generico/guerra-wojenne",
+  "wojna": "generico/guerra-wojna",
+  "valecne": "generico/guerra-valecne",
+  "valka": "generico/guerra-valka",
+  "vojna": "generico/guerra-vojna",
+  "haboru": "generico/guerra-haboru",
+  "haborus": "generico/guerra-haborus",
+  "ratni": "generico/guerra-ratni",
+  "razboi": "generico/guerra-razboi",
+  "perang": "generico/guerra-perang",
+  "chientranh": "generico/guerra-chientranh",
+  "bellici": "generico/guerra-bellici",
+  "военные": "generico/guerra-x5641085770",
+  "военныи": "generico/guerra-xc79e1fe5d6",
+  "воина": "generico/guerra-x9897823c94",
+  "віиськові": "generico/guerra-xc50059c504",
+  "віина": "generico/guerra-xcc1095ab84",
+  "военни": "generico/guerra-x162ca6abc6",
+  "ратни": "generico/guerra-x37383d38f6",
+  "πολεμικα": "generico/guerra-x544cecf97f",
+  "πολεμοσ": "generico/guerra-x646fb394e7",
+  "حرب": "generico/guerra-xb2155e1c0a",
+  "حربي": "generico/guerra-x4b24325ab8",
+  "حروب": "generico/guerra-xcf75ebb19d",
+  "جنگ": "generico/guerra-x48ecf0d1f2",
+  "جنگي": "generico/guerra-x95647d11a9",
+  "מלחמה": "generico/guerra-x95dad83b8a",
+  "युदध": "generico/guerra-x124add2bfd",
+  "যুদধ": "generico/guerra-x6ce5311ac8",
+  "สงคราม": "generico/guerra-xcb207040a8",
+  "전쟁": "generico/guerra-x42c33a95f2",
+  "戦争": "generico/guerra-xb324fe2c5c",
+  "战争": "generico/guerra-x0ad4aaac01",
+  "戰爭": "generico/guerra-x284dda4273",
+  "aventura": "generico/aventura-aventura",
+  "aventuras": "generico/aventura-aventuras",
+  "adventure": "generico/aventura-adventure",
+  "adventures": "generico/aventura-adventures",
+  "aventure": "generico/aventura-aventure",
+  "avventura": "generico/aventura-avventura",
+  "abenteuer": "generico/aventura-abenteuer",
+  "macera": "generico/aventura-macera",
+  "aventyr": "generico/aventura-aventyr",
+  "eventyr": "generico/aventura-eventyr",
+  "seikkailu": "generico/aventura-seikkailu",
+  "avontuur": "generico/aventura-avontuur",
+  "przygodowe": "generico/aventura-przygodowe",
+  "przygoda": "generico/aventura-przygoda",
+  "dobrodruzne": "generico/aventura-dobrodruzne",
+  "kaland": "generico/aventura-kaland",
+  "avantura": "generico/aventura-avantura",
+  "pustolovscina": "generico/aventura-pustolovscina",
+  "pustolovina": "generico/aventura-pustolovina",
+  "aventures": "generico/aventura-aventures",
+  "petualangan": "generico/aventura-petualangan",
+  "phieuluu": "generico/aventura-phieuluu",
+  "avventure": "generico/aventura-avventure",
+  "приключения": "generico/aventura-xe559dab9f4",
+  "пригоди": "generico/aventura-x7bed4d9b52",
+  "приключенски": "generico/aventura-xcbb14f73e4",
+  "авантура": "generico/aventura-x53d59a21bf",
+  "авантуре": "generico/aventura-x663ef10097",
+  "περιπετεια": "generico/aventura-x37442427b7",
+  "περιπετειεσ": "generico/aventura-x1668771e58",
+  "مغامرات": "generico/aventura-x622035f8a3",
+  "مغامرة": "generico/aventura-x390cb7a625",
+  "ماجراجويي": "generico/aventura-x1c64eb617f",
+  "ماجرايي": "generico/aventura-x1f2fe645dd",
+  "הרפתקאות": "generico/aventura-x4b3d120d1c",
+  "एडवेंचर": "generico/aventura-x4aadf00469",
+  "साहसिक": "generico/aventura-x3b3d461a14",
+  "অযাডভেঞচার": "generico/aventura-x7158501212",
+  "ผจญภัย": "generico/aventura-x63538bb15d",
+  "모험": "generico/aventura-x6deffc9c57",
+  "어드벤처": "generico/aventura-x9564220726",
+  "アトヘンチャー": "generico/aventura-x1cb861bb3f",
+  "冒険": "generico/aventura-x9722abd03a",
+  "冒险": "generico/aventura-xd787264272",
+  "冒險": "generico/aventura-xffbfd0d2cc",
+  "historia": "generico/historia-historia",
+  "history": "generico/historia-history",
+  "histoire": "generico/historia-histoire",
+  "storia": "generico/historia-storia",
+  "geschichte": "generico/historia-geschichte",
+  "tarih": "generico/historia-tarih",
+  "historie": "generico/historia-historie",
+  "geschiedenis": "generico/historia-geschiedenis",
+  "tortenelem": "generico/historia-tortenelem",
+  "povijest": "generico/historia-povijest",
+  "istorija": "generico/historia-istorija",
+  "zgodovina": "generico/historia-zgodovina",
+  "istorie": "generico/historia-istorie",
+  "sejarah": "generico/historia-sejarah",
+  "lichsu": "generico/historia-lichsu",
+  "dejiny": "generico/historia-dejiny",
+  "histori": "generico/historia-histori",
+  "история": "generico/historia-x9d4bd15d6a",
+  "історія": "generico/historia-x97e6db0194",
+  "историја": "generico/historia-x4a9e7eff26",
+  "ιστορια": "generico/historia-x05c4148ff5",
+  "تاريخ": "generico/historia-x6d5892d913",
+  "التاريخ": "generico/historia-xd94d702d83",
+  "تاريخي": "generico/historia-x46a54865b8",
+  "היסטוריה": "generico/historia-x8726f8f528",
+  "इतिहास": "generico/historia-x94812e9063",
+  "ইতিহাস": "generico/historia-x0e5f1e5a78",
+  "ประวัติศาสตร์": "generico/historia-x4fe8a912c9",
+  "역사": "generico/historia-x2fd251fda8",
+  "歴史": "generico/historia-x64494d92b8",
+  "历史": "generico/historia-xbe78b20585",
+  "歷史": "generico/historia-x41e84cd892",
+  "evento": "generico/evento-evento",
+  "eventos": "generico/evento-eventos",
+  "event": "generico/evento-event",
+  "events": "generico/evento-events",
+  "evenement": "generico/evento-evenement",
+  "evenements": "generico/evento-evenements",
+  "ereignis": "generico/evento-ereignis",
+  "veranstaltung": "generico/evento-veranstaltung",
+  "evenemang": "generico/evento-evenemang",
+  "begivenhed": "generico/evento-begivenhed",
+  "tapahtuma": "generico/evento-tapahtuma",
+  "wydarzenie": "generico/evento-wydarzenie",
+  "udalost": "generico/evento-udalost",
+  "esemeny": "generico/evento-esemeny",
+  "eveniment": "generico/evento-eveniment",
+  "dogaaj": "generico/evento-dogaaj",
+  "dogodek": "generico/evento-dogodek",
+  "ngjarje": "generico/evento-ngjarje",
+  "esdeveniment": "generico/evento-esdeveniment",
+  "etkinlik": "generico/evento-etkinlik",
+  "acara": "generico/evento-acara",
+  "sukien": "generico/evento-sukien",
+  "событие": "generico/evento-x1d443c25ca",
+  "ивент": "generico/evento-x10f8304d70",
+  "подія": "generico/evento-x33554c8351",
+  "івент": "generico/evento-xb2fb342df5",
+  "събитие": "generico/evento-x302351895a",
+  "догађај": "generico/evento-x50145caa2a",
+  "εκδηλωση": "generico/evento-x4bff8777df",
+  "حدث": "generico/evento-x22518f4cfd",
+  "فعالية": "generico/evento-x1d18b0b179",
+  "رويداد": "generico/evento-x7d6c06bc8e",
+  "ايونٹ": "generico/evento-x03e1d7d3ac",
+  "אירוע": "generico/evento-x2266a5aaa7",
+  "इवेंट": "generico/evento-x06c1d79075",
+  "ইভেনট": "generico/evento-x679da09291",
+  "อีเวนต์": "generico/evento-x01c8fd7d2a",
+  "อีเวนท์": "generico/evento-x926c9546f0",
+  "กิจกรรม": "generico/evento-xa0b62623e8",
+  "이벤트": "generico/evento-x897a0ad905",
+  "행사": "generico/evento-x36404e60ba",
+  "イヘント": "generico/evento-xab4d9ded10",
+  "活动": "generico/evento-xb2548636f0",
+  "活動": "generico/evento-x47e6c61bb4",
+  "赛事": "generico/evento-x51cb076743",
+  "賽事": "generico/evento-x0d53c447c8"
+ },
+ "cine": [
+  "cine",
+  "cinema",
+  "elokuvat",
+  "film",
+  "filma",
+  "filme",
+  "filmek",
+  "filmer",
+  "filmes",
+  "filmi",
+  "filmler",
+  "filmovi",
+  "films",
+  "filmy",
+  "kino",
+  "movie",
+  "movies",
+  "peliculas",
+  "pelis",
+  "pellicules",
+  "phim",
+  "sinema",
+  "σινεμα",
+  "ταινιεσ",
+  "кино",
+  "кіно",
+  "филми",
+  "филмови",
+  "фильмы",
+  "фільми",
+  "סרטים",
+  "קולנוע",
+  "افلام",
+  "سينما",
+  "فلميں",
+  "فيلم",
+  "फिलमें",
+  "मूवीज",
+  "सिनेमा",
+  "চলচচিতর",
+  "সিনেমা",
+  "ภาพยนตร์",
+  "หนัง",
+  "영화",
+  "映画",
+  "电影",
+  "電影"
+ ],
  "logos": {
-  "generico/accion-acao": [
+  "generico/peliculas-peliculas": [
    "default",
    "dark"
   ],
-  "generico/accion-accion": [
+  "generico/peliculas-cine": [
    "default",
    "dark"
   ],
-  "generico/accion-action": [
+  "generico/peliculas-movies": [
    "default",
    "dark"
   ],
-  "generico/accion-actiune": [
+  "generico/peliculas-movie": [
    "default",
    "dark"
   ],
-  "generico/accion-akcja": [
+  "generico/peliculas-films": [
    "default",
    "dark"
   ],
-  "generico/accion-aksiyon": [
+  "generico/peliculas-film": [
    "default",
    "dark"
   ],
-  "generico/accion-azione": [
+  "generico/peliculas-cinema": [
    "default",
    "dark"
   ],
-  "generico/animacion-animacao": [
+  "generico/peliculas-filme": [
    "default",
    "dark"
   ],
-  "generico/animacion-animacion": [
+  "generico/peliculas-filmes": [
    "default",
    "dark"
   ],
-  "generico/animacion-animados": [
+  "generico/peliculas-kino": [
    "default",
    "dark"
   ],
-  "generico/animacion-animation": [
+  "generico/peliculas-filmy": [
    "default",
    "dark"
   ],
-  "generico/animacion-animazione": [
+  "generico/peliculas-sinema": [
    "default",
    "dark"
   ],
-  "generico/animacion-anime": [
+  "generico/peliculas-filmer": [
    "default",
    "dark"
   ],
-  "generico/animacion-cartoon": [
+  "generico/peliculas-elokuvat": [
    "default",
    "dark"
   ],
-  "generico/animacion-cartoons": [
+  "generico/peliculas-filmek": [
    "default",
    "dark"
   ],
-  "generico/animacion-cizgifilm": [
+  "generico/peliculas-filmovi": [
    "default",
    "dark"
   ],
-  "generico/animacion-dessinsanimes": [
+  "generico/peliculas-filmi": [
    "default",
    "dark"
   ],
-  "generico/animacion-dibujos": [
+  "generico/peliculas-filma": [
    "default",
    "dark"
   ],
-  "generico/animacion-zeichentrick": [
+  "generico/peliculas-pellicules": [
    "default",
    "dark"
   ],
-  "generico/aventura-abenteuer": [
+  "generico/peliculas-phim": [
    "default",
    "dark"
   ],
-  "generico/aventura-adventure": [
+  "generico/peliculas-filmler": [
    "default",
    "dark"
   ],
-  "generico/aventura-adventures": [
+  "generico/peliculas-pelis": [
    "default",
    "dark"
   ],
-  "generico/aventura-aventura": [
+  "generico/peliculas-x2bd500134c": [
    "default",
    "dark"
   ],
-  "generico/aventura-aventuras": [
+  "generico/peliculas-x28ac665d3f": [
    "default",
    "dark"
   ],
-  "generico/aventura-aventure": [
+  "generico/peliculas-x4efc5fd94a": [
    "default",
    "dark"
   ],
-  "generico/aventura-avventura": [
+  "generico/peliculas-xef8b4c28dc": [
    "default",
    "dark"
   ],
-  "generico/aventura-macera": [
+  "generico/peliculas-x9907c8cc17": [
    "default",
    "dark"
   ],
-  "generico/baloncesto-baloncesto": [
+  "generico/peliculas-x6c26771f2a": [
    "default",
    "dark"
   ],
-  "generico/baloncesto-basket": [
+  "generico/peliculas-x783ef50d12": [
    "default",
    "dark"
   ],
-  "generico/baloncesto-basketball": [
+  "generico/peliculas-xe801953035": [
    "default",
    "dark"
   ],
-  "generico/baloncesto-basquet": [
+  "generico/peliculas-xede8892ab9": [
    "default",
    "dark"
   ],
-  "generico/baloncesto-basquete": [
+  "generico/peliculas-xd3d826adf3": [
    "default",
    "dark"
   ],
-  "generico/cienciaficcion-bilimkurgu": [
+  "generico/peliculas-x739d1685ad": [
    "default",
    "dark"
   ],
-  "generico/cienciaficcion-cienciaficcion": [
+  "generico/peliculas-x2b18f8a933": [
    "default",
    "dark"
   ],
-  "generico/cienciaficcion-fantascienza": [
+  "generico/peliculas-x2a33f0871e": [
    "default",
    "dark"
   ],
-  "generico/cienciaficcion-fantasia": [
+  "generico/peliculas-x39ab103c3e": [
    "default",
    "dark"
   ],
-  "generico/cienciaficcion-fantastique": [
+  "generico/peliculas-x4f850132d5": [
    "default",
    "dark"
   ],
-  "generico/cienciaficcion-fantasy": [
+  "generico/peliculas-x9522423f9c": [
    "default",
    "dark"
   ],
-  "generico/cienciaficcion-ficcaocientifica": [
+  "generico/peliculas-x20091c83db": [
    "default",
    "dark"
   ],
-  "generico/cienciaficcion-sciencefiction": [
+  "generico/peliculas-xde7ebaff58": [
    "default",
    "dark"
   ],
-  "generico/cienciaficcion-scifi": [
+  "generico/peliculas-x70b3c97971": [
    "default",
    "dark"
   ],
-  "generico/clasicos-clasico": [
+  "generico/peliculas-x464cb7b0c3": [
    "default",
    "dark"
   ],
-  "generico/clasicos-clasicos": [
+  "generico/peliculas-x504a2093ad": [
    "default",
    "dark"
   ],
-  "generico/clasicos-classic": [
+  "generico/peliculas-xc33953efd9": [
    "default",
    "dark"
   ],
-  "generico/clasicos-classici": [
+  "generico/peliculas-x675d287d3e": [
    "default",
    "dark"
   ],
-  "generico/clasicos-classicos": [
+  "generico/peliculas-xba723f5f1d": [
    "default",
    "dark"
   ],
-  "generico/clasicos-classics": [
+  "generico/peliculas-xeb8bc1158d": [
    "default",
    "dark"
   ],
-  "generico/clasicos-classiques": [
+  "generico/series-series": [
    "default",
    "dark"
   ],
-  "generico/clasicos-klasik": [
+  "generico/series-serie": [
    "default",
    "dark"
   ],
-  "generico/clasicos-klassiker": [
+  "generico/series-serien": [
    "default",
    "dark"
   ],
-  "generico/cocina-cocina": [
+  "generico/series-seriale": [
    "default",
    "dark"
   ],
-  "generico/cocina-cooking": [
+  "generico/series-serials": [
    "default",
    "dark"
   ],
-  "generico/cocina-cucina": [
+  "generico/series-dizi": [
    "default",
    "dark"
   ],
-  "generico/cocina-cuisine": [
+  "generico/series-serialetv": [
    "default",
    "dark"
   ],
-  "generico/cocina-culinaria": [
+  "generico/series-serier": [
    "default",
    "dark"
   ],
-  "generico/cocina-food": [
+  "generico/series-sarjat": [
    "default",
    "dark"
   ],
-  "generico/cocina-gastronomia": [
+  "generico/series-serialy": [
    "default",
    "dark"
   ],
-  "generico/cocina-gotowanie": [
+  "generico/series-sorozatok": [
    "default",
    "dark"
   ],
-  "generico/cocina-kochen": [
+  "generico/series-serije": [
    "default",
    "dark"
   ],
-  "generico/cocina-yemek": [
+  "generico/series-diziler": [
+   "default",
+   "dark"
+  ],
+  "generico/series-tvseries": [
+   "default",
+   "dark"
+  ],
+  "generico/series-tvshows": [
+   "default",
+   "dark"
+  ],
+  "generico/series-x0d7aac603f": [
+   "default",
+   "dark"
+  ],
+  "generico/series-x171ed199ed": [
+   "default",
+   "dark"
+  ],
+  "generico/series-x1a06beebeb": [
+   "default",
+   "dark"
+  ],
+  "generico/series-xc8587649e9": [
+   "default",
+   "dark"
+  ],
+  "generico/series-x8254a61401": [
+   "default",
+   "dark"
+  ],
+  "generico/series-xbc1bda51c7": [
+   "default",
+   "dark"
+  ],
+  "generico/series-x64d94b3295": [
+   "default",
+   "dark"
+  ],
+  "generico/series-xef3bce99c8": [
+   "default",
+   "dark"
+  ],
+  "generico/series-x0e61193001": [
+   "default",
+   "dark"
+  ],
+  "generico/series-x5466c31927": [
+   "default",
+   "dark"
+  ],
+  "generico/series-xa9ca0e4d60": [
+   "default",
+   "dark"
+  ],
+  "generico/series-x23d62d8466": [
+   "default",
+   "dark"
+  ],
+  "generico/series-xc3e89aee42": [
+   "default",
+   "dark"
+  ],
+  "generico/series-x3b8a0db008": [
+   "default",
+   "dark"
+  ],
+  "generico/series-xa7db207fc1": [
+   "default",
+   "dark"
+  ],
+  "generico/series-xe4829ed1bc": [
+   "default",
+   "dark"
+  ],
+  "generico/series-x4f40bbb394": [
+   "default",
+   "dark"
+  ],
+  "generico/series-x35e4f9976f": [
    "default",
    "dark"
   ],
@@ -244,11 +1738,11 @@
    "default",
    "dark"
   ],
-  "generico/comedia-comedie": [
+  "generico/comedia-comedy": [
    "default",
    "dark"
   ],
-  "generico/comedia-comedy": [
+  "generico/comedia-comedie": [
    "default",
    "dark"
   ],
@@ -256,11 +1750,7 @@
    "default",
    "dark"
   ],
-  "generico/comedia-humor": [
-   "default",
-   "dark"
-  ],
-  "generico/comedia-humour": [
+  "generico/comedia-komodie": [
    "default",
    "dark"
   ],
@@ -276,339 +1766,371 @@
    "default",
    "dark"
   ],
-  "generico/comedia-komodie": [
+  "generico/comedia-humor": [
    "default",
    "dark"
   ],
-  "generico/crimen-crime": [
+  "generico/comedia-humour": [
    "default",
    "dark"
   ],
-  "generico/crimen-crimen": [
+  "generico/comedia-vigjatek": [
    "default",
    "dark"
   ],
-  "generico/crimen-crimes": [
+  "generico/comedia-komedija": [
    "default",
    "dark"
   ],
-  "generico/crimen-criminal": [
+  "generico/comedia-komediot": [
    "default",
    "dark"
   ],
-  "generico/crimen-giallo": [
+  "generico/comedia-x703b388248": [
    "default",
    "dark"
   ],
-  "generico/crimen-krimi": [
+  "generico/comedia-xaccdcb9110": [
    "default",
    "dark"
   ],
-  "generico/crimen-polar": [
+  "generico/comedia-x02bacf2d17": [
    "default",
    "dark"
   ],
-  "generico/crimen-policiaco": [
+  "generico/comedia-x8a5074cea9": [
    "default",
    "dark"
   ],
-  "generico/crimen-suc": [
+  "generico/comedia-xf67be8524c": [
    "default",
    "dark"
   ],
-  "generico/deportes-deporte": [
+  "generico/comedia-x35bdf78ffe": [
    "default",
    "dark"
   ],
-  "generico/deportes-deportes": [
+  "generico/comedia-x7e49644ecf": [
    "default",
    "dark"
   ],
-  "generico/deportes-desporto": [
+  "generico/comedia-x3881c43dbf": [
    "default",
    "dark"
   ],
-  "generico/deportes-esportes": [
+  "generico/comedia-x358631ceb2": [
    "default",
    "dark"
   ],
-  "generico/deportes-spor": [
+  "generico/comedia-x0ccd453c1f": [
    "default",
    "dark"
   ],
-  "generico/deportes-sport": [
+  "generico/comedia-x4cfc1f02d1": [
    "default",
    "dark"
   ],
-  "generico/deportes-sports": [
+  "generico/comedia-x56465ebd55": [
    "default",
    "dark"
   ],
-  "generico/documentales-belgesel": [
+  "generico/comedia-x357b7c459b": [
    "default",
    "dark"
   ],
-  "generico/documentales-docs": [
+  "generico/comedia-xff908a7d4d": [
    "default",
    "dark"
   ],
-  "generico/documentales-documentaire": [
+  "generico/comedia-x44a3773109": [
    "default",
    "dark"
   ],
-  "generico/documentales-documentaires": [
+  "generico/comedia-x048c7f7f6b": [
    "default",
    "dark"
   ],
-  "generico/documentales-documental": [
+  "generico/comedia-x03d5d3e41c": [
    "default",
    "dark"
   ],
-  "generico/documentales-documentales": [
+  "generico/comedia-x52f05c6670": [
    "default",
    "dark"
   ],
-  "generico/documentales-documentare": [
+  "generico/comedia-x29498d64fe": [
    "default",
    "dark"
   ],
-  "generico/documentales-documentari": [
+  "generico/accion-accion": [
    "default",
    "dark"
   ],
-  "generico/documentales-documentaries": [
+  "generico/accion-action": [
    "default",
    "dark"
   ],
-  "generico/documentales-documentarios": [
+  "generico/accion-azione": [
    "default",
    "dark"
   ],
-  "generico/documentales-documentary": [
+  "generico/accion-acao": [
    "default",
    "dark"
   ],
-  "generico/documentales-doku": [
+  "generico/accion-aksiyon": [
    "default",
    "dark"
   ],
-  "generico/documentales-dokumentar": [
+  "generico/accion-akcja": [
    "default",
    "dark"
   ],
-  "generico/documentales-dokumentation": [
+  "generico/accion-actiune": [
    "default",
    "dark"
   ],
-  "generico/documentales-dokumenty": [
+  "generico/accion-akce": [
    "default",
    "dark"
   ],
-  "generico/documentales-dokus": [
+  "generico/accion-akcio": [
    "default",
    "dark"
   ],
-  "generico/drama-dram": [
+  "generico/accion-akcija": [
    "default",
    "dark"
   ],
-  "generico/drama-drama": [
+  "generico/accion-accio": [
    "default",
    "dark"
   ],
-  "generico/drama-dramas": [
+  "generico/accion-toiminta": [
    "default",
    "dark"
   ],
-  "generico/drama-dramat": [
+  "generico/accion-hanhong": [
    "default",
    "dark"
   ],
-  "generico/drama-dramatico": [
+  "generico/accion-aksi": [
    "default",
    "dark"
   ],
-  "generico/drama-drame": [
+  "generico/accion-actie": [
    "default",
    "dark"
   ],
-  "generico/drama-dramma": [
+  "generico/accion-xe1735501f1": [
    "default",
    "dark"
   ],
-  "generico/drama-drammatico": [
+  "generico/accion-xa1befd17c2": [
    "default",
    "dark"
   ],
-  "generico/estrenos-estreias": [
+  "generico/accion-x0c88d1b453": [
    "default",
    "dark"
   ],
-  "generico/estrenos-estrenos": [
+  "generico/accion-xb8f7010dd9": [
    "default",
    "dark"
   ],
-  "generico/estrenos-premiere": [
+  "generico/accion-x1ac5f50877": [
    "default",
    "dark"
   ],
-  "generico/estrenos-premieres": [
+  "generico/accion-x6ad364f5fc": [
    "default",
    "dark"
   ],
-  "generico/estrenos-premiery": [
+  "generico/accion-x249b1030d4": [
    "default",
    "dark"
   ],
-  "generico/estrenos-primevisioni": [
+  "generico/accion-xdd11301f90": [
    "default",
    "dark"
   ],
-  "generico/familia-aile": [
+  "generico/accion-xff4a487052": [
    "default",
    "dark"
   ],
-  "generico/familia-famiglia": [
+  "generico/accion-xd0685c466f": [
    "default",
    "dark"
   ],
-  "generico/familia-familia": [
+  "generico/accion-x91eeb61cd2": [
    "default",
    "dark"
   ],
-  "generico/familia-familiar": [
+  "generico/accion-xeabf1cf816": [
    "default",
    "dark"
   ],
-  "generico/familia-familie": [
+  "generico/accion-xc323d01283": [
    "default",
    "dark"
   ],
-  "generico/familia-famille": [
+  "generico/accion-x95754cfb99": [
    "default",
    "dark"
   ],
-  "generico/familia-family": [
+  "generico/accion-x9d1f80c9a2": [
    "default",
    "dark"
   ],
-  "generico/familia-rodzina": [
+  "generico/accion-xf3f0a6419a": [
    "default",
    "dark"
   ],
-  "generico/futbol-calcio": [
+  "generico/accion-xfaedd7eb6a": [
    "default",
    "dark"
   ],
-  "generico/futbol-football": [
+  "generico/accion-xd9d9827827": [
    "default",
    "dark"
   ],
-  "generico/futbol-fussball": [
+  "generico/accion-x62a8d884d6": [
    "default",
    "dark"
   ],
-  "generico/futbol-futbol": [
+  "generico/terror-terror": [
    "default",
    "dark"
   ],
-  "generico/futbol-futebol": [
+  "generico/terror-horror": [
    "default",
    "dark"
   ],
-  "generico/futbol-pilkanozna": [
+  "generico/terror-horreur": [
    "default",
    "dark"
   ],
-  "generico/futbol-soccer": [
+  "generico/terror-korku": [
    "default",
    "dark"
   ],
-  "generico/futbol-voetbal": [
+  "generico/terror-skrack": [
    "default",
    "dark"
   ],
-  "generico/golf-golf": [
+  "generico/terror-grusel": [
    "default",
    "dark"
   ],
-  "generico/guerra-belico": [
+  "generico/terror-skrk": [
    "default",
    "dark"
   ],
-  "generico/guerra-bellico": [
+  "generico/terror-skrekk": [
    "default",
    "dark"
   ],
-  "generico/guerra-guerra": [
+  "generico/terror-kauhu": [
    "default",
    "dark"
   ],
-  "generico/guerra-guerre": [
+  "generico/terror-horor": [
    "default",
    "dark"
   ],
-  "generico/guerra-krieg": [
+  "generico/terror-kinhdi": [
    "default",
    "dark"
   ],
-  "generico/guerra-savas": [
+  "generico/terror-griezel": [
    "default",
    "dark"
   ],
-  "generico/guerra-war": [
+  "generico/terror-epouvante": [
    "default",
    "dark"
   ],
-  "generico/historia-geschichte": [
+  "generico/terror-miedo": [
    "default",
    "dark"
   ],
-  "generico/historia-histoire": [
+  "generico/terror-x19d2300c2b": [
    "default",
    "dark"
   ],
-  "generico/historia-historia": [
+  "generico/terror-x4638a52d73": [
    "default",
    "dark"
   ],
-  "generico/historia-history": [
+  "generico/terror-xd262c8b07e": [
    "default",
    "dark"
   ],
-  "generico/historia-storia": [
+  "generico/terror-x2fcdf21062": [
    "default",
    "dark"
   ],
-  "generico/historia-tarih": [
+  "generico/terror-x370dd3d3b3": [
    "default",
    "dark"
   ],
-  "generico/infantil-bambini": [
+  "generico/terror-xf76667bc51": [
    "default",
    "dark"
   ],
-  "generico/infantil-barn": [
+  "generico/terror-x711dc58e04": [
    "default",
    "dark"
   ],
-  "generico/infantil-cocuk": [
+  "generico/terror-xabfc1d9ab9": [
    "default",
    "dark"
   ],
-  "generico/infantil-copii": [
+  "generico/terror-x20fe615b08": [
    "default",
    "dark"
   ],
-  "generico/infantil-criancas": [
+  "generico/terror-xa8907e68ce": [
    "default",
    "dark"
   ],
-  "generico/infantil-dzieci": [
+  "generico/terror-x3a47278a7a": [
    "default",
    "dark"
   ],
-  "generico/infantil-enfants": [
+  "generico/terror-x341d719633": [
+   "default",
+   "dark"
+  ],
+  "generico/terror-xd6f5401b7c": [
+   "default",
+   "dark"
+  ],
+  "generico/terror-xbfc4f195a6": [
+   "default",
+   "dark"
+  ],
+  "generico/terror-x0dc3d51c55": [
+   "default",
+   "dark"
+  ],
+  "generico/terror-x1947c8ce6c": [
+   "default",
+   "dark"
+  ],
+  "generico/terror-x520524f583": [
+   "default",
+   "dark"
+  ],
+  "generico/terror-xc64e6e1c70": [
+   "default",
+   "dark"
+  ],
+  "generico/terror-x1dec9772cd": [
+   "default",
+   "dark"
+  ],
+  "generico/terror-xe8e8a86959": [
    "default",
    "dark"
   ],
@@ -620,7 +2142,7 @@
    "default",
    "dark"
   ],
-  "generico/infantil-jeunesse": [
+  "generico/infantil-ninos": [
    "default",
    "dark"
   ],
@@ -628,11 +2150,15 @@
    "default",
    "dark"
   ],
-  "generico/infantil-kinder": [
+  "generico/infantil-enfants": [
    "default",
    "dark"
   ],
-  "generico/infantil-ninos": [
+  "generico/infantil-jeunesse": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-bambini": [
    "default",
    "dark"
   ],
@@ -640,43 +2166,983 @@
    "default",
    "dark"
   ],
-  "generico/lucha-boxe": [
+  "generico/infantil-kinder": [
    "default",
    "dark"
   ],
-  "generico/lucha-boxeo": [
+  "generico/infantil-cocuk": [
    "default",
    "dark"
   ],
-  "generico/lucha-boxing": [
+  "generico/infantil-dzieci": [
    "default",
    "dark"
   ],
-  "generico/lucha-fight": [
+  "generico/infantil-copii": [
    "default",
    "dark"
   ],
-  "generico/lucha-lucha": [
+  "generico/infantil-barn": [
    "default",
    "dark"
   ],
-  "generico/lucha-mma": [
+  "generico/infantil-criancas": [
    "default",
    "dark"
   ],
-  "generico/lucha-wrestling": [
+  "generico/infantil-brn": [
    "default",
    "dark"
   ],
-  "generico/motor-automobilismo": [
+  "generico/infantil-lapset": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-deti": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-gyerekek": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-djeca": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-deca": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-otroci": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-femije": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-nens": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-infantils": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-anak": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-anakanak": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-thieunhi": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-kinderen": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-cocuklar": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-peques": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-x9f1fea2365": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-xf6293f2ed7": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-x57548f41dc": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-x418eef0804": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-x897cfc389b": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-x350c8d8c00": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-x9733cbb556": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-x409fffc1cb": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-x3fac2977ad": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-xa7fe70aaa9": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-xcd43032297": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-x93bfb238f8": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-xd830ecafeb": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-x4de8ceaad5": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-x486aabf842": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-xe016385d26": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-x5f97db659f": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-x428cf038a9": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-x4eb64381c6": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-xff9a904d37": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-x9923ae1fbf": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-xa20ceaf169": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-x6005ea7c09": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-x11fb5d289a": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-xd50d52be13": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-x873fc984fc": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-xe3858b83f3": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-xacd3b58e3c": [
+   "default",
+   "dark"
+  ],
+  "generico/infantil-x888d21486f": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-documentales": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-documental": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-documentary": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-documentaries": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-docs": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-documentaires": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-documentaire": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-documentari": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-doku": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-dokus": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-dokumentation": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-documentarios": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-belgesel": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-dokumenty": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-dokumentar": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-documentare": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-dokumentarer": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-dokumentit": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-dokumentarni": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-dokumentumfilmek": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-dokumentarci": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-dokumenter": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-tailieu": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-documentals": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-belgeseller": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-x9eead25a50": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-x5f43a91bf8": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-xca3b96c79b": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-xd7a7362cd0": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-x8747143c96": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-x1b41a11bea": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-x41789f852c": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-xcf2c40ce7b": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-xdd04a0f1ba": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-xd938110773": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-xfac5a4347a": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-xafa1460459": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-x8b0207362a": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-x67efdc617a": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-x5466cc62ed": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-xe8b7199b92": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-x72c9c2f44d": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-xff838cfb61": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-xbc61b78c69": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-x162ffa3f62": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-x6b9877f901": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-x9e897cf426": [
+   "default",
+   "dark"
+  ],
+  "generico/documentales-x5a6be0943e": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-deportes": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-sports": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-sport": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-esportes": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-desporto": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-spor": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-deporte": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-urheilu": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-olahraga": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-sukan": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-thethao": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-deportivo": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-x9dfe189252": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-x656af95844": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-x3b8e9b0058": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-x8af22f7f74": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-x0132e61828": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-xc2e597b192": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-xfa8a444d8c": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-x92a15a70b7": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-x986918b5b5": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-x36d421f278": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-x1a8208b170": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-x29cc674ca9": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-x49235a19dc": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-xa18f4a92f3": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-x3bbf04dab6": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-x5c49f56ef4": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-x5bfa27be8b": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-x941ebf0ff6": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-x82d0f5fd4e": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-x98bc812d83": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-x9d99dac5fb": [
+   "default",
+   "dark"
+  ],
+  "generico/deportes-xd5d3ea280b": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-futbol": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-football": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-soccer": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-calcio": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-fussball": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-futebol": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-voetbal": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-pilkanozna": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-futbolsala": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-futsal": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-fotboll": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-fotball": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-fodbold": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-jalkapallo": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-fotbal": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-futbal": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-foci": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-labdarugas": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-nogomet": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-fudbal": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-futboll": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-sepakbola": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-bolasepak": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-bonga": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-x3dbc5b65ff": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-x1cb0564968": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-xb05528760d": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-x344111a6cb": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-xfc622812dd": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-x4baeec8170": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-x8910d151f9": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-x1a4ca1a762": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-x05d5066b20": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-x4a25c98cf0": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-x179cd3c7d1": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-x5bc2d16300": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-xf311f74f71": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-x97fa9859f5": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-x7c94d8edbe": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-xa1b588d9dc": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-xeb16d04f13": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-x4696b444b6": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-x5c7866a750": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-x9c50871a8b": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-x514ef76f62": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-x47fc16be10": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-xc57eda88a3": [
+   "default",
+   "dark"
+  ],
+  "generico/futbol-x211f7fdfaf": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-baloncesto": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-basketball": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-basket": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-basquet": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-basquete": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-koripallo": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-kosarka": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-kosarlabda": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-koszykowka": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-basketbal": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-basketbol": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-baschet": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-pallacanestro": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-bolabasket": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-bongro": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-x61e6e6145f": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-x2376b8b8c1": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-xef7eb4e031": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-xb234db3c7c": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-xdc4deb015a": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-x3f3179aa39": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-x33f9177252": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-xd95b754a84": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-x4a4408de91": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-xa66810a70f": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-xbacad5edf1": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-xcda3717eb7": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-x176714dafd": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-xf5fd383725": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-xbfb5785690": [
+   "default",
+   "dark"
+  ],
+  "generico/baloncesto-xbbb641e81d": [
+   "default",
+   "dark"
+  ],
+  "generico/tenis-tenis": [
+   "default",
+   "dark"
+  ],
+  "generico/tenis-tennis": [
+   "default",
+   "dark"
+  ],
+  "generico/tenis-tenisz": [
+   "default",
+   "dark"
+  ],
+  "generico/tenis-x7f98f2fb55": [
+   "default",
+   "dark"
+  ],
+  "generico/tenis-xa9251fa0bc": [
+   "default",
+   "dark"
+  ],
+  "generico/tenis-x10e38b9445": [
+   "default",
+   "dark"
+  ],
+  "generico/tenis-xaaf1eb934e": [
+   "default",
+   "dark"
+  ],
+  "generico/tenis-x660d96f173": [
+   "default",
+   "dark"
+  ],
+  "generico/tenis-xb0cf09509f": [
+   "default",
+   "dark"
+  ],
+  "generico/tenis-x65b7d32e15": [
+   "default",
+   "dark"
+  ],
+  "generico/tenis-x12094c30c8": [
+   "default",
+   "dark"
+  ],
+  "generico/tenis-xdc8a8ca523": [
+   "default",
+   "dark"
+  ],
+  "generico/tenis-x28fdbbb74d": [
+   "default",
+   "dark"
+  ],
+  "generico/tenis-x756df05cb5": [
+   "default",
+   "dark"
+  ],
+  "generico/tenis-x7bb5910fc3": [
+   "default",
+   "dark"
+  ],
+  "generico/tenis-x5f420bb5eb": [
+   "default",
+   "dark"
+  ],
+  "generico/tenis-x5c9751cdc9": [
+   "default",
+   "dark"
+  ],
+  "generico/tenis-xf29f636a70": [
+   "default",
+   "dark"
+  ],
+  "generico/golf-golf": [
+   "default",
+   "dark"
+  ],
+  "generico/golf-x389fae23d4": [
+   "default",
+   "dark"
+  ],
+  "generico/golf-x470d732755": [
+   "default",
+   "dark"
+  ],
+  "generico/golf-x3b7bd36e34": [
+   "default",
+   "dark"
+  ],
+  "generico/golf-xa376866f98": [
+   "default",
+   "dark"
+  ],
+  "generico/golf-x260d1ea1d4": [
+   "default",
+   "dark"
+  ],
+  "generico/golf-x10a9978fec": [
+   "default",
+   "dark"
+  ],
+  "generico/golf-x07b6e54ee8": [
+   "default",
+   "dark"
+  ],
+  "generico/golf-xffa659c6a3": [
+   "default",
+   "dark"
+  ],
+  "generico/golf-x1105734ce1": [
+   "default",
+   "dark"
+  ],
+  "generico/golf-x23df7599a1": [
+   "default",
+   "dark"
+  ],
+  "generico/golf-x6399f7ae9a": [
+   "default",
+   "dark"
+  ],
+  "generico/golf-x45f16d57de": [
+   "default",
+   "dark"
+  ],
+  "generico/golf-x087da65fca": [
    "default",
    "dark"
   ],
   "generico/motor-motor": [
-   "default",
-   "dark"
-  ],
-  "generico/motor-motori": [
    "default",
    "dark"
   ],
@@ -688,7 +3154,259 @@
    "default",
    "dark"
   ],
-  "generico/musica-music": [
+  "generico/motor-motori": [
+   "default",
+   "dark"
+  ],
+  "generico/motor-automobilismo": [
+   "default",
+   "dark"
+  ],
+  "generico/motor-automoto": [
+   "default",
+   "dark"
+  ],
+  "generico/motor-sportsmecaniques": [
+   "default",
+   "dark"
+  ],
+  "generico/motor-deportesdemotor": [
+   "default",
+   "dark"
+  ],
+  "generico/motor-x035b7afe44": [
+   "default",
+   "dark"
+  ],
+  "generico/motor-xaeba646de1": [
+   "default",
+   "dark"
+  ],
+  "generico/motor-xb6598aaca1": [
+   "default",
+   "dark"
+  ],
+  "generico/motor-xb2c11817ee": [
+   "default",
+   "dark"
+  ],
+  "generico/motor-xd137032fbc": [
+   "default",
+   "dark"
+  ],
+  "generico/motor-xaec2bd1dd8": [
+   "default",
+   "dark"
+  ],
+  "generico/motor-x2567439b71": [
+   "default",
+   "dark"
+  ],
+  "generico/motor-x8e16fe9f47": [
+   "default",
+   "dark"
+  ],
+  "generico/motor-x56ab2fbeb8": [
+   "default",
+   "dark"
+  ],
+  "generico/motor-x192224e5e1": [
+   "default",
+   "dark"
+  ],
+  "generico/motor-x67eb3400e7": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-boxeo": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-boxing": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-boxe": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-fight": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-lucha": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-wrestling": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-mma": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-boks": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-boksen": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-boxen": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-boxning": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-nyrkkeily": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-boksing": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-boksning": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-pugilato": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-kampfsport": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-artesmarciales": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-gures": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-dovus": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-tinju": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-x7e2a0f35df": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-x433bea8aa3": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-x588ff9538e": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-xd838f8e9ba": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-x6596bab908": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-x0899828dde": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-x9de8aa11e9": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-x80f259575b": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-xc689b54e19": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-xacb8cbca41": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-x7946687120": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-xa5fadd9ae3": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-x4e9bf8f18c": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-xa43723a09f": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-x05a20c3f1f": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-xab8bd8f45d": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-xb5449fece6": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-x0098a0759a": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-x6d5c904f19": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-x63504289b6": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-x8f8f4d98dd": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-x2855aa745b": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-x307a9db777": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-xb291618883": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-x9c7f364efc": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-x2ba123946d": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-xa5608771be": [
+   "default",
+   "dark"
+  ],
+  "generico/lucha-x1e68b713d3": [
    "default",
    "dark"
   ],
@@ -696,7 +3414,7 @@
    "default",
    "dark"
   ],
-  "generico/musica-musik": [
+  "generico/musica-music": [
    "default",
    "dark"
   ],
@@ -704,7 +3422,7 @@
    "default",
    "dark"
   ],
-  "generico/musica-muzica": [
+  "generico/musica-musik": [
    "default",
    "dark"
   ],
@@ -720,99 +3438,147 @@
    "default",
    "dark"
   ],
-  "generico/naturaleza-animales": [
+  "generico/musica-muzica": [
    "default",
    "dark"
   ],
-  "generico/naturaleza-animali": [
+  "generico/musica-musikk": [
    "default",
    "dark"
   ],
-  "generico/naturaleza-animals": [
+  "generico/musica-musiikki": [
    "default",
    "dark"
   ],
-  "generico/naturaleza-animaux": [
+  "generico/musica-hudba": [
    "default",
    "dark"
   ],
-  "generico/naturaleza-doga": [
+  "generico/musica-zene": [
    "default",
    "dark"
   ],
-  "generico/naturaleza-natur": [
+  "generico/musica-glazba": [
    "default",
    "dark"
   ],
-  "generico/naturaleza-natura": [
+  "generico/musica-muzika": [
    "default",
    "dark"
   ],
-  "generico/naturaleza-naturaleza": [
+  "generico/musica-glasba": [
    "default",
    "dark"
   ],
-  "generico/naturaleza-nature": [
+  "generico/musica-muzike": [
    "default",
    "dark"
   ],
-  "generico/naturaleza-natureza": [
+  "generico/musica-amnhac": [
    "default",
    "dark"
   ],
-  "generico/naturaleza-natuur": [
+  "generico/musica-x5bd6ccf6be": [
    "default",
    "dark"
   ],
-  "generico/naturaleza-tiere": [
+  "generico/musica-x5e45b488b7": [
    "default",
    "dark"
   ],
-  "generico/naturaleza-wildlife": [
+  "generico/musica-x5f6f858f31": [
    "default",
    "dark"
   ],
-  "generico/navidad-christmas": [
+  "generico/musica-x823d010f68": [
    "default",
    "dark"
   ],
-  "generico/navidad-jul": [
+  "generico/musica-xdc249f4a96": [
    "default",
    "dark"
   ],
-  "generico/navidad-kerst": [
+  "generico/musica-xa6c34b6850": [
    "default",
    "dark"
   ],
-  "generico/navidad-kerstmis": [
+  "generico/musica-x0851d60ea2": [
    "default",
    "dark"
   ],
-  "generico/navidad-natal": [
+  "generico/musica-xd2cc352003": [
    "default",
    "dark"
   ],
-  "generico/navidad-natale": [
+  "generico/musica-xcaa51545d9": [
    "default",
    "dark"
   ],
-  "generico/navidad-navidad": [
+  "generico/musica-x24e2660d4a": [
    "default",
    "dark"
   ],
-  "generico/navidad-noel": [
+  "generico/musica-xb5bfca6fee": [
    "default",
    "dark"
   ],
-  "generico/navidad-weihnachten": [
+  "generico/musica-x40b42837b2": [
    "default",
    "dark"
   ],
-  "generico/navidad-xmas": [
+  "generico/musica-xa86340bd44": [
    "default",
    "dark"
   ],
-  "generico/navidad-yilbasi": [
+  "generico/musica-xc77e6fa063": [
+   "default",
+   "dark"
+  ],
+  "generico/musica-x414a7aadc6": [
+   "default",
+   "dark"
+  ],
+  "generico/musica-xd6d58531e9": [
+   "default",
+   "dark"
+  ],
+  "generico/musica-x6376c97463": [
+   "default",
+   "dark"
+  ],
+  "generico/musica-x06532a0082": [
+   "default",
+   "dark"
+  ],
+  "generico/musica-xafb3c40c39": [
+   "default",
+   "dark"
+  ],
+  "generico/musica-xf7ec64c3a6": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-noticias": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-news": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-infos": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-notizie": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-nachrichten": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-nieuws": [
    "default",
    "dark"
   ],
@@ -824,31 +3590,7 @@
    "default",
    "dark"
   ],
-  "generico/noticias-infos": [
-   "default",
-   "dark"
-  ],
-  "generico/noticias-nachrichten": [
-   "default",
-   "dark"
-  ],
-  "generico/noticias-news": [
-   "default",
-   "dark"
-  ],
-  "generico/noticias-nieuws": [
-   "default",
-   "dark"
-  ],
-  "generico/noticias-noticias": [
-   "default",
-   "dark"
-  ],
-  "generico/noticias-notizie": [
-   "default",
-   "dark"
-  ],
-  "generico/noticias-nyheter": [
+  "generico/noticias-wiadomosci": [
    "default",
    "dark"
   ],
@@ -856,7 +3598,483 @@
    "default",
    "dark"
   ],
-  "generico/noticias-wiadomosci": [
+  "generico/noticias-nyheter": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-nyheder": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-uutiset": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-zpravy": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-spravy": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-hirek": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-vijesti": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-vesti": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-novice": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-lajme": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-noticies": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-berita": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-tintuc": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-actualites": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-informativos": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-noticiario": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-xd562cb0f03": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-xcd0f3ecc8d": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-xb8e05103de": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-x23f6ce19e0": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-xd5582e8e7f": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-x5c59e64e0d": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-xc10d579772": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-x86b5489e33": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-x1e69f5e459": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-x21a0affe88": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-x03bea7e98b": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-x12bc6b682f": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-x9b36721960": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-xb2f07c8fa5": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-xcfe98f58a4": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-x7745f60c67": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-x5ba06d22b2": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-xa35ba01062": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-x81d6a19ceb": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-x68cd1ffec8": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-x80f95ea504": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-x76484b3b88": [
+   "default",
+   "dark"
+  ],
+  "generico/noticias-x1e685b43b4": [
+   "default",
+   "dark"
+  ],
+  "generico/western-western": [
+   "default",
+   "dark"
+  ],
+  "generico/western-westerns": [
+   "default",
+   "dark"
+  ],
+  "generico/western-oeste": [
+   "default",
+   "dark"
+  ],
+  "generico/western-faroeste": [
+   "default",
+   "dark"
+  ],
+  "generico/western-x721979059d": [
+   "default",
+   "dark"
+  ],
+  "generico/western-x204779e91a": [
+   "default",
+   "dark"
+  ],
+  "generico/western-xb9591b7616": [
+   "default",
+   "dark"
+  ],
+  "generico/western-x6e7b446b32": [
+   "default",
+   "dark"
+  ],
+  "generico/western-x16cf4ba922": [
+   "default",
+   "dark"
+  ],
+  "generico/western-xc17d098687": [
+   "default",
+   "dark"
+  ],
+  "generico/western-x1902b73552": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-drama": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-dramas": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-drame": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-dramma": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-drammatico": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-dramatico": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-dram": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-dramat": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-draama": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-xee861e959f": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-xab9b716dfd": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-x6dbe6e4cf6": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-x0ecf1525e2": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-x4426e749e4": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-x82ca44b725": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-x3b03c5d193": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-xc8ad5a2b7f": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-x4a5b8d1f33": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-xe32b6ecf94": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-xfef042df51": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-x893d4acca9": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-x6c14c05ad7": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-xc82d206675": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-xca1d7dd827": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-x6c3bb4d765": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-xcbeffbe8ec": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-x9c79351937": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-x066051e9af": [
+   "default",
+   "dark"
+  ],
+  "generico/drama-xb6d32ef618": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-romance": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-romantico": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-romantic": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-romantique": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-romantici": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-romantik": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-amor": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-love": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-amour": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-amore": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-liebe": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-romantika": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-romantikus": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-romantisch": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-romantiek": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-xce22834518": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-xb998dea7f4": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-xadd64dc22a": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-x3e9d58599c": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-xc82f4aa1e3": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-x0fe2a3168d": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-x91993be6a2": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-x75667b5bc2": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-xfea05f6f30": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-xf8ac5ee507": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-x5fe68d6c40": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-x76913ad326": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-x2aa904f0fc": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-xab511dab51": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-x8d251f2992": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-x7ab2ce2406": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-x63d6bc8a38": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-x2f8e4de6f0": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-x884b2f38f8": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-x9bc96a93d6": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-xe2a0ced198": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-x1ac7a8936c": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-xd742216167": [
+   "default",
+   "dark"
+  ],
+  "generico/romance-xce0b0c8306": [
+   "default",
+   "dark"
+  ],
+  "generico/novelas-novelas": [
+   "default",
+   "dark"
+  ],
+  "generico/novelas-telenovelas": [
    "default",
    "dark"
   ],
@@ -864,7 +4082,7 @@
    "default",
    "dark"
   ],
-  "generico/novelas-novelas": [
+  "generico/novelas-telenovela": [
    "default",
    "dark"
   ],
@@ -876,171 +4094,575 @@
    "default",
    "dark"
   ],
-  "generico/novelas-telenovela": [
+  "generico/novelas-x23f3ec7792": [
    "default",
    "dark"
   ],
-  "generico/novelas-telenovelas": [
+  "generico/novelas-xe70bc3ae27": [
    "default",
    "dark"
   ],
-  "generico/peliculas-cine": [
+  "generico/animacion-animacion": [
    "default",
    "dark"
   ],
-  "generico/peliculas-cinema": [
+  "generico/animacion-animation": [
    "default",
    "dark"
   ],
-  "generico/peliculas-film": [
+  "generico/animacion-animazione": [
    "default",
    "dark"
   ],
-  "generico/peliculas-filme": [
+  "generico/animacion-animacao": [
    "default",
    "dark"
   ],
-  "generico/peliculas-filmes": [
+  "generico/animacion-anime": [
    "default",
    "dark"
   ],
-  "generico/peliculas-films": [
+  "generico/animacion-cartoons": [
    "default",
    "dark"
   ],
-  "generico/peliculas-filmy": [
+  "generico/animacion-cartoon": [
    "default",
    "dark"
   ],
-  "generico/peliculas-kino": [
+  "generico/animacion-dibujos": [
    "default",
    "dark"
   ],
-  "generico/peliculas-movie": [
+  "generico/animacion-animados": [
    "default",
    "dark"
   ],
-  "generico/peliculas-movies": [
+  "generico/animacion-dessinsanimes": [
    "default",
    "dark"
   ],
-  "generico/peliculas-peliculas": [
+  "generico/animacion-zeichentrick": [
    "default",
    "dark"
   ],
-  "generico/peliculas-sinema": [
+  "generico/animacion-cizgifilm": [
    "default",
    "dark"
   ],
-  "generico/reality-realities": [
+  "generico/animacion-tegnefilm": [
    "default",
    "dark"
   ],
-  "generico/reality-reality": [
+  "generico/animacion-tecknat": [
    "default",
    "dark"
   ],
-  "generico/reality-realityshow": [
+  "generico/animacion-animaatio": [
    "default",
    "dark"
   ],
-  "generico/reality-realityshows": [
+  "generico/animacion-animowane": [
    "default",
    "dark"
   ],
-  "generico/reality-telerealite": [
+  "generico/animacion-bajki": [
    "default",
    "dark"
   ],
-  "generico/reality-telerrealidad": [
+  "generico/animacion-kreslene": [
    "default",
    "dark"
   ],
-  "generico/romance-amor": [
+  "generico/animacion-rajzfilmek": [
    "default",
    "dark"
   ],
-  "generico/romance-amore": [
+  "generico/animacion-rajzfilm": [
    "default",
    "dark"
   ],
-  "generico/romance-amour": [
+  "generico/animacion-crtani": [
    "default",
    "dark"
   ],
-  "generico/romance-liebe": [
+  "generico/animacion-crtici": [
    "default",
    "dark"
   ],
-  "generico/romance-love": [
+  "generico/animacion-risanke": [
    "default",
    "dark"
   ],
-  "generico/romance-romance": [
+  "generico/animacion-deseneanimate": [
    "default",
    "dark"
   ],
-  "generico/romance-romantic": [
+  "generico/animacion-desene": [
    "default",
    "dark"
   ],
-  "generico/romance-romantici": [
+  "generico/animacion-dibuixos": [
    "default",
    "dark"
   ],
-  "generico/romance-romantico": [
+  "generico/animacion-tekenfilms": [
    "default",
    "dark"
   ],
-  "generico/romance-romantik": [
+  "generico/animacion-animasi": [
    "default",
    "dark"
   ],
-  "generico/romance-romantique": [
+  "generico/animacion-hoathinh": [
    "default",
    "dark"
   ],
-  "generico/series-dizi": [
+  "generico/animacion-desenhos": [
    "default",
    "dark"
   ],
-  "generico/series-seriale": [
+  "generico/animacion-desenhosanimados": [
    "default",
    "dark"
   ],
-  "generico/series-serialetv": [
+  "generico/animacion-cartoni": [
    "default",
    "dark"
   ],
-  "generico/series-serials": [
+  "generico/animacion-cartonianimati": [
    "default",
    "dark"
   ],
-  "generico/series-serie": [
+  "generico/animacion-dibujosanimados": [
    "default",
    "dark"
   ],
-  "generico/series-serien": [
+  "generico/animacion-xe52f798bf2": [
    "default",
    "dark"
   ],
-  "generico/series-series": [
+  "generico/animacion-x51d71109aa": [
    "default",
    "dark"
   ],
-  "generico/suspense-misterio": [
+  "generico/animacion-xdf7517951e": [
    "default",
    "dark"
   ],
-  "generico/suspense-mistero": [
+  "generico/animacion-x626dd44380": [
    "default",
    "dark"
   ],
-  "generico/suspense-mystere": [
+  "generico/animacion-xdc56a1dc40": [
    "default",
    "dark"
   ],
-  "generico/suspense-mystery": [
+  "generico/animacion-xae32862fc9": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-x276b25d34c": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-xb10e2518ed": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-xa66050473a": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-xfe509a9ec2": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-x02e9622200": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-x559a3eda2f": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-xc40f5d2599": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-xc4502e450d": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-xe9498fb06e": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-xccc4978f11": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-x867a2e5591": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-xf6b469bdf2": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-x013f7dd539": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-x4697f2ae62": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-x2b24c6794f": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-xd783aab4ba": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-x0cd2814678": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-x6bc6550162": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-xfb4479c2e6": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-xd80fba1f98": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-x37f805eb9e": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-xa3aac6b565": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-x6f4617f4d6": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-x430b9bfb57": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-x70092af8e5": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-xcc40a6fc67": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-x135f634fed": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-x9ccfc4d6f7": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-x8ca4a7b3fe": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-x84ec62144c": [
+   "default",
+   "dark"
+  ],
+  "generico/animacion-x15c182865e": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-cienciaficcion": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-scifi": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-sciencefiction": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-fantascienza": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-ficcaocientifica": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-bilimkurgu": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-fantasy": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-fantasia": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-fantastique": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-fantastyka": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-x322928e499": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-xb3a72ad67e": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-x5a2e7bc64a": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-xa8abb19375": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-x918e1977f7": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-xf00ef0d066": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-x6dff15c415": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-x0e67d628b0": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-xe0da150d75": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-x4721117c31": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-xd9cdfd6871": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-x00a7b716e7": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-x04673eb9ed": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-xc9174c7902": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-xea086019bd": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-xd3535ea827": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-x1da177c121": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-xb2c91581d6": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-x9b4ea2c4be": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-x8d8943ae31": [
+   "default",
+   "dark"
+  ],
+  "generico/cienciaficcion-x5e5a44705f": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-crimen": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-crime": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-crimes": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-criminal": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-krimi": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-policiaco": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-polar": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-giallo": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-suc": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-kriminal": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-kryminal": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-bunugyi": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-misdaad": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-rikos": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-policial": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-x3fe5d120d5": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-x8984b2f849": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-x6569c26887": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-x5410912cff": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-xe6d37e3f6e": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-xa926d99ad6": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-x3069152601": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-x682036605d": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-x15e9458e40": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-x9ea632373a": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-x1a6e89e6ae": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-x33f08e465a": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-xec0c62f17f": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-x0cfd5fe2a4": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-xfe3820ac11": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-xf93b75b1da": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-xf6a2ef58ef": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-x1e7376f6f1": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-x506180d4a5": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-xbbd369bb70": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-xd39a51b844": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-x3679d9f812": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-x01cd265444": [
+   "default",
+   "dark"
+  ],
+  "generico/crimen-x859fcadd1d": [
    "default",
    "dark"
   ],
@@ -1060,67 +4682,963 @@
    "default",
    "dark"
   ],
-  "generico/tenis-tenis": [
+  "generico/suspense-misterio": [
    "default",
    "dark"
   ],
-  "generico/tenis-tennis": [
+  "generico/suspense-mystery": [
    "default",
    "dark"
   ],
-  "generico/terror-grusel": [
+  "generico/suspense-mistero": [
    "default",
    "dark"
   ],
-  "generico/terror-horreur": [
+  "generico/suspense-mystere": [
    "default",
    "dark"
   ],
-  "generico/terror-horror": [
+  "generico/suspense-spanning": [
    "default",
    "dark"
   ],
-  "generico/terror-korku": [
+  "generico/suspense-gerilim": [
    "default",
    "dark"
   ],
-  "generico/terror-skrack": [
+  "generico/suspense-jannitys": [
    "default",
    "dark"
   ],
-  "generico/terror-terror": [
+  "generico/suspense-thrillery": [
    "default",
    "dark"
   ],
-  "generico/viajes-podroze": [
+  "generico/suspense-xc3437eb394": [
    "default",
    "dark"
   ],
-  "generico/viajes-reisen": [
+  "generico/suspense-x59e04f417a": [
    "default",
    "dark"
   ],
-  "generico/viajes-seyahat": [
+  "generico/suspense-x3310c9035d": [
    "default",
    "dark"
   ],
-  "generico/viajes-travel": [
+  "generico/suspense-x4599e9c8a4": [
    "default",
    "dark"
   ],
-  "generico/viajes-turismo": [
+  "generico/suspense-x05ef55f6eb": [
    "default",
    "dark"
   ],
-  "generico/viajes-viagens": [
+  "generico/suspense-x29435db7b9": [
    "default",
    "dark"
   ],
-  "generico/viajes-viaggi": [
+  "generico/suspense-x760d8e732c": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-x7b928fb8e5": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-x686084b297": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-x9f01aa8f81": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-x368e509719": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-x803b0a9080": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-xddbfc73a2c": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-x1e7a252892": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-x9e3c287904": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-x6d38cbb764": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-xed21826bcb": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-xa318b4f4dc": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-xa12f9d126b": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-x67b47e7a7b": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-x60c1d8b934": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-x695cf36d16": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-x610d70341e": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-x90b12f2050": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-x8399f2a751": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-x030d5088eb": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-x7ccf486031": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-x3505ff2120": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-xe365cb5030": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-x66b4e34678": [
+   "default",
+   "dark"
+  ],
+  "generico/suspense-x476dde64c0": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-familia": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-family": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-famille": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-famiglia": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-familie": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-aile": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-rodzina": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-familiar": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-familj": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-perhe": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-rodina": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-csalad": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-csaladi": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-obitelj": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-porodica": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-druzina": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-familja": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-keluarga": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-giainh": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-xba6ba8ca6d": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-x161d7d7b33": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-x51496baf88": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-xc676fbd2b7": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-xe4de0842b3": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-x24800aa5b2": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-x0d2b1630e0": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-x349e4648e0": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-xd36a5ce9ae": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-x5afe927779": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-x5d31a4c7ca": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-x7e081cea60": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-x83c3f46b96": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-x850886d8a7": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-x926c043fcf": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-x59b4de98a6": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-x1e8d5bfb35": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-xf4261445c3": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-x03895b26b9": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-xf3440eb1ce": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-x6cde1262df": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-x242e8e5c3f": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-x7cc8d6a508": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-x1fa999577a": [
+   "default",
+   "dark"
+  ],
+  "generico/familia-xe6305d5aa6": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-clasicos": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-classics": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-classic": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-classiques": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-classici": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-klassiker": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-classicos": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-klasik": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-clasico": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-klassiekers": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-klassikot": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-klasyka": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-klasika": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-klasszikusok": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-klasikler": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-klassisk": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-x3e6bd93881": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-x9ea2df23f1": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-xb628dcbfc3": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-x6b2f1b212f": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-x6f86a3280e": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-x5422ab3190": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-xe4d4bb298b": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-x0a4b027952": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-x019fc46621": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-x4203aa7345": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-x18651c9d02": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-x7952efa021": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-x9adad6e8c7": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-x7e8ef0af1f": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-x5ac49557fb": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-xea12219d0e": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-x393767b195": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-xc0ca4b88a4": [
+   "default",
+   "dark"
+  ],
+  "generico/clasicos-x0b466aa5a2": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-estrenos": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-premieres": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-premiere": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-estreias": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-primevisioni": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-premiery": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-lancamentos": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-newreleases": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-nuoveuscite": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-vizyon": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-premiarer": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-estrenes": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-x49cdb90ec7": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-x8485fd0eba": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-x5c3413b343": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-x5e6aa08949": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-xf36d18c4a8": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-xfca998648a": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-x359068ffde": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-x47025ab36b": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-x5861e10ba2": [
+   "default",
+   "dark"
+  ],
+  "generico/estrenos-x9b4f85a230": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-navidad": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-christmas": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-xmas": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-noel": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-natale": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-weihnachten": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-natal": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-kerst": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-kerstmis": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-jul": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-yilbasi": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-joulu": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-vanoce": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-vianoce": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-karacsony": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-bozic": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-craciun": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-nadal": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-bozenarodzenie": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-swieta": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-giangsinh": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-krishtlindje": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-xb1bece5270": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-x94dd824be3": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-x6e0fa965cf": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-xf1a6d7d6be": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-xd1ac1340f8": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-x56d812fa27": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-xb8c7249a4a": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-x1fc32b3d2b": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-xc2d150b3b9": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-x3dde130af9": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-xdab3f22786": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-x7ef953cae0": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-xa646289ad7": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-x5a1fbcde53": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-xb8bde29099": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-x64f50f60ac": [
+   "default",
+   "dark"
+  ],
+  "generico/navidad-x340a88f0b7": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-cocina": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-cooking": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-food": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-cuisine": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-cucina": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-kochen": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-culinaria": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-yemek": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-gotowanie": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-gastronomia": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-matlagning": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-ruoka": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-koken": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-kuchnia": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-vareni": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-varenie": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-fozes": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-gasztro": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-kuhanje": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-kuvanje": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-gatit": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-cuina": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-masak": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-masakan": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-kuliner": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-amthuc": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-mutfak": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-comida": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-gourmet": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-recetas": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-x49d2bea0fe": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-xaed56e68a6": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-xb50bf381dd": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-x2a3d02c76c": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-x36d88d710f": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-x9994df5e08": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-x01b8d7c649": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-xf129646d5d": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-x3dfe1b3a2f": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-xc75be674d3": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-x3944fbff8c": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-x400c905f3f": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-x64bedcd174": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-xa9377a66d9": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-xee02d6e4f7": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-xa348e5dddd": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-x225cadc634": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-xb12b2932da": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-xa5a1bd8e87": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-xdc9101aaf3": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-x75f8e418c7": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-x70e49ae967": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-x2642be60f2": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-xdf2144b498": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-x577b0205c6": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-x821d24d0a5": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-xadcc7c4f90": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-xd601839da0": [
+   "default",
+   "dark"
+  ],
+  "generico/cocina-xf853af2e2e": [
    "default",
    "dark"
   ],
   "generico/viajes-viajes": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-travel": [
    "default",
    "dark"
   ],
@@ -1132,319 +5650,1209 @@
    "default",
    "dark"
   ],
-  "generico/western-oeste": [
+  "generico/viajes-viaggi": [
    "default",
    "dark"
   ],
-  "generico/western-western": [
+  "generico/viajes-reisen": [
    "default",
    "dark"
   ],
-  "generico/western-westerns": [
+  "generico/viajes-viagens": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-seyahat": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-podroze": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-turismo": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-resor": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-reiser": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-rejser": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-matkailu": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-reizen": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-cestovani": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-cestovanie": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-utazas": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-putovanja": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-potovanja": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-calatorii": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-viatges": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-wisata": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-perjalanan": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-dulich": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-gezi": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-viagem": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-tourism": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-tourisme": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-x40d3bc16ce": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-xf3743dacf1": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-x1e8b1765ca": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-xece7f6bc23": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-xba09231473": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-x0dafc64e96": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-x80caab5f01": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-x16c87c974e": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-xa74ecc3b5d": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-x72b93a32d0": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-xaa2a11ed25": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-x874dfbeff1": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-x34ec679ffd": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-xac7127fdb9": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-x615d6b547d": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-x513aa98da9": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-xa2a468d291": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-x4d339f0203": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-xeccb2b8a0c": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-x0943e72f63": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-x92c1b6c8fd": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-xc97395ef9a": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-x49a9d6b3c3": [
+   "default",
+   "dark"
+  ],
+  "generico/viajes-x6cf7de7318": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-naturaleza": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-nature": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-natura": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-natur": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-natureza": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-doga": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-natuur": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-animales": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-animals": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-animaux": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-animali": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-tiere": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-wildlife": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-luonto": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-elaimet": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-dieren": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-przyroda": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-zwierzeta": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-priroda": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-zvirata": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-termeszet": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-allatok": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-narava": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-alam": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-hewan": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-thiennhien": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-hayvanlar": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-djur": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-animais": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-vidasalvaje": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-fauna": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-x210960fc31": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-x0085afb774": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-xa809755e36": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-xeb9a995783": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-x56f9798799": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-xa671c79c23": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-xe33351cf96": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-xb1821d3f27": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-x12afd1c5c5": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-x1a27ebf59b": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-xed7e080545": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-xfa78e8a94b": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-x92c659f532": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-x11a2941765": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-x2e4cf80413": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-x8298b8692f": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-xb5894654c0": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-x40d3e347d9": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-x62f6b02883": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-x21a405faf4": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-x07c122fa25": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-xacfcddfd59": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-x3ddaaaa753": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-xd63f619942": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-x09e7384c81": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-xbc7d035bb2": [
+   "default",
+   "dark"
+  ],
+  "generico/naturaleza-x41ac3e62af": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-reality": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-realities": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-realityshow": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-realityshows": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-telerealite": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-telerrealidad": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-x60f2595952": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-x375cf36a30": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-xe4cbb901ea": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-x0ad8fb15d0": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-x29c024640f": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-x65725cbea8": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-x575420bbb8": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-x9deb76b1b9": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-x9e06f3b929": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-xb31e01f1c1": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-x11ed60823b": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-xaebddc455c": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-x05a895e6f6": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-x60c230a74c": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-x1f02de556f": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-x7ae253ee43": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-x61b0e2eaf3": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-x6ba85c42bf": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-x2418e8f9ee": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-xe9fb7d54e1": [
+   "default",
+   "dark"
+  ],
+  "generico/reality-x93cb18423d": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-guerra": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-war": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-guerre": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-krieg": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-savas": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-belico": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-bellico": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-krig": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-sota": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-oorlog": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-wojenne": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-wojna": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-valecne": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-valka": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-vojna": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-haboru": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-haborus": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-ratni": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-razboi": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-perang": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-chientranh": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-bellici": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-x5641085770": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-xc79e1fe5d6": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-x9897823c94": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-xc50059c504": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-xcc1095ab84": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-x162ca6abc6": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-x37383d38f6": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-x544cecf97f": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-x646fb394e7": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-xb2155e1c0a": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-x4b24325ab8": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-xcf75ebb19d": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-x48ecf0d1f2": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-x95647d11a9": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-x95dad83b8a": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-x124add2bfd": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-x6ce5311ac8": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-xcb207040a8": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-x42c33a95f2": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-xb324fe2c5c": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-x0ad4aaac01": [
+   "default",
+   "dark"
+  ],
+  "generico/guerra-x284dda4273": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-aventura": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-aventuras": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-adventure": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-adventures": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-aventure": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-avventura": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-abenteuer": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-macera": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-aventyr": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-eventyr": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-seikkailu": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-avontuur": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-przygodowe": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-przygoda": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-dobrodruzne": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-kaland": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-avantura": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-pustolovscina": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-pustolovina": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-aventures": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-petualangan": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-phieuluu": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-avventure": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-xe559dab9f4": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-x7bed4d9b52": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-xcbb14f73e4": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-x53d59a21bf": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-x663ef10097": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-x37442427b7": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-x1668771e58": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-x622035f8a3": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-x390cb7a625": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-x1c64eb617f": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-x1f2fe645dd": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-x4b3d120d1c": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-x4aadf00469": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-x3b3d461a14": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-x7158501212": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-x63538bb15d": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-x6deffc9c57": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-x9564220726": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-x1cb861bb3f": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-x9722abd03a": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-xd787264272": [
+   "default",
+   "dark"
+  ],
+  "generico/aventura-xffbfd0d2cc": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-historia": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-history": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-histoire": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-storia": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-geschichte": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-tarih": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-historie": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-geschiedenis": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-tortenelem": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-povijest": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-istorija": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-zgodovina": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-istorie": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-sejarah": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-lichsu": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-dejiny": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-histori": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-x9d4bd15d6a": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-x97e6db0194": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-x4a9e7eff26": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-x05c4148ff5": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-x6d5892d913": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-xd94d702d83": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-x46a54865b8": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-x8726f8f528": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-x94812e9063": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-x0e5f1e5a78": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-x4fe8a912c9": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-x2fd251fda8": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-x64494d92b8": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-xbe78b20585": [
+   "default",
+   "dark"
+  ],
+  "generico/historia-x41e84cd892": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-evento": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-eventos": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-event": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-events": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-evenement": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-evenements": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-ereignis": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-veranstaltung": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-evenemang": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-begivenhed": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-tapahtuma": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-wydarzenie": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-udalost": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-esemeny": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-eveniment": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-dogaaj": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-dogodek": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-ngjarje": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-esdeveniment": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-etkinlik": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-acara": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-sukien": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-x1d443c25ca": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-x10f8304d70": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-x33554c8351": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-xb2fb342df5": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-x302351895a": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-x50145caa2a": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-x4bff8777df": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-x22518f4cfd": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-x1d18b0b179": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-x7d6c06bc8e": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-x03e1d7d3ac": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-x2266a5aaa7": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-x06c1d79075": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-x679da09291": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-x01c8fd7d2a": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-x926c9546f0": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-xa0b62623e8": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-x897a0ad905": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-x36404e60ba": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-xab4d9ded10": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-xb2548636f0": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-x47e6c61bb4": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-x51cb076743": [
+   "default",
+   "dark"
+  ],
+  "generico/evento-x0d53c447c8": [
    "default",
    "dark"
   ]
- },
- "genericos": {
-  "abenteuer": "generico/aventura-abenteuer",
-  "acao": "generico/accion-acao",
-  "accion": "generico/accion-accion",
-  "action": "generico/accion-action",
-  "actiune": "generico/accion-actiune",
-  "adventure": "generico/aventura-adventure",
-  "adventures": "generico/aventura-adventures",
-  "aile": "generico/familia-aile",
-  "akcja": "generico/accion-akcja",
-  "aksiyon": "generico/accion-aksiyon",
-  "amor": "generico/romance-amor",
-  "amore": "generico/romance-amore",
-  "amour": "generico/romance-amour",
-  "animacao": "generico/animacion-animacao",
-  "animacion": "generico/animacion-animacion",
-  "animados": "generico/animacion-animados",
-  "animales": "generico/naturaleza-animales",
-  "animali": "generico/naturaleza-animali",
-  "animals": "generico/naturaleza-animals",
-  "animation": "generico/animacion-animation",
-  "animaux": "generico/naturaleza-animaux",
-  "animazione": "generico/animacion-animazione",
-  "anime": "generico/animacion-anime",
-  "automobilismo": "generico/motor-automobilismo",
-  "aventura": "generico/aventura-aventura",
-  "aventuras": "generico/aventura-aventuras",
-  "aventure": "generico/aventura-aventure",
-  "avventura": "generico/aventura-avventura",
-  "azione": "generico/accion-azione",
-  "baloncesto": "generico/baloncesto-baloncesto",
-  "bambini": "generico/infantil-bambini",
-  "barn": "generico/infantil-barn",
-  "basket": "generico/baloncesto-basket",
-  "basketball": "generico/baloncesto-basketball",
-  "basquet": "generico/baloncesto-basquet",
-  "basquete": "generico/baloncesto-basquete",
-  "belgesel": "generico/documentales-belgesel",
-  "belico": "generico/guerra-belico",
-  "bellico": "generico/guerra-bellico",
-  "bilimkurgu": "generico/cienciaficcion-bilimkurgu",
-  "boxe": "generico/lucha-boxe",
-  "boxeo": "generico/lucha-boxeo",
-  "boxing": "generico/lucha-boxing",
-  "calcio": "generico/futbol-calcio",
-  "cartoon": "generico/animacion-cartoon",
-  "cartoons": "generico/animacion-cartoons",
-  "christmas": "generico/navidad-christmas",
-  "cienciaficcion": "generico/cienciaficcion-cienciaficcion",
-  "cine": "generico/peliculas-cine",
-  "cinema": "generico/peliculas-cinema",
-  "cizgifilm": "generico/animacion-cizgifilm",
-  "clasico": "generico/clasicos-clasico",
-  "clasicos": "generico/clasicos-clasicos",
-  "classic": "generico/clasicos-classic",
-  "classici": "generico/clasicos-classici",
-  "classicos": "generico/clasicos-classicos",
-  "classics": "generico/clasicos-classics",
-  "classiques": "generico/clasicos-classiques",
-  "cocina": "generico/cocina-cocina",
-  "cocuk": "generico/infantil-cocuk",
-  "comedia": "generico/comedia-comedia",
-  "comedie": "generico/comedia-comedie",
-  "comedy": "generico/comedia-comedy",
-  "commedia": "generico/comedia-commedia",
-  "cooking": "generico/cocina-cooking",
-  "copii": "generico/infantil-copii",
-  "criancas": "generico/infantil-criancas",
-  "crime": "generico/crimen-crime",
-  "crimen": "generico/crimen-crimen",
-  "crimes": "generico/crimen-crimes",
-  "criminal": "generico/crimen-criminal",
-  "cucina": "generico/cocina-cucina",
-  "cuisine": "generico/cocina-cuisine",
-  "culinaria": "generico/cocina-culinaria",
-  "deporte": "generico/deportes-deporte",
-  "deportes": "generico/deportes-deportes",
-  "desporto": "generico/deportes-desporto",
-  "dessinsanimes": "generico/animacion-dessinsanimes",
-  "dibujos": "generico/animacion-dibujos",
-  "dizi": "generico/series-dizi",
-  "docs": "generico/documentales-docs",
-  "documentaire": "generico/documentales-documentaire",
-  "documentaires": "generico/documentales-documentaires",
-  "documental": "generico/documentales-documental",
-  "documentales": "generico/documentales-documentales",
-  "documentare": "generico/documentales-documentare",
-  "documentari": "generico/documentales-documentari",
-  "documentaries": "generico/documentales-documentaries",
-  "documentarios": "generico/documentales-documentarios",
-  "documentary": "generico/documentales-documentary",
-  "doga": "generico/naturaleza-doga",
-  "doku": "generico/documentales-doku",
-  "dokumentar": "generico/documentales-dokumentar",
-  "dokumentation": "generico/documentales-dokumentation",
-  "dokumenty": "generico/documentales-dokumenty",
-  "dokus": "generico/documentales-dokus",
-  "dram": "generico/drama-dram",
-  "drama": "generico/drama-drama",
-  "dramas": "generico/drama-dramas",
-  "dramat": "generico/drama-dramat",
-  "dramatico": "generico/drama-dramatico",
-  "drame": "generico/drama-drame",
-  "dramma": "generico/drama-dramma",
-  "drammatico": "generico/drama-drammatico",
-  "dzieci": "generico/infantil-dzieci",
-  "enfants": "generico/infantil-enfants",
-  "esportes": "generico/deportes-esportes",
-  "estreias": "generico/estrenos-estreias",
-  "estrenos": "generico/estrenos-estrenos",
-  "famiglia": "generico/familia-famiglia",
-  "familia": "generico/familia-familia",
-  "familiar": "generico/familia-familiar",
-  "familie": "generico/familia-familie",
-  "famille": "generico/familia-famille",
-  "family": "generico/familia-family",
-  "fantascienza": "generico/cienciaficcion-fantascienza",
-  "fantasia": "generico/cienciaficcion-fantasia",
-  "fantastique": "generico/cienciaficcion-fantastique",
-  "fantasy": "generico/cienciaficcion-fantasy",
-  "ficcaocientifica": "generico/cienciaficcion-ficcaocientifica",
-  "fight": "generico/lucha-fight",
-  "film": "generico/peliculas-film",
-  "filme": "generico/peliculas-filme",
-  "filmes": "generico/peliculas-filmes",
-  "films": "generico/peliculas-films",
-  "filmy": "generico/peliculas-filmy",
-  "food": "generico/cocina-food",
-  "football": "generico/futbol-football",
-  "fussball": "generico/futbol-fussball",
-  "futbol": "generico/futbol-futbol",
-  "futebol": "generico/futbol-futebol",
-  "gastronomia": "generico/cocina-gastronomia",
-  "geschichte": "generico/historia-geschichte",
-  "giallo": "generico/crimen-giallo",
-  "golf": "generico/golf-golf",
-  "gotowanie": "generico/cocina-gotowanie",
-  "grusel": "generico/terror-grusel",
-  "guerra": "generico/guerra-guerra",
-  "guerre": "generico/guerra-guerre",
-  "haber": "generico/noticias-haber",
-  "haberler": "generico/noticias-haberler",
-  "histoire": "generico/historia-histoire",
-  "historia": "generico/historia-historia",
-  "history": "generico/historia-history",
-  "horreur": "generico/terror-horreur",
-  "horror": "generico/terror-horror",
-  "humor": "generico/comedia-humor",
-  "humour": "generico/comedia-humour",
-  "infantil": "generico/infantil-infantil",
-  "infantiles": "generico/infantil-infantiles",
-  "infos": "generico/noticias-infos",
-  "jeunesse": "generico/infantil-jeunesse",
-  "jul": "generico/navidad-jul",
-  "kerst": "generico/navidad-kerst",
-  "kerstmis": "generico/navidad-kerstmis",
-  "kids": "generico/infantil-kids",
-  "kinder": "generico/infantil-kinder",
-  "kino": "generico/peliculas-kino",
-  "klasik": "generico/clasicos-klasik",
-  "klassiker": "generico/clasicos-klassiker",
-  "kochen": "generico/cocina-kochen",
-  "komedi": "generico/comedia-komedi",
-  "komedia": "generico/comedia-komedia",
-  "komedie": "generico/comedia-komedie",
-  "komodie": "generico/comedia-komodie",
-  "korku": "generico/terror-korku",
-  "krieg": "generico/guerra-krieg",
-  "krimi": "generico/crimen-krimi",
-  "liebe": "generico/romance-liebe",
-  "love": "generico/romance-love",
-  "lucha": "generico/lucha-lucha",
-  "macera": "generico/aventura-macera",
-  "misterio": "generico/suspense-misterio",
-  "mistero": "generico/suspense-mistero",
-  "mma": "generico/lucha-mma",
-  "motor": "generico/motor-motor",
-  "motori": "generico/motor-motori",
-  "motorsport": "generico/motor-motorsport",
-  "motorsports": "generico/motor-motorsports",
-  "movie": "generico/peliculas-movie",
-  "movies": "generico/peliculas-movies",
-  "music": "generico/musica-music",
-  "musica": "generico/musica-musica",
-  "musik": "generico/musica-musik",
-  "musique": "generico/musica-musique",
-  "muzica": "generico/musica-muzica",
-  "muziek": "generico/musica-muziek",
-  "muzik": "generico/musica-muzik",
-  "muzyka": "generico/musica-muzyka",
-  "mystere": "generico/suspense-mystere",
-  "mystery": "generico/suspense-mystery",
-  "nachrichten": "generico/noticias-nachrichten",
-  "natal": "generico/navidad-natal",
-  "natale": "generico/navidad-natale",
-  "natur": "generico/naturaleza-natur",
-  "natura": "generico/naturaleza-natura",
-  "naturaleza": "generico/naturaleza-naturaleza",
-  "nature": "generico/naturaleza-nature",
-  "natureza": "generico/naturaleza-natureza",
-  "natuur": "generico/naturaleza-natuur",
-  "navidad": "generico/navidad-navidad",
-  "news": "generico/noticias-news",
-  "nieuws": "generico/noticias-nieuws",
-  "ninos": "generico/infantil-ninos",
-  "noel": "generico/navidad-noel",
-  "noticias": "generico/noticias-noticias",
-  "notizie": "generico/noticias-notizie",
-  "novela": "generico/novelas-novela",
-  "novelas": "generico/novelas-novelas",
-  "nyheter": "generico/noticias-nyheter",
-  "oeste": "generico/western-oeste",
-  "peliculas": "generico/peliculas-peliculas",
-  "pilkanozna": "generico/futbol-pilkanozna",
-  "podroze": "generico/viajes-podroze",
-  "polar": "generico/crimen-polar",
-  "policiaco": "generico/crimen-policiaco",
-  "premiere": "generico/estrenos-premiere",
-  "premieres": "generico/estrenos-premieres",
-  "premiery": "generico/estrenos-premiery",
-  "primevisioni": "generico/estrenos-primevisioni",
-  "ragazzi": "generico/infantil-ragazzi",
-  "realities": "generico/reality-realities",
-  "reality": "generico/reality-reality",
-  "realityshow": "generico/reality-realityshow",
-  "realityshows": "generico/reality-realityshows",
-  "reisen": "generico/viajes-reisen",
-  "rodzina": "generico/familia-rodzina",
-  "romance": "generico/romance-romance",
-  "romantic": "generico/romance-romantic",
-  "romantici": "generico/romance-romantici",
-  "romantico": "generico/romance-romantico",
-  "romantik": "generico/romance-romantik",
-  "romantique": "generico/romance-romantique",
-  "savas": "generico/guerra-savas",
-  "sciencefiction": "generico/cienciaficcion-sciencefiction",
-  "scifi": "generico/cienciaficcion-scifi",
-  "seriale": "generico/series-seriale",
-  "serialetv": "generico/series-serialetv",
-  "serials": "generico/series-serials",
-  "serie": "generico/series-serie",
-  "serien": "generico/series-serien",
-  "series": "generico/series-series",
-  "seyahat": "generico/viajes-seyahat",
-  "sinema": "generico/peliculas-sinema",
-  "skrack": "generico/terror-skrack",
-  "soap": "generico/novelas-soap",
-  "soaps": "generico/novelas-soaps",
-  "soccer": "generico/futbol-soccer",
-  "spor": "generico/deportes-spor",
-  "sport": "generico/deportes-sport",
-  "sports": "generico/deportes-sports",
-  "stiri": "generico/noticias-stiri",
-  "storia": "generico/historia-storia",
-  "suc": "generico/crimen-suc",
-  "suspense": "generico/suspense-suspense",
-  "suspenso": "generico/suspense-suspenso",
-  "tarih": "generico/historia-tarih",
-  "telenovela": "generico/novelas-telenovela",
-  "telenovelas": "generico/novelas-telenovelas",
-  "telerealite": "generico/reality-telerealite",
-  "telerrealidad": "generico/reality-telerrealidad",
-  "tenis": "generico/tenis-tenis",
-  "tennis": "generico/tenis-tennis",
-  "terror": "generico/terror-terror",
-  "thriller": "generico/suspense-thriller",
-  "thrillers": "generico/suspense-thrillers",
-  "tiere": "generico/naturaleza-tiere",
-  "travel": "generico/viajes-travel",
-  "turismo": "generico/viajes-turismo",
-  "viagens": "generico/viajes-viagens",
-  "viaggi": "generico/viajes-viaggi",
-  "viajes": "generico/viajes-viajes",
-  "voetbal": "generico/futbol-voetbal",
-  "voyage": "generico/viajes-voyage",
-  "voyages": "generico/viajes-voyages",
-  "war": "generico/guerra-war",
-  "weihnachten": "generico/navidad-weihnachten",
-  "western": "generico/western-western",
-  "westerns": "generico/western-westerns",
-  "wiadomosci": "generico/noticias-wiadomosci",
-  "wildlife": "generico/naturaleza-wildlife",
-  "wrestling": "generico/lucha-wrestling",
-  "xmas": "generico/navidad-xmas",
-  "yemek": "generico/cocina-yemek",
-  "yilbasi": "generico/navidad-yilbasi",
-  "zeichentrick": "generico/animacion-zeichentrick"
- },
- "cine": [
-  "cine",
-  "cinema",
-  "film",
-  "filme",
-  "filmes",
-  "films",
-  "filmy",
-  "kino",
-  "movie",
-  "movies",
-  "peliculas",
-  "sinema"
- ]
+ }
 }

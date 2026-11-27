@@ -26,9 +26,12 @@ lo que ha cambiado, quita lo que ya no está y sube los cambios. También se pue
 Además, lo que añade OnePlay a mano (la tarea semanal no lo toca y lo vuelve a poner en el índice):
 
 - `logos/generico/` y `extra/genericos.json`: los logos **genéricos**, uno por temática y palabra («PELÍCULAS», «COMEDY»,
-  «HORREUR»…) para los canales que solo dicen una temática («PELÍCULAS 24/7»). Diseño propio de OnePlay con los iconos de
+  «HORREUR», «ФИЛЬМЫ», «أفلام», «영화», «फ़िल्में», «电影»…) para los canales que solo dicen una temática («PELÍCULAS 24/7») y
+  para los huecos de eventos de un panel («Evento 05» en la categoría «Baloncesto»). En los idiomas en que escribe un
+  panel, cada uno en su escritura. Diseño propio de OnePlay con los iconos de
   [Material Symbols](https://github.com/google/material-design-icons) (Apache 2.0) y la letra
-  [Inter](https://github.com/rsms/inter) (SIL OFL 1.1). Se generan con `tools/genericos/coleccion.py`.
+  [Inter](https://github.com/rsms/inter) o, en las escrituras que Inter no tiene,
+  [Noto Sans](https://github.com/notofonts) (las dos, SIL OFL 1.1). Se generan con `tools/genericos/coleccion.py`.
 - `logos/extra/` y `extra/oficiales.json`: logos oficiales descargados de la web de cada canal, con su país.
 
 Los logos son marcas de sus respectivos propietarios y se usan solo para identificar cada canal.
