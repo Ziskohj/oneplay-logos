@@ -3762,5 +3762,57 @@
   ],
   "canal": "Warner Channel (Latinoamérica)",
   "origen": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Warner_Channel_2026.svg"
+ },
+ {
+  "logo": "extra/miteleplus",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "miteleplus",
+   "mitele",
+   "miteleplus1",
+   "miteleplus2",
+   "miteleplus3",
+   "miteleplus4",
+   "miteleplus5",
+   "miteleplus6"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Mitele PLUS",
+  "origen": "https://commons.wikimedia.org/wiki/File:Mitele_logo_(2016-2025).svg"
+ },
+ {
+  "logo": "extra/ondacadiz",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "ondacadiz",
+   "ondacadiztv",
+   "ondacadiztelevision",
+   "tvcadizonda"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Onda Cádiz TV",
+  "origen": "https://ondacadiz.es/sites/default/files/programas-tv/imagenes/logo_onda_cadiz_1240x580_1_1.png"
+ },
+ {
+  "logo": "extra/unbeaten",
+  "variantes": [
+   "default"
+  ],
+  "nombres": [
+   "unbeaten",
+   "unbeatensportschannel",
+   "unbeatensports"
+  ],
+  "paises": [],
+  "canal": "Unbeaten",
+  "origen": "https://images.fubo.tv/station_logos/unbeaten_c.png"
  }
 ]
