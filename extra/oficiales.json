@@ -3814,5 +3814,22 @@
   "paises": [],
   "canal": "Unbeaten",
   "origen": "https://images.fubo.tv/station_logos/unbeaten_c.png"
+ },
+ {
+  "logo": "canalsurandalucia",
+  "variantes": [
+   "default",
+   "dark"
+  ],
+  "nombres": [
+   "canalsur",
+   "canalsurtv",
+   "canalsurtelevision"
+  ],
+  "paises": [
+   "ES"
+  ],
+  "canal": "Canal Sur",
+  "origen": "Picons (canalsurandalucia)"
  }
 ]
